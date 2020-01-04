@@ -4,11 +4,11 @@
 
 ## HX1K
 
+* iCEblink40-HX1K
+* iCEstick Evaluation Kit (FTDI)
+* iceZUM Alhambra (FTDI)
 * NANDLand GoBoard (FTDI)
 * Olimex iCE40HX1K-EVB (Serial)
-* IceZUM Alhambra	(FTDI)
-* iCEstick Evaluation Kit	(FTDI)
-* iCEblink40-HX1K
 
 ## HX4K
 
@@ -23,9 +23,9 @@
 * BlackIce (Serial)
 * BlackIce II (Serial)
 * CAT Board (GPIO RPi) - OSHW Raspberry Pi HAT iCE40HX
+* iCE40-HX8K Breakout Board (FTDI)
 * icoBOARD 1.0 (GPIO RPi - [Shop](https://shop.trenz-electronic.de/en/TE0887-03M-icoBoard-Version-1.1-with-8-MBit-SRAM))
 * Kéfir I iCE40-HX4K (FTDI)
-* iCE40-HX8K Breakout Board (FTDI)
 * Alchitry Cu (FTDI)
 
 ## LP4K
