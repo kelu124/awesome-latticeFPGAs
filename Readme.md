@@ -24,6 +24,7 @@
 * BlackIce II (Serial)
 * CAT Board (GPIO RPi) - OSHW Raspberry Pi HAT iCE40HX
 * iCE40-HX8K Breakout Board (FTDI)
+* [iceFUN](https://en.manu-systems.com/DEV-ICEFUN.shtml) (PIC16LF1459)
 * icoBOARD 1.0 (GPIO RPi - [Shop](https://shop.trenz-electronic.de/en/TE0887-03M-icoBoard-Version-1.1-with-8-MBit-SRAM))
 * Kéfir I iCE40-HX4K (FTDI)
 * Alchitry Cu (FTDI)
