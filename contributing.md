@@ -4,7 +4,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 - Alphabetize your entry.
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Suggested READMEs should be beautiful or stand out in some way.
+- Suggested boards should be beautiful or stand out in some way. And ideally be OSH !
 - Make an individual pull request for each suggestion.
 - New categories, or improvements to the existing categorization are welcome.
 - Keep descriptions short and simple, but descriptive.
