@@ -43,6 +43,7 @@
 
 ## UP5K
 
+* [Doppler](https://dadamachines.com/product/doppler/): Cortex M4F Microcontroller + FPGA development board.
 * Fomu (FTDI)
 * FPGA 101 Workshop Badge Board (FTDI)
 * iCE40 UltraPlus Breakout Board (FTDI)
@@ -50,6 +51,7 @@
 * iCEBreaker bitsy (FTDI)
 * UPDuino v1.0 (FTDI)
 * UPDuino v2.0 (FTDI)
+* [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
 
 ## ECP5
 
