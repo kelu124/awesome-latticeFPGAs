@@ -1,6 +1,9 @@
 # Awesome Lattice FPGA boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
-> A curated list of awesome open-source fpga's
+> A curated list of awesome open-source FPGA boards
 
+## CrossLink-NX 
+
+* [ArticKoala](https://www.hackster.io/news/greg-davill-s-at-it-again-say-hello-to-the-arctickoala-1f7ecbfa10af) by Greg Davill. LIFCL-40 CrossLink based.
 
 ## HX1K
 
@@ -53,6 +56,7 @@
 * [Fomu](https://www.crowdsupply.com/sutajio-kosagi/fomu) (FTDI). An FPGA board that fits inside your USB port.
 * [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko.
 * [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) (FTDI). iCE40 UltraPlus breakout board - Enables designers to evaluate key connectivity features of the iCE40 UltraPlus FPGA. The breakout board brings out all I/Os and allows the FPGA to be programmed over a USB connector. Proprietary.
+* [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v0.1a) (FTDI)
 * [UPDuino v1.0](http://www.gnarlygrey.com/?i=1) (serial)
@@ -61,24 +65,39 @@
 
 ## ECP5
 
+* [ButterStick](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
 * [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
+* [ktemkin's ECP5](https://twitter.com/ktemkin/status/1209821154418024448/photo/1). Not released yet ?
 * [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab). ECP5 breakout board in a feather physical format.
 * [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU.
 * [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) by Radiona.org 
 
+## Other commercial products
 
-## Other products
+### HX8K
+
+* [Vive HMD](https://tech.nikkeibp.co.jp/dm/atclen/news_en/15mk/050100551/). See teardown.
 
 ### ECP5
 
 * [Colorlight 5A-75B](https://fr.aliexpress.com/item/32281130824.html) - 13,37eur (^^)
 * [Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
 * [Colorlight I5A-F](https://fr.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0&btsid=773bcf40-222b-450f-805c-af72623f12e1&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55) 
+* [Elgato CameraLink 4K](https://www.amazon.fr/Elgato-20GAM9901-diffusion-enregistrement-cam%C3%A9scope/dp/B07K3FN5MR/). Running [LiTex](https://github.com/enjoy-digital/camlink_4k/) for example.
 * [Full HD 1080P HDMI SDI Capture Card PCIe](https://fr.aliexpress.com/item/32736346359.html?storeId=2349192&spm=a2g1y.12024536.productList_2412217.subject_3) - 136eur
+* [NUT2NT+](https://www.crowdsupply.com/amungo-navigation/nut2nt-plus). Four-channel, all-frequency, GNSS RF-to-bits receiver for precision, satellite-based positioning.
 
+* [TinySDR](https://deepai.org/publication/tinysdr-low-power-sdr-platform-for-over-the-air-programmable-iot-testbeds). LFE5U-25F. https://arxiv.org/abs/1907.02063.
 
+### LFE3
+
+* [TBS6281SE](https://fr.aliexpress.com/item/32612308360.html). LFE-17EA with PCIe.
+
+### To be identified
+
+* MHS5200A
 
 
 ## Contribute
