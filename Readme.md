@@ -14,6 +14,7 @@
 
 * [BeagleWire FPGA](https://www.crowdsupply.com/qwerty-embedded-design/beaglewire) (GPIO Beagleboard): comes with 4 PMODs.
 * [BlackIce MX](https://www.tindie.com/products/Folknology/blackice-mx/) (Serial) - by MyStorm
+* [Bus Pirate Ultra](http://dangerousprototypes.com/blog/2019/10/03/prototype-bus-pirate-logic-analyzer-with-ice40-fpga/) and [here](https://github.com/DangerousPrototypes/BusPirateUltraHardware)
 * [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow)
 * [IceZero](https://blackmesalabs.wordpress.com/2017/02/07/icezero-fpga-board-for-rasppi/) (GPIO Rpi - [Shop](https://shop.trenz-electronic.de/en/TE0876-02-Ice-Zero-with-Lattice-ICE-ICE40HX))
 * [Kéfir I](http://fpgalibre.sourceforge.net/Kefir_en/index.html) (FTDI)
@@ -29,6 +30,10 @@
 * [iCE40-HX8K Breakout Board](http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) (FTDI). Proprietary.
 * [iceFUN](https://en.manu-systems.com/DEV-ICEFUN.shtml) (PIC16LF1459)
 * [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) (GPIO RPi). [Shop](https://shop.trenz-electronic.de/en/TE0887-03M-icoBoard-Version-1.1-with-8-MBit-SRAM).
+
+## LP384
+
+* [FPGA-384](FPGA-384) by SiliconFrog.
 
 ## LP4K
 
@@ -60,14 +65,20 @@
 * [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
 * [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab). ECP5 breakout board in a feather physical format.
+* [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU.
 * [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) by Radiona.org 
+
 
 ## Other products
 
 ### ECP5
 
 * [Colorlight 5A-75B](https://fr.aliexpress.com/item/32281130824.html) - 13,37eur (^^)
+* [Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
+* [Colorlight I5A-F](https://fr.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0&btsid=773bcf40-222b-450f-805c-af72623f12e1&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55) 
 * [Full HD 1080P HDMI SDI Capture Card PCIe](https://fr.aliexpress.com/item/32736346359.html?storeId=2349192&spm=a2g1y.12024536.productList_2412217.subject_3) - 136eur
+
+
 
 
 ## Contribute
