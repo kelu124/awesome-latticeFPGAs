@@ -74,7 +74,9 @@
 * [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU.
 * [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) by Radiona.org 
 
-## Other commercial products
+## Other commercial products 
+
+HX8K and ECP5 so far. 
 
 ### HX8K
 
@@ -85,6 +87,7 @@
 * [Colorlight 5A-75B](https://fr.aliexpress.com/item/32281130824.html) - 13,37eur (^^)
 * [Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
 * [Colorlight I5A-F](https://fr.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0&btsid=773bcf40-222b-450f-805c-af72623f12e1&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55) 
+* [Colorlight i9](https://www.alibaba.com/product-detail/Colorlight-i9-receiving-card-for-LED_62044421025.html?spm=a2700.7724857.discountZoneStyleB_top.2.6d4349bbzweop9). Colorlight i9 receiving card for LED display led video wall . 68*36mm.
 * [Elgato CameraLink 4K](https://www.amazon.fr/Elgato-20GAM9901-diffusion-enregistrement-cam%C3%A9scope/dp/B07K3FN5MR/). Running [LiTex](https://github.com/enjoy-digital/camlink_4k/) for example.
 * [Full HD 1080P HDMI SDI Capture Card PCIe](https://fr.aliexpress.com/item/32736346359.html?storeId=2349192&spm=a2g1y.12024536.productList_2412217.subject_3) - 136eur
 * [NUT2NT+](https://www.crowdsupply.com/amungo-navigation/nut2nt-plus). Four-channel, all-frequency, GNSS RF-to-bits receiver for precision, satellite-based positioning.
@@ -93,12 +96,12 @@
 
 ### LFE3
 
-* [TBS6281SE](https://fr.aliexpress.com/item/32612308360.html). LFE-17EA with PCIe.
+* [TBS6281SE](https://fr.aliexpress.com/item/32612308360.html). LFE-17EA with PCIe. 
 
-### To be identified
+### Others
 
 * MHS5200A
-
+* [DMM6500](https://xdevs.com/review/dmm6500/). ECP5 in the teardown.
 
 ## Contribute
 
