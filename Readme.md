@@ -68,8 +68,8 @@
 * [ButterStick](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
 * [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
-* [ktemkin's ECP5](https://twitter.com/ktemkin/status/1209821154418024448/photo/1). Not released yet ?
 * [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
+* [LUNA](https://github.com/greatscottgadgets/luna). A USB multitool for monitoring, hacking, and developing USB devices (work in progress).
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab). ECP5 breakout board in a feather physical format.
 * [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU.
 * [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) by Radiona.org 
