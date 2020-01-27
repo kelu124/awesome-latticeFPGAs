@@ -78,7 +78,7 @@
 
 HX8K and ECP5 so far. 
 
-### HX8K
+### HX8K
 
 * [Vive HMD](https://tech.nikkeibp.co.jp/dm/atclen/news_en/15mk/050100551/). See teardown.
 
@@ -98,7 +98,7 @@ HX8K and ECP5 so far.
 
 * [TBS6281SE](https://fr.aliexpress.com/item/32612308360.html). LFE-17EA with PCIe. 
 
-### Others
+### Others
 
 * MHS5200A
 * [DMM6500](https://xdevs.com/review/dmm6500/). ECP5 in the teardown.
