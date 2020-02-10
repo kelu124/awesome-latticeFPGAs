@@ -21,6 +21,7 @@
 * [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow)
 * [IceZero](https://blackmesalabs.wordpress.com/2017/02/07/icezero-fpga-board-for-rasppi/) (GPIO Rpi - [Shop](https://shop.trenz-electronic.de/en/TE0876-02-Ice-Zero-with-Lattice-ICE-ICE40HX))
 * [Kéfir I](http://fpgalibre.sourceforge.net/Kefir_en/index.html) (FTDI)
+* [Manila-Ice](https://github.com/joshtyler/manila-ice)
 * [un0rick](http://un0rick.cc) (FTDI, GPIO RPi) - ultrasound tool
 
 ## HX8K
