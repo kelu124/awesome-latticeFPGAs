@@ -60,6 +60,7 @@
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v0.1a) (FTDI)
+* [ICESugar FPGA](https://de.aliexpress.com/item/4000931627590.html) - aliExpress adaptation [website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar).
 * [UPDuino v1.0](http://www.gnarlygrey.com/?i=1) (serial)
 * [UPDuino v2.0](http://www.gnarlygrey.com/?i=1) (FTDI)
 * [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
@@ -67,6 +68,7 @@
 ## ECP5
 
 * [ButterStick](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
+* [ECPIX-5](https://twitter.com/LambdaConcept) - sources to be released. 
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
 * [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
 * [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
