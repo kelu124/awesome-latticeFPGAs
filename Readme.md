@@ -30,10 +30,12 @@
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) (FTDI)
 * [BlackIce II](https://github.com/mystorm-org/BlackIce-II/wiki/Getting-Started) (Serial)
 * [CAT Board](https://github.com/xesscorp/CAT-Board) (GPIO RPi). The CAT Board is a OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.
+* [DSP ICE](https://github.com/tvelliott/dsp_ice). DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends.
 * [Glasgow Interface Explorer](https://www.crowdsupply.com/1bitsquared/glasgow)
 * [iCE40-HX8K Breakout Board](http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) (FTDI). Proprietary.
 * [iceFUN](https://en.manu-systems.com/DEV-ICEFUN.shtml) (PIC16LF1459)
 * [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) (GPIO RPi). [Shop](https://shop.trenz-electronic.de/en/TE0887-03M-icoBoard-Version-1.1-with-8-MBit-SRAM).
+
 
 ## LP384
 
@@ -41,6 +43,7 @@
 
 ## LP4K
 
+* [iceRadio](https://github.com/emeb/iceRadio) or [website](http://ebrombaugh.studionebula.com/radio/iceRadio/index.html). _This is a test prototype for experimenting with Software Defined Radio (SDR)._
 * [STM32F303 + ice5](http://ebrombaugh.studionebula.com/embedded/f303_ice5/) 
 
 ## LP8K
