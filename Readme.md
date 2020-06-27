@@ -66,6 +66,8 @@
 * [ICESugar FPGA](https://de.aliexpress.com/item/4000931627590.html) - aliExpress adaptation [website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar).
 * [UPDuino v1.0](http://www.gnarlygrey.com/?i=1) (serial)
 * [UPDuino v2.0](http://www.gnarlygrey.com/?i=1) (FTDI)
+* [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0)
+* [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM)
 * [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
 
 ## ECP5
@@ -75,6 +77,7 @@
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
 * [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
 * [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
+* [LogicBone](https://github.com/oskirby/logicbone). LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
 * [LUNA](https://github.com/greatscottgadgets/luna). A USB multitool for monitoring, hacking, and developing USB devices (work in progress).
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab). ECP5 breakout board in a feather physical format.
 * [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU.
@@ -108,6 +111,11 @@ HX8K and ECP5 so far.
 
 * MHS5200A
 * [DMM6500](https://xdevs.com/review/dmm6500/). ECP5 in the teardown.
+
+### To follow up
+
+* Low cost HDMI-to-USB3 capture dongle. Let's wait for more teardowns. 
+* [Funnyplaying GBA SP IPS](https://www.reddit.com/r/Gameboy/comments/emi3aw/funnyplaying_gba_sp_ips_screen_clones_are_out/). Guessing those are Lattice fpgas.
 
 ## Contribute
 
