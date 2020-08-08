@@ -58,17 +58,21 @@
 
 * [Doppler](https://dadamachines.com/product/doppler/). Cortex M4F Microcontroller + FPGA development board.
 * [Fomu](https://www.crowdsupply.com/sutajio-kosagi/fomu) (FTDI). An FPGA board that fits inside your USB port.
-* [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko.
+* [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko.*
+* [ice40helper](https://github.com/kehribar/ice40helper).
 * [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) (FTDI). iCE40 UltraPlus breakout board - Enables designers to evaluate key connectivity features of the iCE40 UltraPlus FPGA. The breakout board brings out all I/Os and allows the FPGA to be programmed over a USB connector. Proprietary.
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v0.1a) (FTDI)
 * [ICESugar FPGA](https://de.aliexpress.com/item/4000931627590.html) - aliExpress adaptation [website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar).
+* [SingularitySurfer](https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier): An FPGA Lock-In Amplifier
 * [UPDuino v1.0](http://www.gnarlygrey.com/?i=1) (serial)
 * [UPDuino v2.0](http://www.gnarlygrey.com/?i=1) (FTDI)
 * [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0)
 * [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM)
 * [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
+
+Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/icestudio/a409351407303ba62b408dbd288cbc2db7cebeac/app/resources/boards/iCE40-UP5K/pinout.json)
 
 ## ECP5
 
