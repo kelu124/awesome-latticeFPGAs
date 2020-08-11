@@ -35,6 +35,7 @@
 * [iCE40-HX8K Breakout Board](http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) (FTDI). Proprietary.
 * [iceFUN](https://en.manu-systems.com/DEV-ICEFUN.shtml) (PIC16LF1459)
 * [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) (GPIO RPi). [Shop](https://shop.trenz-electronic.de/en/TE0887-03M-icoBoard-Version-1.1-with-8-MBit-SRAM).
+* [MiCE47](https://hackaday.io/project/166109-mice47) - NXP i.MXRT1021DAF5A  + iCE40HX8K.
 
 
 ## LP384
@@ -79,6 +80,8 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [ButterStick](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
 * [ECPIX-5](https://twitter.com/LambdaConcept) - sources to be released. 
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
+* [FUSBee5](https://hackaday.io/project/170694-fusbee5) - ft600 board
+* [Kilsyth](https://hackaday.io/project/165380-kilsyth-ecp5-fpga-and-a-usb-30-fifo-bridge)  - ft600 board
 * [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
 * [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
 * [LogicBone](https://github.com/oskirby/logicbone). LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
@@ -86,6 +89,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab). ECP5 breakout board in a feather physical format.
 * [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU.
 * [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) by Radiona.org 
+
 
 ## Other commercial products 
 
