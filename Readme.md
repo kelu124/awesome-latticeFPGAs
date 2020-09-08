@@ -48,6 +48,7 @@
 
 ## LP4K
 
+* [ice5 Breakout Board](http://ebrombaugh.studionebula.com/embedded/ice5_breakout/index.html)
 * [iceRadio](https://github.com/emeb/iceRadio) or [website](http://ebrombaugh.studionebula.com/radio/iceRadio/index.html). _This is a test prototype for experimenting with Software Defined Radio (SDR)._
 * [STM32F303 + ice5](http://ebrombaugh.studionebula.com/embedded/f303_ice5/) 
 
