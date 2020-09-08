@@ -7,6 +7,8 @@
 
 ## HX1K
 
+* [DIPSY EPT](https://wiki.trenz-electronic.de/pages/viewpage.action?pageId=20611802) (Emulator Programmer Tool)
+* [FPGA eink controller](https://hackaday.io/project/21168-fpga-eink-controller) on HAD. The idea is to control an old broken kindle 3 eink display with a FPGA.
 * [iCEblink40-HX1K](http://www.latticesemi.com/iceblink40-hx1k) by latticesemi. Proprietary.
 * [iCEstick Evaluation Kit](https://www.latticesemi.com/icestick) (FTDI)  by latticesemi. Proprietary.
 * [iceZUM Alhambra](https://alhambrabits.com/alhambra/) (FTDI)
@@ -18,6 +20,7 @@
 * [BeagleWire FPGA](https://www.crowdsupply.com/qwerty-embedded-design/beaglewire) (GPIO Beagleboard): comes with 4 PMODs.
 * [BlackIce MX](https://www.tindie.com/products/Folknology/blackice-mx/) (Serial) - by MyStorm
 * [Bus Pirate Ultra](http://dangerousprototypes.com/blog/2019/10/03/prototype-bus-pirate-logic-analyzer-with-ice40-fpga/) and [here](https://github.com/DangerousPrototypes/BusPirateUltraHardware)
+* [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) first @mattvenn.  6 PMODs + Raspberry Pi breakout.
 * [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow)
 * [IceZero](https://blackmesalabs.wordpress.com/2017/02/07/icezero-fpga-board-for-rasppi/) (GPIO Rpi - [Shop](https://shop.trenz-electronic.de/en/TE0876-02-Ice-Zero-with-Lattice-ICE-ICE40HX))
 * [Kéfir I](http://fpgalibre.sourceforge.net/Kefir_en/index.html) (FTDI)
@@ -77,8 +80,10 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## ECP5
 
+* [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb). 6 PMODs + Raspberry Pi breakout.
 * [ButterStick](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
 * [ECPIX-5](https://twitter.com/LambdaConcept) - sources to be released. 
+* [ECP5-mini](https://github.com/joshajohnson/ecp5-mini). Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841).
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
 * [FUSBee5](https://hackaday.io/project/170694-fusbee5) - ft600 board
 * [Kilsyth](https://hackaday.io/project/165380-kilsyth-ecp5-fpga-and-a-usb-30-fifo-bridge)  - ft600 board
