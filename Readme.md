@@ -70,7 +70,7 @@
 * [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) (FTDI). iCE40 UltraPlus breakout board - Enables designers to evaluate key connectivity features of the iCE40 UltraPlus FPGA. The breakout board brings out all I/Os and allows the FPGA to be programmed over a USB connector. Proprietary.
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
-* [iCEBreaker bitsy](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v0.1a) (FTDI)
+* [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
 * [ICESugar FPGA](https://de.aliexpress.com/item/4000931627590.html) - aliExpress adaptation [website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far.
 * [S1 Module](https://docs.siliconwitchery.com/hardware/s1-module/). 6 x 12mm! An FPGA, Bluetooth Radio and Battery Management IC combined into one tiny form factor. BT 5.2, UP5k, 
 * [SingularitySurfer](https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier): An FPGA Lock-In Amplifier
