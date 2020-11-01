@@ -72,6 +72,7 @@
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
 * [ICESugar FPGA](https://www.aliexpress.com/item/4001201771358.html) - aliExpress adaptation. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far.
+* [lit3rick](https://github.com/kelu124/lit3rick/) - open source ultrasound pulse-echo raspberry pi hat shaped.
 * [S1 Module](https://docs.siliconwitchery.com/hardware/s1-module/). 6 x 12mm! An FPGA, Bluetooth Radio and Battery Management IC combined into one tiny form factor. BT 5.2, UP5k, 
 * [SingularitySurfer](https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier): An FPGA Lock-In Amplifier
 * [UPDuino v1.0](http://www.gnarlygrey.com/?i=1) (serial)
