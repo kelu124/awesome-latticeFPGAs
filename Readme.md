@@ -71,7 +71,7 @@
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
-* [ICESugar FPGA](https://de.aliexpress.com/item/4000931627590.html) - aliExpress adaptation [website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far.
+* [ICESugar FPGA](https://www.aliexpress.com/item/4001201771358.html) - aliExpress adaptation. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far.
 * [S1 Module](https://docs.siliconwitchery.com/hardware/s1-module/). 6 x 12mm! An FPGA, Bluetooth Radio and Battery Management IC combined into one tiny form factor. BT 5.2, UP5k, 
 * [SingularitySurfer](https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier): An FPGA Lock-In Amplifier
 * [UPDuino v1.0](http://www.gnarlygrey.com/?i=1) (serial)
@@ -110,19 +110,19 @@ HX8K and ECP5 so far.
 
 ### ECP5
 * [Colorlight I5_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
-* [Colorlight 5A-75B](https://fr.aliexpress.com/item/32281130824.html) - 13,37eur (^^) More [here](http://www.fabienm.eu/flf/15-ecp5-board-kit/).
+* [Colorlight 5A-75B](https://www.aliexpress.com/item/32281130824.html) - 13,37eur (^^) More [here](http://www.fabienm.eu/flf/15-ecp5-board-kit/).
 * [Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
-* [Colorlight I5A-F](https://fr.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0&btsid=773bcf40-222b-450f-805c-af72623f12e1&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55) 
+* [Colorlight I5A-F](https://www.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0&btsid=773bcf40-222b-450f-805c-af72623f12e1&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55) 
 * [Colorlight i9](https://www.alibaba.com/product-detail/Colorlight-i9-receiving-card-for-LED_62044421025.html?spm=a2700.7724857.discountZoneStyleB_top.2.6d4349bbzweop9). Colorlight i9 receiving card for LED display led video wall . 68*36mm.
 * [Elgato CameraLink 4K](https://www.amazon.fr/Elgato-20GAM9901-diffusion-enregistrement-cam%C3%A9scope/dp/B07K3FN5MR/). Running [LiTex](https://github.com/enjoy-digital/camlink_4k/) for example.
-* [Full HD 1080P HDMI SDI Capture Card PCIe](https://fr.aliexpress.com/item/32736346359.html?storeId=2349192&spm=a2g1y.12024536.productList_2412217.subject_3) - 136eur
+* [Full HD 1080P HDMI SDI Capture Card PCIe](https://www.aliexpress.com/item/32736346359.html?storeId=2349192&spm=a2g1y.12024536.productList_2412217.subject_3) - 136eur
 * [NUT2NT+](https://www.crowdsupply.com/amungo-navigation/nut2nt-plus). Four-channel, all-frequency, GNSS RF-to-bits receiver for precision, satellite-based positioning.
 
 * [TinySDR](https://deepai.org/publication/tinysdr-low-power-sdr-platform-for-over-the-air-programmable-iot-testbeds). LFE5U-25F. https://arxiv.org/abs/1907.02063.
 
 ### LFE3
 
-* [Turbosight TBS6205 - TBS6908](https://fr.aliexpress.com/item/32612308360.html). LFE-17EA with PCIe. More details on this family of tuners - https://dev.haiku-os.org/wiki/HardwareInfo/tuner/FPGA
+* [Turbosight TBS6205 - TBS6908](https://www.aliexpress.com/item/32612308360.html). LFE-17EA with PCIe. More details on this family of tuners - https://dev.haiku-os.org/wiki/HardwareInfo/tuner/FPGA
 * [DigitalDevices CineS2 DVB-T2 ](https://www.digital-devices.eu/shop/en/tv-cards/tv-cards-for-pcie/285/digital-devices-cine-s2-v7a-twin-tuner-tv-card-dvb-s/s2-pci-express)
 
 ### Others
