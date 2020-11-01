@@ -96,6 +96,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
 * [LogicBone](https://github.com/oskirby/logicbone). LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
 * [LUNA](https://github.com/greatscottgadgets/luna). A USB multitool for monitoring, hacking, and developing USB devices (work in progress).
+* [Muselabs ECP5](https://www.aliexpress.com/item/1005001686186007.html)- Colorlight i5 module + a motherboard (6PMODs)
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab). ECP5 breakout board in a feather physical format.
 * [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU.
 * [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) by Radiona.org 
