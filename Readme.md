@@ -106,7 +106,12 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## Other commercial products 
 
-HX8K and ECP5 so far. 
+HX8K and ECP5 so far. (and now up5k!)
+
+### Up5K
+
+* [Osmocom icE1usb](http://shop.sysmocom.de/products/icE1usb) - The icE1usb is a dual-port E1 adapter with a USB interface. It can be used to attach to circuit-switched primary-rate E1 circuits used in traditional/legacy telecom environments. [Datasheet](https://www.sysmocom.de/downloads/icE1usb_data_sheet.pdf) (PDF).
+
 
 ### HX8K
 
