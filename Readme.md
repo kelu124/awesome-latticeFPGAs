@@ -73,6 +73,7 @@
 * [iCEboy](https://github.com/rniwase/iCEboy) Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
+* [iCE40-feather](https://github.com/joshajohnson/iCE40-feather). Revision 0.2 was designed in 2021.
 * [ICESugar FPGA](https://www.aliexpress.com/item/4001201771358.html) - aliExpress adaptation. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far.
 * [lit3rick](https://github.com/kelu124/lit3rick/) - open source ultrasound pulse-echo raspberry pi hat shaped.
 * [S1 Module](https://docs.siliconwitchery.com/hardware/s1-module/). 6 x 12mm! An FPGA, Bluetooth Radio and Battery Management IC combined into one tiny form factor. BT 5.2, UP5k, 
@@ -108,9 +109,10 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 HX8K and ECP5 so far. (and now up5k!)
 
-### Up5K
+### UP5K
 
 * [Osmocom icE1usb](http://shop.sysmocom.de/products/icE1usb) - The icE1usb is a dual-port E1 adapter with a USB interface. It can be used to attach to circuit-switched primary-rate E1 circuits used in traditional/legacy telecom environments. [Datasheet](https://www.sysmocom.de/downloads/icE1usb_data_sheet.pdf) (PDF).
+* [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor) contains a iCE40UP5K.
 
 
 ### HX8K
