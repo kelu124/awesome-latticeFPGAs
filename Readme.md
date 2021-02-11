@@ -146,6 +146,7 @@ HX8K and ECP5 so far. (and now up5k!)
 * Low cost HDMI-to-USB3 capture dongle. Let's wait for more teardowns. 
 * [Funnyplaying GBA SP IPS](https://www.reddit.com/r/Gameboy/comments/emi3aw/funnyplaying_gba_sp_ips_screen_clones_are_out/). Guessing those are Lattice fpgas.
 * [SD2SNES](https://twitter.com/samlittlewood/status/1359644364264394753/photo/3) by @samlittlewood.
+* @ryzerth and up5K https://twitter.com/ryzerth/status/1353099970635849728/photo/1
 
 ## Contribute
 
