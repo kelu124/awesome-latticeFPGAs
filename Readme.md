@@ -37,7 +37,7 @@
 * [DSP ICE](https://github.com/tvelliott/dsp_ice). DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends.
 * [Glasgow Interface Explorer](https://www.crowdsupply.com/1bitsquared/glasgow)
 * [iCE40-HX8K Breakout Board](http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) (FTDI). Proprietary.
-* [iceFUN](https://en.manu-systems.com/DEV-ICEFUN.shtml) (PIC16LF1459)
+* [iceFUN](https://en.manu-systems.com/DEV-ICEFUN.shtml) (PIC16LF1459, led matrix, and buttons)
 * [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) (GPIO RPi). [Shop](https://shop.trenz-electronic.de/en/TE0887-03M-icoBoard-Version-1.1-with-8-MBit-SRAM).
 * [iCEboy](https://sourceforge.net/projects/iceboy/) breakout - sourceforge. The goal of this project is to implement a GameBoy in Verilog using the open source IceStorm tools for Lattice iCE40HX-8K FPGAs.
 * [MiCE47](https://hackaday.io/project/166109-mice47) - NXP i.MXRT1021DAF5A  + iCE40HX8K.
@@ -145,6 +145,7 @@ HX8K and ECP5 so far. (and now up5k!)
 
 * Low cost HDMI-to-USB3 capture dongle. Let's wait for more teardowns. 
 * [Funnyplaying GBA SP IPS](https://www.reddit.com/r/Gameboy/comments/emi3aw/funnyplaying_gba_sp_ips_screen_clones_are_out/). Guessing those are Lattice fpgas.
+* [SD2SNES](https://twitter.com/samlittlewood/status/1359644364264394753/photo/3) by @samlittlewood.
 
 ## Contribute
 
