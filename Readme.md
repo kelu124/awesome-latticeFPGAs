@@ -21,6 +21,7 @@
 * [BeagleWire FPGA](https://www.crowdsupply.com/qwerty-embedded-design/beaglewire) (GPIO Beagleboard): comes with 4 PMODs.
 * [BlackIce II](https://github.com/mystorm-org/BlackIce-II/wiki/Getting-Started) (Serial)
 * [BlackIce MX](https://www.tindie.com/products/Folknology/blackice-mx/) (Serial) - by MyStorm
+  * * [IceCore](https://github.com/folknology/IceCore)
 * [Bus Pirate Ultra](http://dangerousprototypes.com/blog/2019/10/03/prototype-bus-pirate-logic-analyzer-with-ice40-fpga/) and [here](https://github.com/DangerousPrototypes/BusPirateUltraHardware)
 * [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) first @mattvenn.  6 PMODs + Raspberry Pi breakout.
 * [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow)
@@ -138,8 +139,9 @@ HX8K and ECP5 so far. (and now up5k!)
 
 ### Others
 
-* MHS5200A
+* [MHS5200A](https://sigrok.org/wiki/MHINSTEK_MHS-5200A) - though it seems a MACH XO2
 * [DMM6500](https://xdevs.com/review/dmm6500/). ECP5 in the teardown.
+* [HPE ProLiant DL380T Gen10](https://www.servethehome.com/hpe-proliant-dl380t-gen10-trusted-supply-chain-server-teardown/3/)
 
 ### To follow up
 
@@ -147,10 +149,12 @@ HX8K and ECP5 so far. (and now up5k!)
 * [Funnyplaying GBA SP IPS](https://www.reddit.com/r/Gameboy/comments/emi3aw/funnyplaying_gba_sp_ips_screen_clones_are_out/). Guessing those are Lattice fpgas.
 * [SD2SNES](https://twitter.com/samlittlewood/status/1359644364264394753/photo/3) by @samlittlewood.
 * @ryzerth and up5K https://twitter.com/ryzerth/status/1353099970635849728/photo/1
+* [$38 K210 AI Accelerator HAT](http://linuxgizmos.com/raspberry-pi-hat-combines-k210-ai-chip-with-trust-m-security/) contains a LP
 
 ## Contribute
 
 Contributions are always welcome!
+
 Please read the [contribution guidelines](contributing.md) first.
 
 ## License
