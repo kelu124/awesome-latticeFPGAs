@@ -92,6 +92,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb). 6 PMODs + Raspberry Pi breakout.
 * [ButterStick](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
+* [Darsena](https://mindchasers.com/dev/darsena-shield) -  the Private Island development board for FPGA-based open source networking
 * [ECPIX-5](https://twitter.com/LambdaConcept) - sources to be released. 
 * [ECP5-mini](https://github.com/joshajohnson/ecp5-mini). Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841).
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
