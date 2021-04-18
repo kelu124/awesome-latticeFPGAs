@@ -21,11 +21,11 @@
 * [BeagleWire FPGA](https://www.crowdsupply.com/qwerty-embedded-design/beaglewire) (GPIO Beagleboard): comes with 4 PMODs.
 * [BlackIce II](https://github.com/mystorm-org/BlackIce-II/wiki/Getting-Started) (Serial)
 * [BlackIce MX](https://www.tindie.com/products/Folknology/blackice-mx/) (Serial) - by MyStorm
-  * * [IceCore](https://github.com/folknology/IceCore)
 * [Bus Pirate Ultra](http://dangerousprototypes.com/blog/2019/10/03/prototype-bus-pirate-logic-analyzer-with-ice40-fpga/) and [here](https://github.com/DangerousPrototypes/BusPirateUltraHardware)
 * [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) first @mattvenn.  6 PMODs + Raspberry Pi breakout.
 * [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow)
 * [HX4k PMOD Breakout](https://github.com/rschlaikjer/hx4k-pmod). 10 [PMODs](https://www.pcbway.com/project/shareproject/Lattice_HX4K_FPGA_Breakout.html)! [Reading more](https://rhye.org/post/fpgas-1-running-on-hardware/).
+* [IceCore](https://github.com/folknology/IceCore)
 * [IceZero](https://blackmesalabs.wordpress.com/2017/02/07/icezero-fpga-board-for-rasppi/) (GPIO Rpi - [Shop](https://shop.trenz-electronic.de/en/TE0876-02-Ice-Zero-with-Lattice-ICE-ICE40HX))
 * [Kéfir I](http://fpgalibre.sourceforge.net/Kefir_en/index.html) (FTDI)
 * [Manila-Ice](https://github.com/joshtyler/manila-ice)
@@ -118,7 +118,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 HX8K and ECP5 so far. (and now up5k!)
 
-### UP5K
+### UP5K
 
 * [Osmocom icE1usb](http://shop.sysmocom.de/products/icE1usb) - The icE1usb is a dual-port E1 adapter with a USB interface. It can be used to attach to circuit-switched primary-rate E1 circuits used in traditional/legacy telecom environments. [Datasheet](https://www.sysmocom.de/downloads/icE1usb_data_sheet.pdf) (PDF).
 * [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor) contains a iCE40UP5K.
