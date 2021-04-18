@@ -71,6 +71,7 @@
 * [icehat](http://ebrombaugh.studionebula.com/embedded/icehat/index.html). On [github too](https://github.com/emeb/icehat) - with [custom flashing code](https://github.com/emeb/icehat/tree/master/ice_tool)
 * [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) (FTDI). iCE40 UltraPlus breakout board - Enables designers to evaluate key connectivity features of the iCE40 UltraPlus FPGA. The breakout board brings out all I/Os and allows the FPGA to be programmed over a USB connector. Proprietary.
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
+* [ice40-dev-board](https://github.com/medhyal/ice40-dev-board) by medhyal - simple breakout board
 * [iCEboy](https://github.com/rniwase/iCEboy) Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
@@ -96,6 +97,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [ButterStick](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
 * [Darsena](https://mindchasers.com/dev/darsena-shield) -  the Private Island development board for FPGA-based open source networking
 * [ECPIX-5](https://twitter.com/LambdaConcept) - sources to be released. 
+* [ecp5-dev-board](https://github.com/medhyal/ecp5-dev-board) by medhyal - simple breakout board
 * [ECP5-mini](https://github.com/joshajohnson/ecp5-mini). Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841).
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
 * [FUSBee5](https://hackaday.io/project/170694-fusbee5) - ft600 board
