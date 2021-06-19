@@ -48,6 +48,10 @@
 
 * [FPGA-384](FPGA-384) by SiliconFrog.
 
+## LP1K
+
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+
 ## LP4K
 
 * [ice5 Breakout Board](http://ebrombaugh.studionebula.com/embedded/ice5_breakout/index.html)
