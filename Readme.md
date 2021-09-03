@@ -100,7 +100,6 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb). 6 PMODs + Raspberry Pi breakout.
 * [ButterStick](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
 * [Darsena](https://mindchasers.com/dev/darsena-shield) -  the Private Island development board for FPGA-based open source networking
-<<<<<<< HEAD
 * [ECPIX-5](https://twitter.com/LambdaConcept) - sources to be released. 
 * [ecp5-dev-board](https://github.com/medhyal/ecp5-dev-board) by medhyal - simple breakout board
 * [ECPIX-5](https://shop.lambdaconcept.com/home/46-1-ecpix-5.html) - a modern ECP5 development board from LambdaConcept. 
