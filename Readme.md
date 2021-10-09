@@ -47,6 +47,7 @@
 ## LP384
 
 * [FPGA-384](FPGA-384) by SiliconFrog.
+* [logic-lp384](https://github.com/Agilack/pmod/tree/master/logic-lp384). PMOD exposing a LP384 KiCad.
 
 ## LP1K
 
