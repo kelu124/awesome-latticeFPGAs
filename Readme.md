@@ -126,7 +126,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 HX8K and ECP5 so far. (and now up5k!)
 
 ### UP5K
-
+* [MTX-BC48-DB](https://github.com/mitexus/MTX-BC48-DB-Development-Board/) - is a camera development board featuring a  iCE40 UltraPlus FPGA,  BGX13P22GA BLE module, and  OVM7690 image sensor.
 * [Osmocom icE1usb](http://shop.sysmocom.de/products/icE1usb) - The icE1usb is a dual-port E1 adapter with a USB interface. It can be used to attach to circuit-switched primary-rate E1 circuits used in traditional/legacy telecom environments. [Datasheet](https://www.sysmocom.de/downloads/icE1usb_data_sheet.pdf) (PDF).
 * [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor) contains a iCE40UP5K.
 
@@ -136,6 +136,7 @@ HX8K and ECP5 so far. (and now up5k!)
 * [Vive HMD](https://tech.nikkeibp.co.jp/dm/atclen/news_en/15mk/050100551/). See teardown.
 
 ### ECP5
+
 * [Colorlight I5_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
 * [Colorlight 5A-75B](https://www.aliexpress.com/item/32281130824.html) - 13,37eur (^^) More [here](http://www.fabienm.eu/flf/15-ecp5-board-kit/).
 * [Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
