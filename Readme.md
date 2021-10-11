@@ -29,6 +29,7 @@
 * [IceZero](https://blackmesalabs.wordpress.com/2017/02/07/icezero-fpga-board-for-rasppi/) (GPIO Rpi - [Shop](https://shop.trenz-electronic.de/en/TE0876-02-Ice-Zero-with-Lattice-ICE-ICE40HX))
 * [Kéfir I](http://fpgalibre.sourceforge.net/Kefir_en/index.html) (FTDI)
 * [Manila-Ice](https://github.com/joshtyler/manila-ice)
+* [picohx](https://github.com/dan-rodrigues/pico-hx) combines an iCE40 HX FPGA with the Raspberry Pi Pico. The Pico can program the FPGA over USB using a script included in this repo and then interact with it using GPIO.
 * [un0rick](http://un0rick.cc) (FTDI, GPIO RPi) - ultrasound tool
 
 ## HX8K
