@@ -79,6 +79,7 @@
 * [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) (FTDI). iCE40 UltraPlus breakout board - Enables designers to evaluate key connectivity features of the iCE40 UltraPlus FPGA. The breakout board brings out all I/Os and allows the FPGA to be programmed over a USB connector. Proprietary.
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [ice40-dev-board](https://github.com/medhyal/ice40-dev-board) by medhyal - simple breakout board
+* [ICEd ESPresso](https://twitter.com/cibomahto/status/1423609225503297537?t=OkZXMu2I1T0LrS-tYUs4mw&s=19) - a tiny, WiFi-enabled FPGA+microcontroller dev board
 * [iCEboy](https://github.com/rniwase/iCEboy) Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
