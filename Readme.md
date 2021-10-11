@@ -86,6 +86,7 @@
 * [iCE40-feather](https://github.com/joshajohnson/iCE40-feather). Revision 0.2 was designed in 2021.
 * [ICESugar FPGA](https://www.aliexpress.com/item/4001201771358.html) - aliExpress adaptation. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far.
 * [lit3rick](https://github.com/kelu124/lit3rick/) - open source ultrasound pulse-echo raspberry pi hat shaped.
+* [MCUPduino](https://www.eet-china.com/mp/a78119.html)
 * [MTX-BC48-DB](https://groupgets.com/campaigns/918-mtx-camera-ble-development-board) UP5K + BLE [Github](https://github.com/mitexus/MTX-BC48-DB-Development-Board)
 * [pi_smi_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf). Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D). 3D games console based on RP2040 and iCE40 UP5k
