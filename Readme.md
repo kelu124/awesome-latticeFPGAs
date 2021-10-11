@@ -47,6 +47,7 @@
 
 ## LP384
 
+* [Gelatino](https://kitspace.org/boards/github.com/bru4bas/gelatino-board/). It is based on the iCE40LP384 FPGA from Lattice Semiconductor, embedded together with a ATMega328 Arduino-like hardware.
 * [FPGA-384](https://www.siliconfrog.co.uk/cgibin/Pages/FPGA384.pl) by SiliconFrog. [SW code on github](https://github.com/siliconfrog/fpga-384). / same for [esp32](https://github.com/siliconfrog/fpga-esp32). [Shop](https://www.tindie.com/products/siliconfrog/fpga-384/).
 * [logic-lp384](https://github.com/Agilack/pmod/tree/master/logic-lp384). PMOD exposing a LP384 KiCad.
 
