@@ -29,6 +29,7 @@
 * [IceZero](https://blackmesalabs.wordpress.com/2017/02/07/icezero-fpga-board-for-rasppi/) (GPIO Rpi - [Shop](https://shop.trenz-electronic.de/en/TE0876-02-Ice-Zero-with-Lattice-ICE-ICE40HX))
 * [Kéfir I](http://fpgalibre.sourceforge.net/Kefir_en/index.html) (FTDI)
 * [Manila-Ice](https://github.com/joshtyler/manila-ice)
+* [picohx](https://github.com/dan-rodrigues/pico-hx) combines an iCE40 HX FPGA with the Raspberry Pi Pico. The Pico can program the FPGA over USB using a script included in this repo and then interact with it using GPIO.
 * [un0rick](http://un0rick.cc) (FTDI, GPIO RPi) - ultrasound tool
 
 ## HX8K
@@ -46,6 +47,7 @@
 
 ## LP384
 
+* [Gelatino](https://kitspace.org/boards/github.com/bru4bas/gelatino-board/). It is based on the iCE40LP384 FPGA from Lattice Semiconductor, embedded together with a ATMega328 Arduino-like hardware.
 * [FPGA-384](https://www.siliconfrog.co.uk/cgibin/Pages/FPGA384.pl) by SiliconFrog. [SW code on github](https://github.com/siliconfrog/fpga-384). / same for [esp32](https://github.com/siliconfrog/fpga-esp32). [Shop](https://www.tindie.com/products/siliconfrog/fpga-384/).
 * [logic-lp384](https://github.com/Agilack/pmod/tree/master/logic-lp384). PMOD exposing a LP384 KiCad.
 
@@ -77,12 +79,14 @@
 * [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) (FTDI). iCE40 UltraPlus breakout board - Enables designers to evaluate key connectivity features of the iCE40 UltraPlus FPGA. The breakout board brings out all I/Os and allows the FPGA to be programmed over a USB connector. Proprietary.
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [ice40-dev-board](https://github.com/medhyal/ice40-dev-board) by medhyal - simple breakout board
+* [ICEd ESPresso](https://twitter.com/cibomahto/status/1423609225503297537?t=OkZXMu2I1T0LrS-tYUs4mw&s=19) - a tiny, WiFi-enabled FPGA+microcontroller dev board
 * [iCEboy](https://github.com/rniwase/iCEboy) Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
 * [iCE40-feather](https://github.com/joshajohnson/iCE40-feather). Revision 0.2 was designed in 2021.
 * [ICESugar FPGA](https://www.aliexpress.com/item/4001201771358.html) - aliExpress adaptation. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far.
 * [lit3rick](https://github.com/kelu124/lit3rick/) - open source ultrasound pulse-echo raspberry pi hat shaped.
+* [MCUPduino](https://www.eet-china.com/mp/a78119.html)
 * [MTX-BC48-DB](https://groupgets.com/campaigns/918-mtx-camera-ble-development-board) UP5K + BLE [Github](https://github.com/mitexus/MTX-BC48-DB-Development-Board)
 * [pi_smi_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf). Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D). 3D games console based on RP2040 and iCE40 UP5k
@@ -124,7 +128,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 HX8K and ECP5 so far. (and now up5k!)
 
 ### UP5K
-
+* [MTX-BC48-DB](https://github.com/mitexus/MTX-BC48-DB-Development-Board/) - is a camera development board featuring a  iCE40 UltraPlus FPGA,  BGX13P22GA BLE module, and  OVM7690 image sensor.
 * [Osmocom icE1usb](http://shop.sysmocom.de/products/icE1usb) - The icE1usb is a dual-port E1 adapter with a USB interface. It can be used to attach to circuit-switched primary-rate E1 circuits used in traditional/legacy telecom environments. [Datasheet](https://www.sysmocom.de/downloads/icE1usb_data_sheet.pdf) (PDF).
 * [Precursor](https://www.crowdsupply.com/sutajio-kosagi/precursor) contains a iCE40UP5K.
 
@@ -134,6 +138,7 @@ HX8K and ECP5 so far. (and now up5k!)
 * [Vive HMD](https://tech.nikkeibp.co.jp/dm/atclen/news_en/15mk/050100551/). See teardown.
 
 ### ECP5
+
 * [Colorlight I5_V6](https://github.com/wuxx/Colorlight-FPGA-Projects) - with pins breakdowns by JohnnyW11773607. And a [testbed](https://twitter.com/JohnnyW11773607/status/1306807958165020672/photo/1)
 * [Colorlight 5A-75B](https://www.aliexpress.com/item/32281130824.html) - 13,37eur (^^) More [here](http://www.fabienm.eu/flf/15-ecp5-board-kit/).
 * [Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
