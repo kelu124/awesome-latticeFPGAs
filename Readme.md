@@ -24,6 +24,7 @@
 * [Bus Pirate Ultra](http://dangerousprototypes.com/blog/2019/10/03/prototype-bus-pirate-logic-analyzer-with-ice40-fpga/) and [here](https://github.com/DangerousPrototypes/BusPirateUltraHardware)
 * [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) first @mattvenn.  6 PMODs + Raspberry Pi breakout.
 * [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow)
+* [Graphics Gremlin](https://github.com/schlae/graphics-gremlin). The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [HX4k PMOD Breakout](https://github.com/rschlaikjer/hx4k-pmod). 10 [PMODs](https://www.pcbway.com/project/shareproject/Lattice_HX4K_FPGA_Breakout.html)! [Reading more](https://rhye.org/post/fpgas-1-running-on-hardware/).
 * [IceCore](https://github.com/folknology/IceCore)
 * [IceZero](https://blackmesalabs.wordpress.com/2017/02/07/icezero-fpga-board-for-rasppi/) (GPIO Rpi - [Shop](https://shop.trenz-electronic.de/en/TE0876-02-Ice-Zero-with-Lattice-ICE-ICE40HX))
