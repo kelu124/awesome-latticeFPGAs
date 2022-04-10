@@ -118,6 +118,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [Kilsyth](https://hackaday.io/project/165380-kilsyth-ecp5-fpga-and-a-usb-30-fifo-bridge)  - ft600 board
 * [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
 * [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
+* [LimeSDR Mini 2.0](https://www.clivemaxfield.com/goodbye-limesdr-mini-hello-limesdr-mini-2-0/). Boasting an LMS7002M FPRF from Lime and an ECP5 FPGA from Lattice, the LimeSDR Mini 2.0 platform will be ideal for developing logic intensive SDRs.
 * [LogicBone](https://github.com/oskirby/logicbone). LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
 * [LUNA](https://github.com/greatscottgadgets/luna). A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
 * [Muselabs ECP5](https://www.aliexpress.com/item/1005001686186007.html)- Colorlight i5 module + a motherboard (6PMODs)
