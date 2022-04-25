@@ -57,6 +57,7 @@
 ## LP1K
 
 * [CaribouLite](https://github.com/cariboulabs/cariboulite) - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+* [iCESugar-nano](https://github.com/wuxx/icesugar-nano) - iCESugar FPGA Board base on iCE40LP1K-CM36
 
 ## LP4K
 
@@ -101,6 +102,7 @@
 * [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0)
 * [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM)
 * [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
+* [iCESugar](https://github.com/wuxx/icesugar) - iCESugar FPGA Board base on iCE40UP5k
 
 Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/icestudio/a409351407303ba62b408dbd288cbc2db7cebeac/app/resources/boards/iCE40-UP5K/pinout.json)
 
