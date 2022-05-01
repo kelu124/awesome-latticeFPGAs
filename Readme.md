@@ -88,7 +88,7 @@
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
 * [iCE40-feather](https://github.com/joshajohnson/iCE40-feather). Revision 0.2 was designed in 2021.
-* [ICESugar FPGA](https://www.aliexpress.com/item/4001201771358.html) - aliExpress adaptation. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far.
+* [ICESugar FPGA](https://github.com/wuxx/icesugar) - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far. Aliexpress: https://www.aliexpress.com/item/4001201771358.html  
 * [lit3rick](https://github.com/kelu124/lit3rick/) - open source ultrasound pulse-echo raspberry pi hat shaped.
 * [MCUPduino](https://www.eet-china.com/mp/a78119.html)
 * [MTX-BC48-DB](https://groupgets.com/campaigns/918-mtx-camera-ble-development-board) UP5K + BLE [Github](https://github.com/mitexus/MTX-BC48-DB-Development-Board)
@@ -102,7 +102,7 @@
 * [UPDuino v3.0](https://github.com/tinyvision-ai-inc/UPduino-v3.0)
 * [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM)
 * [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
-* [iCESugar](https://github.com/wuxx/icesugar) - iCESugar FPGA Board base on iCE40UP5k
+
 
 Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/icestudio/a409351407303ba62b408dbd288cbc2db7cebeac/app/resources/boards/iCE40-UP5K/pinout.json)
 
