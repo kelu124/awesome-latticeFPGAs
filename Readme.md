@@ -125,9 +125,11 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [LUNA](https://github.com/greatscottgadgets/luna). A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
 * [Muselabs ECP5](https://www.aliexpress.com/item/1005001686186007.html)- Colorlight i5 module + a motherboard (6PMODs)
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab). ECP5 breakout board in a feather physical format.
+* [OVIO Core](https://github.com/korken89/ovio_core) A project to try out different vision processing pipelines, for Visual Inertial Odometry (VIO), on the ECP5 FPGA.
 * [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU.
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard). Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD.
 * [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) by Radiona.org 
+* [ULX4M](https://github.com/intergalaktik/ULX4M_documents/tree/main/campaign). ULX4M is a modular version of the popular open hardware project ULX3S.
 
 
 ## Other commercial products 
@@ -154,7 +156,6 @@ HX8K and ECP5 so far. (and now up5k!)
 * [Elgato CameraLink 4K](https://www.amazon.fr/Elgato-20GAM9901-diffusion-enregistrement-cam%C3%A9scope/dp/B07K3FN5MR/). Running [LiTex](https://github.com/enjoy-digital/camlink_4k/) for example.
 * [Full HD 1080P HDMI SDI Capture Card PCIe](https://www.aliexpress.com/item/32736346359.html?storeId=2349192&spm=a2g1y.12024536.productList_2412217.subject_3) - 136eur
 * [NUT2NT+](https://www.crowdsupply.com/amungo-navigation/nut2nt-plus). Four-channel, all-frequency, GNSS RF-to-bits receiver for precision, satellite-based positioning.
-
 * [TinySDR](https://deepai.org/publication/tinysdr-low-power-sdr-platform-for-over-the-air-programmable-iot-testbeds). LFE5U-25F. https://arxiv.org/abs/1907.02063.
 
 ### LFE3
