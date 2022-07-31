@@ -77,7 +77,8 @@
 
 * [Doppler](https://dadamachines.com/product/doppler/). Cortex M4F Microcontroller + FPGA development board.
 * [Fomu](https://www.crowdsupply.com/sutajio-kosagi/fomu) (FTDI). An FPGA board that fits inside your USB port.
-* [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko.*
+* [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko.
+* [Humble ICE](https://twitter.com/mkvenkit/status/1543988508263878656) - RP2040 + iCE40UP5k.
 * [ice40helper](https://github.com/kehribar/ice40helper)
 * [icehat](http://ebrombaugh.studionebula.com/embedded/icehat/index.html). On [github too](https://github.com/emeb/icehat) - with [custom flashing code](https://github.com/emeb/icehat/tree/master/ice_tool)
 * [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) (FTDI). iCE40 UltraPlus breakout board - Enables designers to evaluate key connectivity features of the iCE40 UltraPlus FPGA. The breakout board brings out all I/Os and allows the FPGA to be programmed over a USB connector. Proprietary.
@@ -93,6 +94,7 @@
 * [MCUPduino](https://www.eet-china.com/mp/a78119.html)
 * [MTX-BC48-DB](https://groupgets.com/campaigns/918-mtx-camera-ble-development-board) UP5K + BLE [Github](https://github.com/mitexus/MTX-BC48-DB-Development-Board)
 * [pi_smi_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf). Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
+* [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice). Raspberry Pi PICO (RP2040) with a Lattice iCE40UP5K FPGA.
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D). 3D games console based on RP2040 and iCE40 UP5k
 * [reDIP SID](https://github.com/daglem/reDIP-SID). The reDIP SID provides a fully functional open source hardware platform for MOS 6581/8580 SID emulation. The reDIP SID also aims to be a good no-frills generic choice for FPGA projects which may find use for audio and/or 5V tolerant I/O - it should be ideal for for e.g. retro computer and synthesizer projects.
 * [S1 Module](https://docs.siliconwitchery.com/hardware/s1-module/). 6 x 12mm! An FPGA, Bluetooth Radio and Battery Management IC combined into one tiny form factor. BT 5.2, UP5k, 
