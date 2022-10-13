@@ -75,6 +75,7 @@
 
 ## UP5K
 
+* [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) -  The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted wifi stack.
 * [Doppler](https://dadamachines.com/product/doppler/). Cortex M4F Microcontroller + FPGA development board.
 * [Fomu](https://www.crowdsupply.com/sutajio-kosagi/fomu) (FTDI). An FPGA board that fits inside your USB port.
 * [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko.
@@ -85,11 +86,13 @@
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [ice40-dev-board](https://github.com/medhyal/ice40-dev-board) by medhyal - simple breakout board
 * [ICEd ESPresso](https://twitter.com/cibomahto/status/1423609225503297537?t=OkZXMu2I1T0LrS-tYUs4mw&s=19) - a tiny, WiFi-enabled FPGA+microcontroller dev board
+* [ICE-dongle](https://github.com/emeb/ice-dongle) USB-C Dongle with ice40 UP5k FPGA
 * [iCEboy](https://github.com/rniwase/iCEboy) Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
 * [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
 * [iCE40-feather](https://github.com/joshajohnson/iCE40-feather). Revision 0.2 was designed in 2021.
-* [ICESugar FPGA](https://github.com/wuxx/icesugar) - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far. Aliexpress: https://www.aliexpress.com/item/4001201771358.html  
+* [ICESugar FPGA](https://github.com/wuxx/icesugar) - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far. Aliexpress: https://www.aliexpress.com/item/4001201771358.html
+* [ICE-V Wireless](https://www.cnx-software.com/2022/06/27/ice-v-wireless-fpga-board-lattice-semi-ice40-fpga-wifi-ble-module/): Lattice Semi ICE40 boards are pretty popular notably thanks to the availability of open-source tools. ICE-V Wireless is another ICE40 UltraPlus FPGA board that also adds wireless support through an ESP32-C3-MINI-1 module with WiFi 4 and Bluetooth LE connectivity.
 * [lit3rick](https://github.com/kelu124/lit3rick/) - open source ultrasound pulse-echo raspberry pi hat shaped.
 * [MCUPduino](https://www.eet-china.com/mp/a78119.html)
 * [MTX-BC48-DB](https://groupgets.com/campaigns/918-mtx-camera-ble-development-board) UP5K + BLE [Github](https://github.com/mitexus/MTX-BC48-DB-Development-Board)
