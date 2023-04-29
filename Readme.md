@@ -63,6 +63,7 @@
 
 * [ice5 Breakout Board](http://ebrombaugh.studionebula.com/embedded/ice5_breakout/index.html)
 * [iceRadio](https://github.com/emeb/iceRadio) or [website](http://ebrombaugh.studionebula.com/radio/iceRadio/index.html). _This is a test prototype for experimenting with Software Defined Radio (SDR)._
+* [IcyBlue](https://www.crowdsupply.com/oak-dev-tech/icyblue-fpga-feather) - IcyBlue FPGA Feather is a breadboard-friendly, battery-backed, intuitive platform for FPGA development using a Lattice iCE40 FPGA. 
 * [STM32F303 + ice5](http://ebrombaugh.studionebula.com/embedded/f303_ice5/) 
 
 ## LP8K
@@ -123,6 +124,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
 * [FUSBee5](https://hackaday.io/project/170694-fusbee5) - ft600 board
 * [Kilsyth](https://hackaday.io/project/165380-kilsyth-ecp5-fpga-and-a-usb-30-fifo-bridge)  - ft600 board
+* [Kopflos](https://machdyne.com/product/kopflos-computer/) - Kopflos is an FPGA-based headless computer designed as a personal server for running timeless applications on Linux.
 * [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
 * [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
 * [LimeSDR Mini 2.0](https://www.clivemaxfield.com/goodbye-limesdr-mini-hello-limesdr-mini-2-0/). Boasting an LMS7002M FPRF from Lime and an ECP5 FPGA from Lattice, the LimeSDR Mini 2.0 platform will be ideal for developing logic intensive SDRs.
