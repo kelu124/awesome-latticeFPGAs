@@ -1,4 +1,4 @@
-# Awesome Lattice FPGA boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
+	# Awesome Lattice FPGA boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome#readme)
 > A curated list of awesome open-source FPGA boards
 
 ## CrossLink-NX 
@@ -14,6 +14,9 @@
 * [iceZUM Alhambra](https://alhambrabits.com/alhambra/) (FTDI)
 * [NANDLand GoBoard](https://www.nandland.com/goboard/introduction.html) (FTDI) comes with VGA, 2x7-seg displays
 * [Olimex iCE40HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware). (Serial). Proprietary.
+* [simpleFE](https://www.crowdsupply.com/ning-wang/simplefe) simpleFE is a low-cost, open source, easy-to-use mixed-signal frontend. It is built to serve as a versatile bridge, performing high speed analog-to-digital and digital-to-analog conversions.
+
+
 
 ## HX4K
 
@@ -97,6 +100,7 @@
 * [lit3rick](https://github.com/kelu124/lit3rick/) - open source ultrasound pulse-echo raspberry pi hat shaped.
 * [MCUPduino](https://www.eet-china.com/mp/a78119.html)
 * [MTX-BC48-DB](https://groupgets.com/campaigns/918-mtx-camera-ble-development-board) UP5K + BLE [Github](https://github.com/mitexus/MTX-BC48-DB-Development-Board)
+* [nrfICE](https://www.crowdsupply.com/hurley-research/nrfice) UP5K + nRF5340
 * [pi_smi_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf). Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
 * [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice). Raspberry Pi PICO (RP2040) with a Lattice iCE40UP5K FPGA.
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D). 3D games console based on RP2040 and iCE40 UP5k
@@ -131,6 +135,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [LogicBone](https://github.com/oskirby/logicbone). LFE5UM5G-45F-8BG381C + 8Gb DDR3L.
 * [LUNA](https://github.com/greatscottgadgets/luna). A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
 * [Muselabs ECP5](https://www.aliexpress.com/item/1005001686186007.html)- Colorlight i5 module + a motherboard (6PMODs)
+* [NUT2NT+ ](https://www.crowdsupply.com/amungo-navigation/nut2nt-plus) NUT2NT+ is an open source, multi-frequency, multi-signal, front-end GNSS receiver board built around the NT1065 chip. It’s a low-power, low-cost, all-GNSS RF-to-bits receiver for satellite navigation enthusiasts.
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab). ECP5 breakout board in a feather physical format.
 * [OVIO Core](https://github.com/korken89/ovio_core) A project to try out different vision processing pipelines, for Visual Inertial Odometry (VIO), on the ECP5 FPGA.
 * [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU.
@@ -160,8 +165,10 @@ HX8K and ECP5 so far. (and now up5k!)
 * [Colorlight S2] -> See [image](https://images-na.ssl-images-amazon.com/images/I/71LIIdGKd2L._SL1200_.jpg)
 * [Colorlight I5A-F](https://www.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0&btsid=773bcf40-222b-450f-805c-af72623f12e1&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55) 
 * [Colorlight i9](https://www.alibaba.com/product-detail/Colorlight-i9-receiving-card-for-LED_62044421025.html?spm=a2700.7724857.discountZoneStyleB_top.2.6d4349bbzweop9). Colorlight i9 receiving card for LED display led video wall . 68*36mm.
+* [Cynthion](https://www.crowdsupply.com/great-scott-gadgets/cynthion) Cynthion is an all-in-one tool for building, testing, monitoring, and experimenting with USB devices. Built around a unique FPGA-based architecture, Cynthion’s digital hardware can be fully customized to suit the application at hand. As a result, it can act as a no-compromise High-Speed USB protocol analyzer, a USB-hacking multi-tool, or a USB development platform.
 * [Elgato CameraLink 4K](https://www.amazon.fr/Elgato-20GAM9901-diffusion-enregistrement-cam%C3%A9scope/dp/B07K3FN5MR/). Running [LiTex](https://github.com/enjoy-digital/camlink_4k/) for example.
 * [Full HD 1080P HDMI SDI Capture Card PCIe](https://www.aliexpress.com/item/32736346359.html?storeId=2349192&spm=a2g1y.12024536.productList_2412217.subject_3) - 136eur
+* [HPE ProLiant DL380T Gen10 Lattice FPGA](https://www.servethehome.com/hpe-proliant-dl380t-gen10-trusted-supply-chain-server-teardown/hpe-proliant-dl380t-gen10-lattice-fpga/) server
 * [NUT2NT+](https://www.crowdsupply.com/amungo-navigation/nut2nt-plus). Four-channel, all-frequency, GNSS RF-to-bits receiver for precision, satellite-based positioning.
 * [TinySDR](https://deepai.org/publication/tinysdr-low-power-sdr-platform-for-over-the-air-programmable-iot-testbeds). LFE5U-25F. https://arxiv.org/abs/1907.02063.
 
