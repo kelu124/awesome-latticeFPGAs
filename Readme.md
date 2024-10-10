@@ -103,14 +103,14 @@
 * [MTX-BC48-DB](https://groupgets.com/campaigns/918-mtx-camera-ble-development-board) UP5K + BLE [Github](https://github.com/mitexus/MTX-BC48-DB-Development-Board)
 * [nrfICE](https://www.crowdsupply.com/hurley-research/nrfice) UP5K + nRF5340
 * [pi_smi_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf). Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
-* [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice). Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site 1](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Web site2](https://pico-ice.tinyvision.ai/). 
+* [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice). Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site 1](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/). 
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D). 3D games console based on RP2040 and iCE40 UP5k
 * [reDIP SID](https://github.com/daglem/reDIP-SID). The reDIP SID provides a fully functional open source hardware platform for MOS 6581/8580 SID emulation. The reDIP SID also aims to be a good no-frills generic choice for FPGA projects which may find use for audio and/or 5V tolerant I/O - it should be ideal for for e.g. retro computer and synthesizer projects.
-* [S1 Module](https://docs.siliconwitchery.com/s1-module/s1-module/). Nordic nRF52811 with BlueTooth,  Maxim MAX77654 PMIC Battery Management, 32-Mbit of on board Flash,  6x12 mm. 
+* [S1 Module](https://github.com/siliconwitchery/s1-module-kicad-library). Nordic nRF52811 with BlueTooth,  Maxim MAX77654 PMIC Battery Management, 32-Mbit of on board Flash,  6x12 mm. [Web site](https://docs.siliconwitchery.com/s1-module/s1-module/).
 * [SingularitySurfer](https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier): An FPGA Lock-In Amplifier
 * [UPDuino v1.0](http://www.gnarlygrey.com/?i=1) (serial)
 * [UPDuino v2.0](http://www.gnarlygrey.com/?i=1) (FTDI)
-* [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) 
+* [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
 * [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM)
 * [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
 
