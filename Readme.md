@@ -100,7 +100,7 @@
 * [ICE-V Wireless](https://www.cnx-software.com/2022/06/27/ice-v-wireless-fpga-board-lattice-semi-ice40-fpga-wifi-ble-module/): Lattice Semi ICE40 boards are pretty popular notably thanks to the availability of open-source tools. ICE-V Wireless is another ICE40 UltraPlus FPGA board that also adds wireless support through an ESP32-C3-MINI-1 module with WiFi 4 and Bluetooth LE connectivity.
 * [lit3rick](https://github.com/kelu124/lit3rick/) - open source ultrasound pulse-echo raspberry pi hat shaped.
 * [MCUPduino](https://www.eet-china.com/mp/a78119.html) STM32G031, 4 buttons, 4 LEDs.  In chinese. 
-* [MTX-BC48-DB](https://groupgets.com/campaigns/918-mtx-camera-ble-development-board) UP5K + BLE [Github](https://github.com/mitexus/MTX-BC48-DB-Development-Board)
+* [MTX-BC48-DB](https://github.com/mitexus/MTX-BC48-DB-Development-Board) UP5K + BLE  
 * [nrfICE](https://www.crowdsupply.com/hurley-research/nrfice) UP5K + nRF5340
 * [pi_smi_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf). Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
 * [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice). Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site 1](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/). 
