@@ -86,7 +86,7 @@
 * [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko.
 * [Humble ICE](https://electronut.in/humble-ice-july-2022/) - RP2040, 32 Mbit Flash. [Unfinished Firmware](https://twitter.com/mkvenkit/status/1844218996054425694).
 * [ice40helper](https://github.com/kehribar/ice40helper)
-* [icehat](http://ebrombaugh.studionebula.com/embedded/icehat/index.html). On [github too](https://github.com/emeb/icehat) - with [custom flashing code](https://github.com/emeb/icehat/tree/master/ice_tool)
+* [icehat](https://github.com/emeb/icehat). - with [custom flashing code](https://github.com/emeb/icehat/tree/master/ice_tool)
 * [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) (FTDI). iCE40 UltraPlus breakout board - Enables designers to evaluate key connectivity features of the iCE40 UltraPlus FPGA. The breakout board brings out all I/Os and allows the FPGA to be programmed over a USB connector. Proprietary.
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [ice40-dev-board](https://github.com/medhyal/ice40-dev-board) by medhyal - simple breakout board
