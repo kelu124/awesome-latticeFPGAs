@@ -103,7 +103,7 @@
 * [MTX-BC48-DB](https://github.com/mitexus/MTX-BC48-DB-Development-Board) UP5K + BLE  
 * [nrfICE](https://www.crowdsupply.com/hurley-research/nrfice) UP5K + nRF5340
 * [pi_smi_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf). Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
-* [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice). Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site 1](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/). 
+* [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice). Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/). 
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D). 3D games console based on RP2040 and iCE40 UP5k
 * [reDIP SID](https://github.com/daglem/reDIP-SID). The reDIP SID provides a fully functional open source hardware platform for MOS 6581/8580 SID emulation. The reDIP SID also aims to be a good no-frills generic choice for FPGA projects which may find use for audio and/or 5V tolerant I/O - it should be ideal for for e.g. retro computer and synthesizer projects.
 * [S1 Module](https://github.com/siliconwitchery/s1-module-kicad-library). Nordic nRF52811 with BlueTooth,  Maxim MAX77654 PMIC Battery Management, 32-Mbit of on board Flash,  6x12 mm. [Web site](https://docs.siliconwitchery.com/s1-module/s1-module/).
