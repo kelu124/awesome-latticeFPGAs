@@ -81,7 +81,7 @@
 ## UP5K
 
 * [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) -  The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted wifi stack.
-* [Doppler](https://dadamachines.com/product/doppler/). Cortex M4F Microcontroller + FPGA development board.
+* [Doppler](https://github.com/dadamachines/doppler). Cortex M4F Microcontroller + FPGA development board.
 * [Fomu](https://www.crowdsupply.com/sutajio-kosagi/fomu) (FTDI). An FPGA board that fits inside your USB port.
 * [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko.
 * [Humble ICE](https://electronut.in/humble-ice-july-2022/) - RP2040, 32 Mbit Flash. [Unfinished Firmware](https://twitter.com/mkvenkit/status/1844218996054425694).
