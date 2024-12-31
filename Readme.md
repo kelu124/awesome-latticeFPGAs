@@ -94,7 +94,9 @@
 * [ICE-dongle](https://github.com/emeb/ice-dongle) USB-C Dongle with ice40 UP5k FPGA
 * [iCEboy](https://github.com/rniwase/iCEboy) Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
-* [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
+* [ICEBreaker Bitsy](https://1bitsquared.de/products/icebreaker-bitsy) 
+[Github](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) The iCEBreaker Bitsy FPGA board is an open-source educational FPGA development board in the [Teensy form factor](https://www.pjrc.com/teensy/).  A crowd supply campaign, not yet shipping.  (No FTDI)
+
 * [iCE40-feather](https://github.com/joshajohnson/iCE40-feather). Revision 0.2 was designed in 2021.
 * [ICESugar FPGA](https://github.com/wuxx/icesugar) - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far. Aliexpress: https://www.aliexpress.com/item/4001201771358.html
 * [ICE-V Wireless](https://www.cnx-software.com/2022/06/27/ice-v-wireless-fpga-board-lattice-semi-ice40-fpga-wifi-ble-module/): Lattice Semi ICE40 boards are pretty popular notably thanks to the availability of open-source tools. ICE-V Wireless is another ICE40 UltraPlus FPGA board that also adds wireless support through an ESP32-C3-MINI-1 module with WiFi 4 and Bluetooth LE connectivity.
@@ -113,6 +115,7 @@
 * [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
 * [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM)
 * [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
+
 
 
 Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/icestudio/a409351407303ba62b408dbd288cbc2db7cebeac/app/resources/boards/iCE40-UP5K/pinout.json)
