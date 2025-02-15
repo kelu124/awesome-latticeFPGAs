@@ -81,12 +81,12 @@
 ## UP5K
 
 * [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) -  The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted wifi stack.
-* [Doppler](https://dadamachines.com/product/doppler/). Cortex M4F Microcontroller + FPGA development board.
+* [Doppler](https://github.com/dadamachines/doppler). Cortex M4F Microcontroller + FPGA development board.
 * [Fomu](https://www.crowdsupply.com/sutajio-kosagi/fomu) (FTDI). An FPGA board that fits inside your USB port.
 * [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko.
 * [Humble ICE](https://electronut.in/humble-ice-july-2022/) - RP2040, 32 Mbit Flash. [Unfinished Firmware](https://twitter.com/mkvenkit/status/1844218996054425694).
 * [ice40helper](https://github.com/kehribar/ice40helper)
-* [icehat](http://ebrombaugh.studionebula.com/embedded/icehat/index.html). On [github too](https://github.com/emeb/icehat) - with [custom flashing code](https://github.com/emeb/icehat/tree/master/ice_tool)
+* [icehat](https://github.com/emeb/icehat). - with [custom flashing code](https://github.com/emeb/icehat/tree/master/ice_tool)
 * [iCE40 UltraPlus Breakout Board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40UltraPlusBreakoutBoard) (FTDI). iCE40 UltraPlus breakout board - Enables designers to evaluate key connectivity features of the iCE40 UltraPlus FPGA. The breakout board brings out all I/Os and allows the FPGA to be programmed over a USB connector. Proprietary.
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [ice40-dev-board](https://github.com/medhyal/ice40-dev-board) by medhyal - simple breakout board
@@ -94,16 +94,18 @@
 * [ICE-dongle](https://github.com/emeb/ice-dongle) USB-C Dongle with ice40 UP5k FPGA
 * [iCEboy](https://github.com/rniwase/iCEboy) Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
 * [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
-* [iCEBreaker bitsy v1.1a](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) (no FTDI)
+* [ICEBreaker Bitsy](https://1bitsquared.de/products/icebreaker-bitsy) 
+[Github](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) The iCEBreaker Bitsy FPGA board is an open-source educational FPGA development board in the [Teensy form factor](https://www.pjrc.com/teensy/).  A crowd supply campaign, not yet shipping.  (No FTDI)
+
 * [iCE40-feather](https://github.com/joshajohnson/iCE40-feather). Revision 0.2 was designed in 2021.
 * [ICESugar FPGA](https://github.com/wuxx/icesugar) - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far. Aliexpress: https://www.aliexpress.com/item/4001201771358.html
 * [ICE-V Wireless](https://www.cnx-software.com/2022/06/27/ice-v-wireless-fpga-board-lattice-semi-ice40-fpga-wifi-ble-module/): Lattice Semi ICE40 boards are pretty popular notably thanks to the availability of open-source tools. ICE-V Wireless is another ICE40 UltraPlus FPGA board that also adds wireless support through an ESP32-C3-MINI-1 module with WiFi 4 and Bluetooth LE connectivity.
 * [lit3rick](https://github.com/kelu124/lit3rick/) - open source ultrasound pulse-echo raspberry pi hat shaped.
-* [MCUPduino](https://www.eet-china.com/mp/a78119.html)
-* [MTX-BC48-DB](https://groupgets.com/campaigns/918-mtx-camera-ble-development-board) UP5K + BLE [Github](https://github.com/mitexus/MTX-BC48-DB-Development-Board)
+* [MCUPduino](https://www.eet-china.com/mp/a78119.html) STM32G031, 4 buttons, 4 LEDs.  In chinese. 
+* [MTX-BC48-DB](https://github.com/mitexus/MTX-BC48-DB-Development-Board) UP5K + BLE  
 * [nrfICE](https://www.crowdsupply.com/hurley-research/nrfice) UP5K + nRF5340
 * [pi_smi_up5k](https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf). Lattice ice40 up5k Raspberry Pi hat designed for using the secondary memory interface (SMI).
-* [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice). Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site 1](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/). 
+* [Pico ICE](https://github.com/tinyvision-ai-inc/pico-ice). Raspberry Pi RP2040, two 4MB SPI Flash chips, 8MB qSPI SSRAM. [Web site](https://tinyvision.ai/products/pico-ice-fpga-trainer-board)  [Documentation](https://pico-ice.tinyvision.ai/). 
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D). 3D games console based on RP2040 and iCE40 UP5k
 * [reDIP SID](https://github.com/daglem/reDIP-SID). The reDIP SID provides a fully functional open source hardware platform for MOS 6581/8580 SID emulation. The reDIP SID also aims to be a good no-frills generic choice for FPGA projects which may find use for audio and/or 5V tolerant I/O - it should be ideal for for e.g. retro computer and synthesizer projects.
 * [S1 Module](https://github.com/siliconwitchery/s1-module-kicad-library). Nordic nRF52811 with BlueTooth,  Maxim MAX77654 PMIC Battery Management, 32-Mbit of on board Flash,  6x12 mm. [Web site](https://docs.siliconwitchery.com/s1-module/s1-module/).
@@ -115,12 +117,13 @@
 * [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
 
 
+
 Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/icestudio/a409351407303ba62b408dbd288cbc2db7cebeac/app/resources/boards/iCE40-UP5K/pinout.json)
 
 ## ECP5
 
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb). 6 PMODs + Raspberry Pi breakout.
-* [ButterStick](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
+* [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
 * [Darsena](https://mindchasers.com/dev/darsena-shield) -  the Private Island development board for FPGA-based open source networking
 * [ECPIX-5](https://twitter.com/LambdaConcept) - sources to be released. 
 * [ecp5-dev-board](https://github.com/medhyal/ecp5-dev-board) by medhyal - simple breakout board
