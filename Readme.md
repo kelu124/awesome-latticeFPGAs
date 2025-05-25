@@ -122,6 +122,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## ECP5
 
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) - ECP5 development board in a raspberry pi zero form
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb). 6 PMODs + Raspberry Pi breakout.
 * [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
 * [Darsena](https://mindchasers.com/dev/darsena-shield) -  the Private Island development board for FPGA-based open source networking
