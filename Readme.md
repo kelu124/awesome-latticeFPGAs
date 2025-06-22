@@ -8,7 +8,6 @@
 
 ## HX1K
 
-* [DIPSY EPT](https://wiki.trenz-electronic.de/pages/viewpage.action?pageId=20611802) (Emulator Programmer Tool)
 * [FPGA eink controller](https://hackaday.io/project/21168-fpga-eink-controller) on HAD. The idea is to control an old broken kindle 3 eink display with a FPGA.
 * [iCEblink40-HX1K](http://www.latticesemi.com/iceblink40-hx1k) by latticesemi. Proprietary.
 * [iCEstick Evaluation Kit](https://www.latticesemi.com/icestick) (FTDI)  by latticesemi. Proprietary.
