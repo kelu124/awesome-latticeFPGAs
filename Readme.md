@@ -130,6 +130,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [ECP5-mini](https://github.com/joshajohnson/ecp5-mini). Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841).
 * [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
 * [FUSBee5](https://hackaday.io/project/170694-fusbee5) - ft600 board
+* [Icepi Zero](https://github.com/cheyao/icepi-zero) - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [Kilsyth](https://hackaday.io/project/165380-kilsyth-ecp5-fpga-and-a-usb-30-fifo-bridge)  - ft600 board
 * [Kopflos](https://machdyne.com/product/kopflos-computer/) - Kopflos is an FPGA-based headless computer designed as a personal server for running timeless applications on Linux.
 * [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
