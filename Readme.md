@@ -21,6 +21,7 @@
 ## HX4K
 
 * [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) (FTDI)
+* [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
 * [BeagleWire FPGA](https://www.crowdsupply.com/qwerty-embedded-design/beaglewire) (GPIO Beagleboard): comes with 4 PMODs.
 * [BlackIce II](https://github.com/mystorm-org/BlackIce-II/wiki/Getting-Started) (Serial)
 * [BlackIce MX](https://www.tindie.com/products/Folknology/blackice-mx/) (Serial) - by MyStorm
