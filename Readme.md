@@ -45,6 +45,7 @@
 * [picohx](https://github.com/dan-rodrigues/pico-hx) combines an iCE40 HX FPGA with the Raspberry Pi Pico. The Pico can program the FPGA over USB using a script included in this repo and then interact with it using GPIO.
 * [riegel](https://github.com/machdyne/riegel) - Riegel is an FPGA computer designed by Lone Dynamics Corporation. 
 * [un0rick](http://un0rick.cc) (FTDI, GPIO RPi) - ultrasound tool
+* [X65-SBC](https://hackaday.io/project/194866-x65-sbc) - a fully open-source 65C02/65C816 retro computer using an iCE40HX4K system controller plus two iCE40UP5K FPGAs for VGA video and stereo audio.
 
 ## HX8K
 
@@ -78,6 +79,8 @@
 * [ice5 Breakout Board](http://ebrombaugh.studionebula.com/embedded/ice5_breakout/index.html) **(outdated)**
 * [iceRadio](https://github.com/emeb/iceRadio) or [website](http://ebrombaugh.studionebula.com/radio/iceRadio/index.html). _This is a test prototype for experimenting with Software Defined Radio (SDR)._ **(outdated)**
 * [IcyBlue](https://www.crowdsupply.com/oak-dev-tech/icyblue-fpga-feather) - IcyBlue FPGA Feather is a breadboard-friendly, battery-backed, intuitive platform for FPGA development using a Lattice iCE40 FPGA.  **(outdated)**
+* [Lattice FeatherWing](https://www.tindie.com/products/oakdevtech/lattice-featherwing-the-ice40-featherwing/) - an FPGA add-on for Adafruit Feather boards bringing every iCE5LP4K pin to 0.1" headers, controlled over SPI.
+* [RPGA Feather](https://www.tindie.com/products/oakdevtech/rpga-feather-rp2040-ice40/) - a Feather-format board pairing an RP2040 with an iCE5LP4K FPGA for sensor-fusion and custom logic projects.
 * [STM32F303 + ice5](http://ebrombaugh.studionebula.com/embedded/f303_ice5/) **(outdated)**
 
 ## LP8K
@@ -95,7 +98,6 @@
 * [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) -  The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted wifi stack.
 * [Doppler](https://github.com/dadamachines/doppler). Cortex M4F Microcontroller + FPGA development board. **(outdated)**
 * [Fomu](https://www.crowdsupply.com/sutajio-kosagi/fomu) (FTDI). An FPGA board that fits inside your USB port.
-* [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko. **(outdated)**
 * [Humble ICE](https://electronut.in/humble-ice-july-2022/) - RP2040, 32 Mbit Flash. [Unfinished Firmware](https://twitter.com/mkvenkit/status/1844218996054425694).
 * [ice40helper](https://github.com/kehribar/ice40helper) **(outdated)**
 * [ice40-dip40](https://github.com/esynr3z/ice40-dip40) - a miniature DIP40-like breakout board for the iCE40 Ultra/UltraPlus.
@@ -113,6 +115,7 @@
 * [ICEBreaker Bitsy](https://1bitsquared.de/products/icebreaker-bitsy) 
 [Github](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) The iCEBreaker Bitsy FPGA board is an open-source educational FPGA development board in the [Teensy form factor](https://www.pjrc.com/teensy/).  A crowd supply campaign, not yet shipping.  (No FTDI)
 
+* [iCE40 Feather (whatnick)](https://www.tindie.com/products/whatnick/ice40-feather/) - a compact iCE40UP5K learning board in Adafruit Feather form factor with USB-C programming (distinct from the joshajohnson iCE40-feather below).
 * [iCE40-feather](https://github.com/joshajohnson/iCE40-feather). Revision 0.2 was designed in 2021. **(outdated)**
 * [ICESugar FPGA](https://github.com/wuxx/icesugar) - iCESugar FPGA Board base on iCE40UP5k. [Website](https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/) [repo](https://github.com/wuxx/icesugar). V1.5 so far. Aliexpress: https://www.aliexpress.com/item/4001201771358.html
 * [ICE-V Wireless](https://www.cnx-software.com/2022/06/27/ice-v-wireless-fpga-board-lattice-semi-ice40-fpga-wifi-ble-module/): Lattice Semi ICE40 boards are pretty popular notably thanks to the availability of open-source tools. ICE-V Wireless is another ICE40 UltraPlus FPGA board that also adds wireless support through an ESP32-C3-MINI-1 module with WiFi 4 and Bluetooth LE connectivity.
@@ -139,7 +142,10 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 
 ## MachXO2
 
+* [Lattice MachXO2-1200HC FPGA Core Board](https://www.tindie.com/products/novasteptech/lattice-machxo2-1200hc-fpga-core-board/) - a tiny LCMXO2-1200HC core module with an onboard USB programmer, UART, 14 GPIOs and 12 MHz clock.
+* [STEP-MXO2](https://www.tindie.com/products/evoinmotion/fpga-development-board-step-mxo2/) - a breadboard-friendly 40-pin DIP LCMXO2-4000HC education board with USB-JTAG, displays, RGB LEDs, buttons and switches.
 * [TinyFPGA A-Series](https://github.com/tinyfpga/TinyFPGA-A-Series) - tiny, breadboard-friendly bare-bones MachXO2 breakout boards programmed over JTAG (A1: MachXO2-256, A2: MachXO2-1200).
+* [VHDL Training Board](https://www.tindie.com/products/microwavemont/vhdl-training-board-by-fpga/) - a LCMXO2-1200HC prototyping board aimed at VHDL learning.
 
 ## ECP5
 
@@ -170,10 +176,20 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [OrangeCrab](https://github.com/gregdavill/OrangeCrab). ECP5 breakout board in a feather physical format.
 * [OVIO Core](https://github.com/korken89/ovio_core) A project to try out different vision processing pipelines, for Visual Inertial Odometry (VIO), on the ECP5 FPGA. **(outdated)**
 * [Pergola](https://github.com/pergola-fpga/pergola). Lattice ECP5 and an iMX RT MCU. **(outdated)**
+* [PicoFabric](https://www.tindie.com/products/picolemon/picofabric/) - a small ECP5 (LFE5U-12F) FPGA module for the Raspberry Pi Pico with dual HyperRAM and a VS Code toolchain. [Hardware](https://github.com/picolemon/picofabric-hardware).
 * [Schoko](https://machdyne.com/product/schoko-computer/) - Schoko is a compact ECP5 (LFE5U-45F) computer/dev board by Lone Dynamics with HDMI, USB and PMOD expansion.
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard). Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD. **(outdated)**
 * [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) by Radiona.org 
 * [ULX4M](https://github.com/intergalaktik/ULX4M_documents/tree/main/campaign). ULX4M is a modular version of the popular open hardware project ULX3S.
+
+
+## Conference badges
+
+* [DEF CON 28 DCFurs badge](https://github.com/defconfurs/dcfurs-badge-dc28) (2020) - DEF CON furry-community badge with a RISC-V soft core and MEMS-mic voice reactivity on an iCE40 UltraPlus (UP5K).
+* [FPGA 101 Workshop Badge Board](https://github.com/mmicko/fpga101-workshop) (FTDI) by mmicko. An iCE40 UP5K workshop badge (Hackaday Belgrade). **(outdated)**
+* [GreyBadge](https://github.com/NUSGreyhats/greybadge25) (GreyCTF 2025) - NUS Greyhats CTF badge pairing an RP2350 with an ECP5 (LFE5U-25) used as a hardware CTF challenge surface.
+* [hadbadge 2019](https://github.com/Spritetm/hadbadge2019_fpgasoc) (Hackaday Supercon 2019) - Sprite_TM's Game Boy-shaped badge with an ECP5 (LFE5U-45F) running a RISC-V soft core on the open toolchain. [PCB](https://github.com/Spritetm/hadbadge2019_pcb).
+* [MCH2022 badge](https://github.com/badgeteam/mch2022-badge-hardware) (May Contain Hackers 2022) - badge.team ESP32-S3 + RP2040 badge whose iCE40UP5K runs user gateware for video/IO. [FPGA examples](https://github.com/badgeteam/mch2022-firmware-ice40).
 
 
 ## Other commercial products 
@@ -188,6 +204,7 @@ HX8K and ECP5 so far. (and now up5k!)
 
 ### HX8K
 
+* [Valve Index](https://www.ifixit.com/Guide/Valve+Index+Chip+ID/155948) - Valve's PC-VR headset uses iCE40HX8K FPGAs on the HMD and both controller handles for lighthouse sensor fusion.
 * [Vive HMD](https://tech.nikkeibp.co.jp/dm/atclen/news_en/15mk/050100551/). See teardown. **(outdated)**
 
 ### ECP5
@@ -202,9 +219,12 @@ HX8K and ECP5 so far. (and now up5k!)
 * [Elgato CameraLink 4K](https://www.amazon.fr/Elgato-20GAM9901-diffusion-enregistrement-cam%C3%A9scope/dp/B07K3FN5MR/). Running [LiTex](https://github.com/enjoy-digital/camlink_4k/) for example.
 * [Full HD 1080P HDMI SDI Capture Card PCIe](https://www.aliexpress.com/item/32736346359.html?storeId=2349192&spm=a2g1y.12024536.productList_2412217.subject_3) - 136eur
 * [HPE ProLiant DL380T Gen10 Lattice FPGA](https://www.servethehome.com/hpe-proliant-dl380t-gen10-trusted-supply-chain-server-teardown/hpe-proliant-dl380t-gen10-lattice-fpga/) server
+* [Magewell USB Capture Plus](https://www.magewell.com/products/usb-capture-plus-family) - USB 3.0 HDMI/SDI/DVI capture dongles doing onboard scaling/deinterlacing/color conversion on Lattice ECP3 (LFE3) + ECP5 FPGAs (confirmed by Lattice).
 * [NUT2NT+](https://www.crowdsupply.com/amungo-navigation/nut2nt-plus). Four-channel, all-frequency, GNSS RF-to-bits receiver for precision, satellite-based positioning.
+* [Schlappi Engineering Three Body](https://schlappiengineering.com/products/three-body) - a Eurorack triple oscillator for FM/phase-modulation synthesis, built on a Lattice ECP5 with the open Yosys/nextpnr toolchain.
 * [SD2SNES (ECP5)](https://github.com/samlittlewood/sd2snes_ecp5) - @samlittlewood's ECP5-based reboot of the sd2snes SNES flash cartridge.
 * [TinySDR](https://deepai.org/publication/tinysdr-low-power-sdr-platform-for-over-the-air-programmable-iot-testbeds). LFE5U-25F. https://arxiv.org/abs/1907.02063.
+* [Zeal 8-bit Video Board](https://www.tindie.com/products/zeal8bit/zeal-8-bit-video-board-homebrew-vga-board/) - a pre-assembled ECP5-based VGA/graphics + audio + TF-card expansion board for the Z80 Zeal 8-bit Computer.
 
 ### LFE3
 
@@ -213,16 +233,23 @@ HX8K and ECP5 so far. (and now up5k!)
 
 ### Others
 
-* [MHS5200A](https://sigrok.org/wiki/MHINSTEK_MHS-5200A) - though it seems a MACH XO2
+* [Apple iPhone 7 / 7 Plus](https://www.ifixit.com/Teardown/iPhone+7+Teardown/67382) - contains a Lattice iCE5LP4K (iCE40 Ultra) as an always-on sensor co-processor; the first FPGA in an iPhone (iFixit/Chipworks).
+* [Apple Vision Pro](https://www.ifixit.com/Guide/Apple+Vision+Pro+Chip+ID/169813) - Apple's spatial headset carries the same Lattice iCE5LP4K (iCE40 Ultra) on its logic board.
 * [DMM6500](https://xdevs.com/review/dmm6500/). ECP5 in the teardown.
+* [Elgato Game Capture 4K60 Pro](https://gamersnexus.net/hwreviews/3272-elgato-4k60-pro-capture-card-review-pc-xbox) - PCIe 4K60 HDMI capture card using a Lattice MachXO3L (LCMXO3L-6900C) per the GamersNexus teardown.
 * [HPE ProLiant DL380T Gen10](https://www.servethehome.com/hpe-proliant-dl380t-gen10-trusted-supply-chain-server-teardown/3/)
+* [MHS5200A](https://sigrok.org/wiki/MHINSTEK_MHS-5200A) - though it seems a MACH XO2
+* [Siglent SDS1000X](https://www.eevblog.com/2015/09/23/eevblog-800-siglent-1000x-oscilloscope-teardown/) - the original "SPO" oscilloscope carries a Lattice MachXO FPGA on the acquisition board per the EEVblog #800 teardown (exact part not stated; the later SDS1000X-E is Xilinx).
 
 ### To follow up
 
-* Low cost HDMI-to-USB3 capture dongle. Let's wait for more teardowns. 
-* [Funnyplaying GBA SP IPS](https://www.reddit.com/r/Gameboy/comments/emi3aw/funnyplaying_gba_sp_ips_screen_clones_are_out/). Guessing those are Lattice fpgas.
 * @ryzerth and up5K https://twitter.com/ryzerth/status/1353099970635849728/photo/1
 * [$38 K210 AI Accelerator HAT](http://linuxgizmos.com/raspberry-pi-hat-combines-k210-ai-chip-with-trust-m-security/) contains a Lattice iCE40 (confirmed by the article; exact part not stated).
+* [Inogeni SDI2USB3](https://inogeni.com/product/sdi2usb3/) - SDI/HDMI-to-USB3 converter, likely a Lattice ECP3 (LFE3-17EA) per Lattice's reference design, but not yet confirmed by a teardown.
+* [PixelFX Retro GEM](https://pixelfx.co/) - HDMI digital-video mod kits (N64/PS1/PS2/GameCube/Dreamcast); FPGA-based, but the vendor/part is not yet confirmed as Lattice.
+* AR smart glasses (Xreal / Rokid / RayNeo, etc.) - CrossLink-NX MIPI display bridging is plausible but unconfirmed by a teardown.
+
+Refuted (checked, **not** Lattice): Funnyplaying FPGA kits and ModRetro Chromatic use Gowin; cheap HDMI-to-USB3 dongles use a MacroSilicon MS2109/MS2130 ASIC; Analogue Pocket/Super Nt/Mega Sg use Altera Cyclone.
 
 ## Contribute
 
