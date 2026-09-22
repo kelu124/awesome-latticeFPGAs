@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": "LFE5U-45F"
+    "part": "LFE5U-45F",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "Conference badges",
   "category": "badge",
@@ -12,7 +14,7 @@
     "interface": null,
     "details": "Runs a RISC-V soft core on the open toolchain."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -28,5 +30,8 @@
     "badge"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "badge",
+  "repo": "https://github.com/Spritetm/hadbadge2019_fpgasoc"
 }

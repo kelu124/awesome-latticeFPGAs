@@ -4,7 +4,7 @@
   "title": "Lattice FPGA board",
   "type": "object",
   "additionalProperties": false,
-  "required": ["name", "url", "fpga", "section", "category", "programming", "description", "outdated", "last_updated"],
+  "required": ["name", "url", "fpga", "section", "category", "programming", "toolchain", "form_factor", "companion_mcu", "repo", "description", "outdated", "last_updated"],
   "properties": {
     "name": { "type": "string" },
     "last_updated": { "type": "string", "format": "date", "description": "ISO date (YYYY-MM-DD) this record was last updated/verified." },
@@ -12,11 +12,21 @@
     "fpga": {
       "type": "object",
       "additionalProperties": false,
-      "required": ["vendor", "family", "part"],
+      "required": ["vendor", "family", "part", "source", "confidence"],
       "properties": {
         "vendor": { "type": "string" },
         "family": { "type": "string" },
-        "part": { "type": ["string", "null"] }
+        "part": { "type": ["string", "null"] },
+        "source": {
+          "type": ["string", "null"],
+          "description": "Evidence for the Lattice-part claim.",
+          "enum": ["product-page", "datasheet", "teardown", "reference-design", "repo", "article", null]
+        },
+        "confidence": {
+          "type": ["string", "null"],
+          "description": "How firmly the Lattice part is established.",
+          "enum": ["confirmed", "likely", "unconfirmed", null]
+        }
       }
     },
     "section": { "type": "string" },
@@ -33,11 +43,28 @@
         "details": { "type": ["string", "null"] }
       }
     },
-    "companion_mcu": { "type": ["string", "null"] },
+    "toolchain": {
+      "type": ["string", "null"],
+      "description": "Bitstream toolchain support: open (yosys/nextpnr + IceStorm/Trellis/Oxide), proprietary (Lattice Diamond/Radiant), or both.",
+      "enum": ["open", "proprietary", "both", null]
+    },
+    "form_factor": {
+      "type": ["string", "null"],
+      "description": "Physical form factor, e.g. Feather, Raspberry Pi HAT, DIP, Teensy, M.2, SO-DIMM, SYZYGY, USB dongle, badge, PCIe card, SoM. null if a generic dev board."
+    },
+    "companion_mcu": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "On-board microcontroller(s)/radio SoC(s) paired with the FPGA (may be more than one). [] if none."
+    },
     "connectivity": { "type": "array", "items": { "type": "string" } },
     "pmod_count": { "type": ["integer", "null"] },
     "osh": { "type": ["boolean", "null"] },
     "maker": { "type": ["string", "null"] },
+    "repo": {
+      "type": ["string", "null"],
+      "description": "URL of the hardware design files (schematic/PCB/gateware source), if open; distinct from the primary url."
+    },
     "description": { "type": "string" },
     "links": {
       "type": "array",

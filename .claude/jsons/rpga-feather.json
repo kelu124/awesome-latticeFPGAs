@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 LP",
-    "part": "iCE5LP4K"
+    "part": "iCE5LP4K",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "LP4K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "RP2040",
     "details": "The on-board RP2040 programs the iCE5LP4K via three dedicated pins (CircuitPython)."
   },
-  "companion_mcu": "RP2040",
+  "companion_mcu": [
+    "RP2040"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": null,
@@ -23,5 +27,8 @@
     "feather"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "Feather",
+  "repo": null
 }

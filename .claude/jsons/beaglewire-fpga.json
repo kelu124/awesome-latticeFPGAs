@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 HX",
-    "part": "iCE40HX4K"
+    "part": "iCE40HX4K",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "HX4K",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "GPIO RPi",
     "details": "Programmed over the BeagleBone GPIO header (GPIO Beagleboard)."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": 4,
   "osh": true,
@@ -24,5 +26,8 @@
     "beaglebone"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": null
 }

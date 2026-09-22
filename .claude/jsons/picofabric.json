@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": "LFE5U-12F"
+    "part": "LFE5U-12F",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "Pico",
     "details": "A UF2 bootloader on the Raspberry Pi Pico (RP2040) provides a USB bitstream programmer (program.py)."
   },
-  "companion_mcu": "RP2040",
+  "companion_mcu": [
+    "RP2040"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -29,5 +33,8 @@
     "pico"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "module",
+  "repo": "https://github.com/picolemon/picofabric-hardware"
 }

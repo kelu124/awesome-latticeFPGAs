@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": null
+    "part": null,
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "JTAG",
     "details": "The Colorlight i5 module has no on-board programmer; the 4-pin JTAG header is loaded via an external FTDI adapter (openFPGALoader/ecpprog)."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": 6,
   "osh": null,
@@ -24,5 +26,8 @@
     "colorlight"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": null
 }

@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 HX",
-    "part": "iCE40HX4K"
+    "part": "iCE40HX4K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "HX4K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "RP2040",
     "details": "The on-board RP2040 programs the FPGA SRAM and flash over USB (ldprog)."
   },
-  "companion_mcu": "RP2040",
+  "companion_mcu": [
+    "RP2040"
+  ],
   "connectivity": [],
   "pmod_count": 1,
   "osh": true,
@@ -26,5 +30,8 @@
     "pmod"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "USB dongle",
+  "repo": "https://github.com/machdyne/kolibri"
 }

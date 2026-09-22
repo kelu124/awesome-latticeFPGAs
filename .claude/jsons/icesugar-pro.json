@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": "LFE5U-25F"
+    "part": "LFE5U-25F",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "microcontroller",
     "details": "An on-board iCELink debugger (APM32F1) exposes a drag-and-drop USB drive; also icesprog/openocd."
   },
-  "companion_mcu": "APM32F1",
+  "companion_mcu": [
+    "APM32F1"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -25,5 +29,8 @@
     "sodimm"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "SO-DIMM",
+  "repo": "https://github.com/wuxx/icesugar-pro"
 }

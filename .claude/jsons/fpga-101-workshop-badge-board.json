@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraPlus",
-    "part": "iCE40UP5K"
+    "part": "iCE40UP5K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "Conference badges",
   "category": "badge",
@@ -12,7 +14,7 @@
     "interface": "FTDI",
     "details": "FTDI USB chip provides JTAG/SPI programming."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -23,5 +25,8 @@
     "badge"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "badge",
+  "repo": "https://github.com/mmicko/fpga101-workshop"
 }

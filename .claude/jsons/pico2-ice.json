@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraPlus",
-    "part": "iCE40UP5K"
+    "part": "iCE40UP5K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "UP5K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "RP2350",
     "details": "The on-board RP2350 programs the FPGA in several ways and also supplies its clock."
   },
-  "companion_mcu": "RP2350",
+  "companion_mcu": [
+    "RP2350"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -23,5 +27,8 @@
     "pico"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/tinyvision-ai-inc/pico2-ice"
 }

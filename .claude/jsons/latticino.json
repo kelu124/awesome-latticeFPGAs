@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "MachXO2",
-    "part": "LCMXO2-1200"
+    "part": "LCMXO2-1200",
+    "source": "article",
+    "confidence": "likely"
   },
   "section": "To follow up",
   "category": "follow-up",
@@ -12,14 +14,26 @@
     "interface": "microcontroller",
     "details": "The on-board ESP32-PICO-D4 programs the MachXO2 over SPI, with Arduino IDE libraries. Project appears dormant (last active ~2020) and open-source design files are not clearly published."
   },
-  "companion_mcu": "ESP32-PICO-D4",
-  "connectivity": ["WiFi", "BLE"],
+  "companion_mcu": [
+    "ESP32-PICO-D4"
+  ],
+  "connectivity": [
+    "WiFi",
+    "BLE"
+  ],
   "pmod_count": null,
   "osh": null,
   "maker": null,
   "description": "One of the smallest ESP32 boards (12.5 x 30 mm, DIL20) pairing an ESP32-PICO with a MachXO2-1200 FPGA as an IoT building block; demoed GPIO-expander and I2S sigma-delta audio gateware.",
   "links": [],
-  "tags": ["esp32", "wireless", "machxo2"],
+  "tags": [
+    "esp32",
+    "wireless",
+    "machxo2"
+  ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "proprietary",
+  "form_factor": "DIP",
+  "repo": null
 }

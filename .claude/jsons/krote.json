@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 HX",
-    "part": "iCE40HX4K"
+    "part": "iCE40HX4K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "HX4K",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "SPI-flash",
     "details": "The ISP header programs the FPGA SRAM and the flash MMOD over SPI, via an external programmer (ldprog)."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": 5,
   "osh": true,
@@ -23,5 +25,8 @@
     "pmod"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/machdyne/krote"
 }

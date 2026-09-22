@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": "LFE5UM5G-85F"
+    "part": "LFE5UM5G-85F",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "FTDI",
     "details": "An on-board FT2232H provides debug JTAG and a UART/FIFO over the USB-C connector."
   },
-  "companion_mcu": "FT2232H",
+  "companion_mcu": [
+    "FT2232H"
+  ],
   "connectivity": [
     "PCIe",
     "Ethernet"
@@ -31,5 +35,8 @@
     "m2"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "M.2",
+  "repo": "https://github.com/gatecat/TrellisBoard"
 }

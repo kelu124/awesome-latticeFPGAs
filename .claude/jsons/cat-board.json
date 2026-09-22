@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 HX",
-    "part": "iCE40HX8K"
+    "part": "iCE40HX8K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "HX8K",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "GPIO RPi",
     "details": "Raspberry Pi HAT programmed over the Pi GPIO header."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -23,5 +25,8 @@
     "hat"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "Raspberry Pi HAT",
+  "repo": "https://github.com/xesscorp/CAT-Board"
 }

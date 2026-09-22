@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 LP",
-    "part": "iCE40LP384"
+    "part": "iCE40LP384",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "LP384",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": null,
     "details": null
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -23,5 +25,8 @@
     "pmod"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/Agilack/pmod/tree/master/logic-lp384"
 }

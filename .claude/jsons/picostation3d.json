@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraPlus",
-    "part": "iCE40UP5K"
+    "part": "iCE40UP5K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "UP5K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "RP2040",
     "details": "No config flash; the RP2040 stores the bitstream and writes it into the FPGA's config memory at boot."
   },
-  "companion_mcu": "RP2040",
+  "companion_mcu": [
+    "RP2040"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -23,5 +27,8 @@
     "pico"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/Wren6991/PicoStation3D"
 }

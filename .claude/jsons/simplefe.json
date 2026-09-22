@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 HX",
-    "part": "iCE40HX1K"
+    "part": "iCE40HX1K",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "HX1K",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "FTDI",
     "details": "Programmed over USB, most likely via an FTDI FT2232H doing SPI (typical of iCE40 boards)."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -25,5 +27,8 @@
     "mixed-signal"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": null
 }

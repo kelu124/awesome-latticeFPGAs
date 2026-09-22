@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 LP",
-    "part": "iCE40LP8K"
+    "part": "iCE40LP8K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "LP8K",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "USB-bootloader",
     "details": "USB bitstream programming is implemented inside the FPGA itself; tinyprog uploads over USB-serial to a 4Mbit SPI flash."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -21,5 +23,8 @@
   "links": [],
   "tags": [],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/tinyfpga/TinyFPGA-B-Series"
 }

@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 HX",
-    "part": "iCE40HX4K"
+    "part": "iCE40HX4K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "HX4K",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "SPI-flash",
     "details": "The on-board FT231XS is USB-UART only; the FPGA/flash is programmed over SPI with any iCE40 programmer (the author uses a Pi Pico)."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -21,5 +23,8 @@
   "links": [],
   "tags": [],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/aslak3/ICE40HXDevBoard"
 }

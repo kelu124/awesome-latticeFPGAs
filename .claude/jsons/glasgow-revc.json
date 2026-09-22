@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 HX",
-    "part": "iCE40HX4K"
+    "part": "iCE40HX4K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "HX4K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "microcontroller",
     "details": "A Cypress FX2 (CY7C68013A) loads the FPGA bitstream over USB."
   },
-  "companion_mcu": "CY7C68013A",
+  "companion_mcu": [
+    "CY7C68013A"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -21,5 +25,8 @@
   "links": [],
   "tags": [],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/GlasgowEmbedded/glasgow"
 }

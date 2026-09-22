@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": "LFE5U-85F"
+    "part": "LFE5U-85F",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "FTDI",
     "details": "An on-board FT231X provides USB-JTAG (500 kbit) and USB-serial; an on-board ESP32-WROOM-32 can also flash the ECP5 over JTAG, even wirelessly (emard/esp32ecp5)."
   },
-  "companion_mcu": "ESP32-WROOM-32",
+  "companion_mcu": [
+    "ESP32-WROOM-32"
+  ],
   "connectivity": [
     "WiFi",
     "BLE"
@@ -33,5 +37,8 @@
     "computer"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/emard/esp32ecp5"
 }

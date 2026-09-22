@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": null
+    "part": null,
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "FTDI",
     "details": "JTAG wired to GPIO, programmed via the on-board FT231X (or an optional ESP32); a USB bootloader option also exists."
   },
-  "companion_mcu": "FT231X",
+  "companion_mcu": [
+    "FT231X"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -21,5 +25,8 @@
   "links": [],
   "tags": [],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/intergalaktik/ULX4M_documents/tree/main/campaign"
 }

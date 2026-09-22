@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraPlus",
-    "part": "iCE40UP5K"
+    "part": "iCE40UP5K",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "UP5K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "FTDI",
     "details": "SPI-flash config; programmed via a pogo-pin adapter and an FT232H board; the FPGA reads the flash at boot."
   },
-  "companion_mcu": "FT232H",
+  "companion_mcu": [
+    "FT232H"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -28,5 +32,8 @@
     "earrings"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://gitlab.com/electronutlabs-public/ice-bling"
 }

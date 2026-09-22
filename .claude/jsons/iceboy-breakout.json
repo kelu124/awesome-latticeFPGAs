@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 HX",
-    "part": "iCE40HX8K"
+    "part": "iCE40HX8K",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "HX8K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "FTDI",
     "details": "Runs on the iCE40-HX8K Breakout Board, whose on-board FT2232H bit-bangs SPI to program the FPGA."
   },
-  "companion_mcu": "FT2232H",
+  "companion_mcu": [
+    "FT2232H"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": null,
@@ -24,5 +28,8 @@
     "breakout"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": null
 }

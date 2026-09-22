@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraPlus",
-    "part": "iCE40UP5K"
+    "part": "iCE40UP5K",
+    "source": "teardown",
+    "confidence": "confirmed"
   },
   "section": "Other commercial products / UP5K",
   "category": "commercial",
@@ -12,7 +14,7 @@
     "interface": null,
     "details": null
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [
     "USB"
   ],
@@ -28,5 +30,8 @@
   ],
   "tags": [],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": null
 }

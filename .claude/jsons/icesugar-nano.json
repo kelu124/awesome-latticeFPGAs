@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 LP",
-    "part": "iCE40LP1K-CM36"
+    "part": "iCE40LP1K-CM36",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "LP1K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "microcontroller",
     "details": "An on-board iCELink debugger (APM32F1) exposes a USB drive; drag-and-drop a bitstream to program."
   },
-  "companion_mcu": "APM32F1",
+  "companion_mcu": [
+    "APM32F1"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -21,5 +25,8 @@
   "links": [],
   "tags": [],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/wuxx/icesugar-nano"
 }

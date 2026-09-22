@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "Unknown",
-    "part": null
+    "part": null,
+    "source": "article",
+    "confidence": "unconfirmed"
   },
   "section": "To follow up",
   "category": "follow-up",
@@ -12,7 +14,7 @@
     "interface": null,
     "details": "FPGA-based, but the vendor/part is not yet confirmed as Lattice."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": null,
@@ -23,5 +25,8 @@
     "retro"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": null,
+  "form_factor": null,
+  "repo": null
 }

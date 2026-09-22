@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "MachXO3L",
-    "part": "LCMXO3L-6900C"
+    "part": "LCMXO3L-6900C",
+    "source": "teardown",
+    "confidence": "confirmed"
   },
   "section": "Other commercial products / Others",
   "category": "commercial",
@@ -12,7 +14,7 @@
     "interface": null,
     "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [
     "PCIe"
   ],
@@ -27,5 +29,8 @@
     "teardown"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "proprietary",
+  "form_factor": "PCIe card",
+  "repo": null
 }

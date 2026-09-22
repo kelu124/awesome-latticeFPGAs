@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 HX",
-    "part": "iCE40HX4K"
+    "part": "iCE40HX4K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "HX4K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "microcontroller",
     "details": "An on-board STM32F0 acts like an FT2232 and reprograms the SPI flash over USB (faff tool)."
   },
-  "companion_mcu": "STM32F0",
+  "companion_mcu": [
+    "STM32F0"
+  ],
   "connectivity": [],
   "pmod_count": 10,
   "osh": true,
@@ -33,5 +37,8 @@
     "breakout"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/rschlaikjer/hx4k-pmod"
 }

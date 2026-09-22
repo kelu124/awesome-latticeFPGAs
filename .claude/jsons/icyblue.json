@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 LP",
-    "part": "iCE5LP4K"
+    "part": "iCE5LP4K",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "LP4K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "FTDI",
     "details": "A standard FTDI FT232H USB-FIFO loads the bitstream onto the 2MB SPI flash."
   },
-  "companion_mcu": "FT232H",
+  "companion_mcu": [
+    "FT232H"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": null,
@@ -23,5 +27,8 @@
     "feather"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "Feather",
+  "repo": null
 }

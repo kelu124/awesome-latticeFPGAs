@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraPlus",
-    "part": "iCE40UP5K"
+    "part": "iCE40UP5K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "UP5K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "microcontroller",
     "details": "The nRF52811 stores the FPGA binary in a 32Mbit flash and configures the iCE40 over SPI; the binary is pushed over BLE."
   },
-  "companion_mcu": "nRF52811",
+  "companion_mcu": [
+    "nRF52811"
+  ],
   "connectivity": [
     "BLE"
   ],
@@ -30,5 +34,8 @@
     "wireless"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "module",
+  "repo": "https://github.com/siliconwitchery/s1-module-kicad-library"
 }

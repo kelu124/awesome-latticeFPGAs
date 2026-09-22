@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraPlus",
-    "part": "iCE40UP5K"
+    "part": "iCE40UP5K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "UP5K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "FTDI",
     "details": "Boots from a 32MB QSPI flash; programmed via the FT2232-based USB on the SoM developer board."
   },
-  "companion_mcu": "FT2232",
+  "companion_mcu": [
+    "FT2232"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -21,5 +25,8 @@
   "links": [],
   "tags": [],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "SoM",
+  "repo": "https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM"
 }

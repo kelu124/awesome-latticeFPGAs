@@ -69,8 +69,9 @@ new categories are explicitly welcomed by the contribution guidelines.
 ## Structured metadata (`.claude/jsons/`)
 
 Every board in `Readme.md` also has a machine-readable record at `.claude/jsons/<slug>.json`
-(one file per board), capturing FPGA part/family, section, category, programming method +
-companion MCU, connectivity, OSH status, maker, links, tags and `last_updated`. The schema and
+(one file per board), capturing FPGA part/family (+ part `source`/`confidence`), section,
+category, programming method + companion MCU(s), `toolchain` (open/proprietary/both),
+`form_factor`, connectivity, OSH status + `repo`, maker, links, tags and `last_updated`. The schema and
 field spec live in [`.claude/jsons/schema.json`](.claude/jsons/schema.json) and
 [`.claude/jsons/README.md`](.claude/jsons/README.md). `Readme.md` stays the canonical
 deliverable; the `programming.interface` vocabulary documents how each board is configured

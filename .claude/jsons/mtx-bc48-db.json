@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraPlus",
-    "part": "iCE40UP5K"
+    "part": "iCE40UP5K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "UP5K",
   "category": "dev-board",
@@ -12,14 +14,22 @@
     "interface": "microcontroller",
     "details": "iCE40 UltraPlus paired with an on-board BLE module; bitstream loaded via the companion module."
   },
-  "companion_mcu": null,
-  "connectivity": ["BLE"],
+  "companion_mcu": [],
+  "connectivity": [
+    "BLE"
+  ],
   "pmod_count": null,
   "osh": true,
   "maker": "Mitexus",
   "description": "An iCE40 UltraPlus development board with an on-board BLE module.",
   "links": [],
-  "tags": ["wireless", "ble"],
+  "tags": [
+    "wireless",
+    "ble"
+  ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/mitexus/MTX-BC48-DB-Development-Board"
 }

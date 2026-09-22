@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": null
+    "part": null,
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "JTAG",
     "details": "Configured through JTAG; a bootloader then loads the bitstream to flash."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [
     "USB3"
   ],
@@ -26,5 +28,8 @@
     "usb3"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": null
 }

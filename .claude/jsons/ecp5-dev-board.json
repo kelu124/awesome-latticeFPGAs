@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": null
+    "part": null,
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,14 +14,19 @@
     "interface": null,
     "details": null
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
   "maker": "medhyal",
   "description": "Simple breakout board by medhyal.",
   "links": [],
-  "tags": ["breakout"],
+  "tags": [
+    "breakout"
+  ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/medhyal/ecp5-dev-board"
 }

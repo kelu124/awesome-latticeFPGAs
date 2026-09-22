@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": "LFE5U-25"
+    "part": "LFE5U-25",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "Conference badges",
   "category": "badge",
@@ -12,7 +14,9 @@
     "interface": null,
     "details": "Badge FPGA paired with an on-board RP2350."
   },
-  "companion_mcu": "RP2350",
+  "companion_mcu": [
+    "RP2350"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -23,5 +27,8 @@
     "badge"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "badge",
+  "repo": "https://github.com/NUSGreyhats/greybadge25"
 }

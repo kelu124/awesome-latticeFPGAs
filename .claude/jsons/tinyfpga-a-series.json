@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "MachXO2",
-    "part": "MachXO2-1200"
+    "part": "MachXO2-1200",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "MachXO2",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "JTAG",
     "details": "Programmed over JTAG. A1 uses the MachXO2-256; A2 uses the MachXO2-1200."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -23,5 +25,8 @@
     "breakout"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "proprietary",
+  "form_factor": null,
+  "repo": "https://github.com/tinyfpga/TinyFPGA-A-Series"
 }

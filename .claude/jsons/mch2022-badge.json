@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraPlus",
-    "part": "iCE40UP5K"
+    "part": "iCE40UP5K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "Conference badges",
   "category": "badge",
@@ -12,7 +14,10 @@
     "interface": null,
     "details": "iCE40UP5K runs user gateware; hosted by the badge's ESP32-S3 (alongside an RP2040)."
   },
-  "companion_mcu": "ESP32-S3",
+  "companion_mcu": [
+    "ESP32-S3",
+    "RP2040"
+  ],
   "connectivity": [
     "WiFi",
     "BLE"
@@ -33,5 +38,8 @@
     "wireless"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "badge",
+  "repo": "https://github.com/badgeteam/mch2022-badge-hardware"
 }

@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 UltraLite",
-    "part": "iCE40UL1K-SWG16"
+    "part": "iCE40UL1K-SWG16",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "UL1K",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": null,
     "details": null
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": null,
@@ -21,5 +23,8 @@
   "links": [],
   "tags": [],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": null
 }

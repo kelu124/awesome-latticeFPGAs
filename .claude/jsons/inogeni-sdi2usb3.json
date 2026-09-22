@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "LatticeECP3",
-    "part": "LFE3-17EA"
+    "part": "LFE3-17EA",
+    "source": "article",
+    "confidence": "likely"
   },
   "section": "To follow up",
   "category": "follow-up",
@@ -12,7 +14,7 @@
     "interface": null,
     "details": null
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [
     "USB3"
   ],
@@ -26,5 +28,8 @@
     "usb"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "proprietary",
+  "form_factor": null,
+  "repo": null
 }

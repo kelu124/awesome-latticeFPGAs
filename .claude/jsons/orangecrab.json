@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": null
+    "part": null,
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "USB-bootloader",
     "details": "Ships with the foboot DFU bootloader; bitstreams load over USB-C via dfu-util, with a 0.1\" JTAG breakout as alternative."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -24,5 +26,8 @@
     "feather"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "Feather",
+  "repo": "https://github.com/gregdavill/OrangeCrab"
 }

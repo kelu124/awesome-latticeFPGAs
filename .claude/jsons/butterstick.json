@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": null
+    "part": null,
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "JTAG",
     "details": "A 0.1\" JTAG header plus QSPI flash; programmed with an external JTAG adapter (a DFU bootloader over USB-C is also available)."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [
     "Ethernet"
   ],
@@ -31,5 +33,8 @@
     "syzygy"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": "SYZYGY",
+  "repo": "https://github.com/gregdavill/ButterStick"
 }

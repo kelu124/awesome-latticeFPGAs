@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "ECP5",
-    "part": null
+    "part": null,
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "ECP5",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "microcontroller",
     "details": "The Apollo debug MCU (Microchip SAMD) configures the FPGA over JTAG; the Saturn-V DFU flashes the MCU, not the FPGA."
   },
-  "companion_mcu": "Microchip SAMD",
+  "companion_mcu": [
+    "Microchip SAMD"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -28,5 +32,8 @@
     "usb"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/greatscottgadgets/luna"
 }

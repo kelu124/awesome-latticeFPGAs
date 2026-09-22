@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 LP",
-    "part": "iCE5LP4K"
+    "part": "iCE5LP4K",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "LP4K",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "microcontroller",
     "details": "An on-board STM32F303 configures the iCE5LP4K over SPI at boot."
   },
-  "companion_mcu": "STM32F303",
+  "companion_mcu": [
+    "STM32F303"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": true,
@@ -28,5 +32,8 @@
     "sdr"
   ],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/emeb/iceRadio"
 }

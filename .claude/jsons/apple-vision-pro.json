@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 Ultra",
-    "part": "iCE5LP4K"
+    "part": "iCE5LP4K",
+    "source": "teardown",
+    "confidence": "confirmed"
   },
   "section": "Other commercial products / Others",
   "category": "commercial",
@@ -12,7 +14,7 @@
     "interface": null,
     "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [],
   "pmod_count": null,
   "osh": false,
@@ -24,5 +26,8 @@
     "vr"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": null
 }

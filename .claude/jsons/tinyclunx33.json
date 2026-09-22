@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "CrossLink-NX",
-    "part": "LIFCL-40"
+    "part": "LIFCL-40",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "CrossLink-NX",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "FTDI",
     "details": "The SoM exposes JTAG; the devkit carries an FT2232HL for JTAG/SPI-flash/UART over USB."
   },
-  "companion_mcu": "FT2232HL",
+  "companion_mcu": [
+    "FT2232HL"
+  ],
   "connectivity": [
     "USB3",
     "MIPI"
@@ -34,5 +38,8 @@
     "zephyr"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "both",
+  "form_factor": "SoM",
+  "repo": "https://github.com/tinyvision-ai-inc/tinyclunx33"
 }

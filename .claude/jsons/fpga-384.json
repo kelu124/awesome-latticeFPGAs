@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "iCE40 LP",
-    "part": "iCE40LP384"
+    "part": "iCE40LP384",
+    "source": "product-page",
+    "confidence": "confirmed"
   },
   "section": "LP384",
   "category": "dev-board",
@@ -12,7 +14,9 @@
     "interface": "GPIO RPi",
     "details": "Designed for Raspberry Pi and Arduino hosts; the Pi bit-bangs SPI to program the FPGA/flash."
   },
-  "companion_mcu": "ATMega328",
+  "companion_mcu": [
+    "ATMega328"
+  ],
   "connectivity": [],
   "pmod_count": null,
   "osh": null,
@@ -34,5 +38,8 @@
   ],
   "tags": [],
   "outdated": true,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": "https://github.com/siliconfrog/fpga-384"
 }

@@ -4,7 +4,9 @@
   "fpga": {
     "vendor": "Lattice",
     "family": "CrossLink-NX",
-    "part": "LIFCL-40"
+    "part": "LIFCL-40",
+    "source": "repo",
+    "confidence": "confirmed"
   },
   "section": "CrossLink-NX",
   "category": "dev-board",
@@ -12,7 +14,7 @@
     "interface": "JTAG",
     "details": "The LIFCL-40 is loaded over its JTAG header; the Cypress FX3 handles USB3 video only, not programming."
   },
-  "companion_mcu": null,
+  "companion_mcu": [],
   "connectivity": [
     "USB3"
   ],
@@ -26,5 +28,8 @@
     "usb3"
   ],
   "outdated": false,
-  "last_updated": "2026-09-22"
+  "last_updated": "2026-09-22",
+  "toolchain": "both",
+  "form_factor": null,
+  "repo": "https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3"
 }
