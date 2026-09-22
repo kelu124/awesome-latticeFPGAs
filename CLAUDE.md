@@ -66,6 +66,17 @@ new categories are explicitly welcomed by the contribution guidelines.
 - The `check-links` skill can verify board URLs are still live before committing edits.
 - To place a new board: find its Lattice part → go to that family section → insert alphabetically.
 
+## Structured metadata (`.claude/jsons/`)
+
+Every board in `Readme.md` also has a machine-readable record at `.claude/jsons/<slug>.json`
+(one file per board), capturing FPGA part/family, section, category, programming method +
+companion MCU, connectivity, OSH status, maker, links, tags and `last_updated`. The schema and
+field spec live in [`.claude/jsons/schema.json`](.claude/jsons/schema.json) and
+[`.claude/jsons/README.md`](.claude/jsons/README.md). `Readme.md` stays the canonical
+deliverable — **when you add or edit a board there, add/update its JSON too** so the two stay
+in sync (the `programming.interface` vocabulary documents how each board is configured:
+FTDI / JTAG / USB-bootloader / RP2040 / microcontroller / GPIO RPi / Serial / SPI-flash / …).
+
 ## Memory
 
 Persist durable, non-obvious findings in [`.claude/memory/`](.claude/memory/) — see its

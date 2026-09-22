@@ -1,0 +1,25 @@
+{
+  "name": "Darsena",
+  "url": "https://mindchasers.com/dev/darsena-shield",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "The Private Island development board for FPGA-based open source networking.",
+  "links": [],
+  "tags": ["networking"],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

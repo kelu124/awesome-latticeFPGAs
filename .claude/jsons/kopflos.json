@@ -1,0 +1,29 @@
+{
+  "name": "Kopflos",
+  "url": "https://machdyne.com/product/kopflos-computer/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "USB-C DFU bootloader; a JTAG header is the alternative."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Lone Dynamics",
+  "description": "Kopflos is an FPGA-based headless computer designed as a personal server for running timeless applications on Linux.",
+  "links": [],
+  "tags": [
+    "computer",
+    "server",
+    "linux"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

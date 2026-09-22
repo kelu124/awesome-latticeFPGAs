@@ -1,0 +1,30 @@
+{
+  "name": "Inogeni SDI2USB3",
+  "url": "https://inogeni.com/product/sdi2usb3/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "LatticeECP3",
+    "part": "LFE3-17EA"
+  },
+  "section": "To follow up",
+  "category": "follow-up",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "USB3"
+  ],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Inogeni",
+  "description": "SDI/HDMI-to-USB3 converter, likely a Lattice ECP3 (LFE3-17EA) per Lattice's reference design, but not yet confirmed by a teardown.",
+  "links": [],
+  "tags": [
+    "capture",
+    "usb"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

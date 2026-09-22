@@ -1,0 +1,28 @@
+{
+  "name": "Vive HMD",
+  "url": "https://tech.nikkeibp.co.jp/dm/atclen/news_en/15mk/050100551/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "Other commercial products / HX8K",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "HTC",
+  "description": "The original HTC Vive headset contains a Lattice FPGA (per teardown).",
+  "links": [],
+  "tags": [
+    "teardown",
+    "vr"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

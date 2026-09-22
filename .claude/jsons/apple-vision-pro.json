@@ -1,0 +1,28 @@
+{
+  "name": "Apple Vision Pro",
+  "url": "https://www.ifixit.com/Guide/Apple+Vision+Pro+Chip+ID/169813",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 Ultra",
+    "part": "iCE5LP4K"
+  },
+  "section": "Other commercial products / Others",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Apple",
+  "description": "Apple's spatial headset carries the same Lattice iCE5LP4K (iCE40 Ultra) on its logic board.",
+  "links": [],
+  "tags": [
+    "teardown",
+    "vr"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

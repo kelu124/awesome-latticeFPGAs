@@ -1,0 +1,27 @@
+{
+  "name": "Gelatino",
+  "url": "https://kitspace.org/boards/github.com/bru4bas/gelatino-board/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE40LP384"
+  },
+  "section": "LP384",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "The on-board ATMega328 programs the FPGA, transferring the bitstream to the shared serial flash (an extension of the Arduino bootloader)."
+  },
+  "companion_mcu": "ATMega328",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "It is based on the iCE40LP384 FPGA from Lattice Semiconductor, embedded together with an ATMega328 Arduino-like hardware.",
+  "links": [],
+  "tags": [
+    "arduino"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

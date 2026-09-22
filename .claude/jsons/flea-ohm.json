@@ -1,0 +1,27 @@
+{
+  "name": "Flea Ohm",
+  "url": "https://www.fleasystems.com/fleaFPGA_Ohm.html",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "Programmed over the Raspberry Pi GPIO header."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "An ECP5 FleaFPGA board, Raspberry-Pi-friendly, by fleasystems.",
+  "links": [],
+  "tags": [
+    "gpio"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

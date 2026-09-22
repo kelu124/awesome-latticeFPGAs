@@ -1,0 +1,32 @@
+{
+  "name": "Bus Pirate Ultra",
+  "url": "http://dangerousprototypes.com/blog/2019/10/03/prototype-bus-pirate-logic-analyzer-with-ice40-fpga/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Dangerous Prototypes",
+  "description": "A prototype Bus Pirate logic analyzer built with an iCE40 FPGA.",
+  "links": [
+    {
+      "label": "here",
+      "url": "https://github.com/DangerousPrototypes/BusPirateUltraHardware"
+    }
+  ],
+  "tags": [
+    "logic-analyzer"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

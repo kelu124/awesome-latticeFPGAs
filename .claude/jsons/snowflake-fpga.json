@@ -1,0 +1,27 @@
+{
+  "name": "Snowflake-FPGA",
+  "url": "https://github.com/Wren6991/Snowflake-FPGA",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "A Raspberry Pi HAT; the Pi configures the FPGA and programs the on-board 4Mbit flash over SPI via GPIO."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Wren6991",
+  "description": "A cheap Raspberry Pi HAT with an iCE40 HX8K that the Pi programs and talks to over UART/SPI/SDIO.",
+  "links": [],
+  "tags": [
+    "hat"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

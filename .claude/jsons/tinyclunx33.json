@@ -1,0 +1,38 @@
+{
+  "name": "tinyCLUNX33",
+  "url": "https://github.com/tinyvision-ai-inc/tinyclunx33",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "CrossLink-NX",
+    "part": "LIFCL-40"
+  },
+  "section": "CrossLink-NX",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "The SoM exposes JTAG; the devkit carries an FT2232HL for JTAG/SPI-flash/UART over USB."
+  },
+  "companion_mcu": "FT2232HL",
+  "connectivity": [
+    "USB3",
+    "MIPI"
+  ],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "tinyVision.ai",
+  "description": "A 25.4 mm MIPI-to-USB3 System-on-Module built on a Lattice CrossLinkU-NX FPGA running Zephyr, with an open toolchain.",
+  "links": [
+    {
+      "label": "Product",
+      "url": "https://tinyvision.ai/pages/tinyclunx33-som-and-devkits"
+    }
+  ],
+  "tags": [
+    "som",
+    "mipi",
+    "usb3",
+    "zephyr"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

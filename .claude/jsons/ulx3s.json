@@ -1,0 +1,37 @@
+{
+  "name": "ULX3S",
+  "url": "https://www.crowdsupply.com/radiona/ulx3s",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U-85F"
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "An on-board FT231X provides USB-JTAG (500 kbit) and USB-serial; an on-board ESP32-WROOM-32 can also flash the ECP5 over JTAG, even wirelessly (emard/esp32ecp5)."
+  },
+  "companion_mcu": "ESP32-WROOM-32",
+  "connectivity": [
+    "WiFi",
+    "BLE"
+  ],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Radiona.org",
+  "description": "A popular open-hardware ECP5 development board (LFE5U-12F/25F/45F/85F options) with an on-board ESP32-WROOM-32 that adds WiFi/Bluetooth and a standalone web-based JTAG flasher.",
+  "links": [
+    {
+      "label": "esp32ecp5",
+      "url": "https://github.com/emard/esp32ecp5"
+    }
+  ],
+  "tags": [
+    "esp32",
+    "wireless",
+    "computer"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

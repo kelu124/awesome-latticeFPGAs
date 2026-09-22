@@ -1,0 +1,32 @@
+{
+  "name": "iceRadio",
+  "url": "https://github.com/emeb/iceRadio",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE5LP4K"
+  },
+  "section": "LP4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "An on-board STM32F303 configures the iCE5LP4K over SPI at boot."
+  },
+  "companion_mcu": "STM32F303",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Eric Brombaugh",
+  "description": "This is a test prototype for experimenting with Software Defined Radio (SDR).",
+  "links": [
+    {
+      "label": "website",
+      "url": "http://ebrombaugh.studionebula.com/radio/iceRadio/index.html"
+    }
+  ],
+  "tags": [
+    "sdr"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "SD2SNES (ECP5)",
+  "url": "https://github.com/samlittlewood/sd2snes_ecp5",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "Other commercial products / ECP5",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Sam Littlewood",
+  "description": "@samlittlewood's ECP5-based reboot of the sd2snes SNES flash cartridge.",
+  "links": [],
+  "tags": [
+    "retro"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

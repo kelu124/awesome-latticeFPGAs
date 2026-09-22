@@ -1,0 +1,30 @@
+{
+  "name": "Kilsyth",
+  "url": "https://hackaday.io/project/165380-kilsyth-ecp5-fpga-and-a-usb-30-fifo-bridge",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "JTAG",
+    "details": "Configured through JTAG; a bootloader then loads the bitstream to flash."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "USB3"
+  ],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "An ECP5 + FT600 USB 3.0 FIFO bridge board.",
+  "links": [],
+  "tags": [
+    "usb",
+    "usb3"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

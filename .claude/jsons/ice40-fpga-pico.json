@@ -1,0 +1,27 @@
+{
+  "name": "ice40-fpga-pico",
+  "url": "https://github.com/novasteptech/ice40-fpga-pico",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "An on-board LPC11U35 programmer + UART configures the FPGA over USB-C (the 'pico' name refers to the form factor, not an RP2040)."
+  },
+  "companion_mcu": "LPC11U35",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "novasteptech",
+  "description": "A compact Raspberry-Pi-Pico-sized UP5K board with an onboard LPC11U35 programmer/UART and USB-C.",
+  "links": [],
+  "tags": [
+    "pico"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

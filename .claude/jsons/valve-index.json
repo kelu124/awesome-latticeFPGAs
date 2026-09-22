@@ -1,0 +1,25 @@
+{
+  "name": "Valve Index",
+  "url": "https://www.ifixit.com/Guide/Valve+Index+Chip+ID/155948",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "Other commercial products / HX8K",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Valve",
+  "description": "Valve's PC-VR headset uses iCE40HX8K FPGAs on the HMD and both controller handles for lighthouse sensor fusion.",
+  "links": [],
+  "tags": ["teardown", "vr"],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

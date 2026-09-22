@@ -1,0 +1,34 @@
+{
+  "name": "UPDuino V3.1",
+  "url": "https://github.com/tinyvision-ai-inc/UPduino-v3.0",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "An on-board FT232H USB-to-SPI is the FPGA programmer (iceprog/APIO)."
+  },
+  "companion_mcu": "FT232H",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "tinyvision-ai",
+  "description": "iCE40 UP5K board with FTDI FT232H and 4MB qSPI Flash.",
+  "links": [
+    {
+      "label": "WebSite",
+      "url": "https://tinyvision.ai/products/fpga-development-board-upduino-v3-1"
+    },
+    {
+      "label": "Documentation",
+      "url": "https://upduino.readthedocs.io/en/latest/"
+    }
+  ],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "TinyFPGA B-Series",
+  "url": "https://github.com/tinyfpga/TinyFPGA-B-Series",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE40LP8K"
+  },
+  "section": "LP8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "USB bitstream programming is implemented inside the FPGA itself; tinyprog uploads over USB-serial to a 4Mbit SPI flash."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "TinyFPGA",
+  "description": "The original open-source TinyFPGA boards: B2 (iCE40 LP8K) and B1 (iCE40 LP4K), booting from SPI flash over USB.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

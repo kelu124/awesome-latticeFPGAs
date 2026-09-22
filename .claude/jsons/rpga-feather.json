@@ -1,0 +1,27 @@
+{
+  "name": "RPGA Feather",
+  "url": "https://www.tindie.com/products/oakdevtech/rpga-feather-rp2040-ice40/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE5LP4K"
+  },
+  "section": "LP4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "RP2040",
+    "details": "The on-board RP2040 programs the iCE5LP4K via three dedicated pins (CircuitPython)."
+  },
+  "companion_mcu": "RP2040",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Oak Dev Tech",
+  "description": "A Feather-format board pairing an RP2040 with an iCE5LP4K FPGA for sensor-fusion and custom logic projects.",
+  "links": [],
+  "tags": [
+    "feather"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

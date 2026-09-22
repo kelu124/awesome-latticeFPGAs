@@ -1,0 +1,38 @@
+{
+  "name": "ICESugar FPGA",
+  "url": "https://github.com/wuxx/icesugar",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "Drag-and-drop a .bin onto the STM32-based iCELink virtual USB drive; also offers a virtual serial port and JTAG."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "MuseLab",
+  "description": "iCESugar FPGA board based on the iCE40UP5K (V1.5).",
+  "links": [
+    {
+      "label": "Website",
+      "url": "https://www.muselab-tech.com/zai-icesugarshang-yun-xing-muraxsoc/"
+    },
+    {
+      "label": "repo",
+      "url": "https://github.com/wuxx/icesugar"
+    },
+    {
+      "label": "Aliexpress",
+      "url": "https://www.aliexpress.com/item/4001201771358.html"
+    }
+  ],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

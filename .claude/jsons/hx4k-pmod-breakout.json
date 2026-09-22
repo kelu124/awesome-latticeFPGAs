@@ -1,0 +1,37 @@
+{
+  "name": "HX4k PMOD Breakout",
+  "url": "https://github.com/rschlaikjer/hx4k-pmod",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "An on-board STM32F0 acts like an FT2232 and reprograms the SPI flash over USB (faff tool)."
+  },
+  "companion_mcu": "STM32F0",
+  "connectivity": [],
+  "pmod_count": 10,
+  "osh": true,
+  "maker": "rschlaikjer",
+  "description": "An iCE40 HX4K breakout board with 10 Pmods.",
+  "links": [
+    {
+      "label": "PMODs",
+      "url": "https://www.pcbway.com/project/shareproject/Lattice_HX4K_FPGA_Breakout.html"
+    },
+    {
+      "label": "Reading more",
+      "url": "https://rhye.org/post/fpgas-1-running-on-hardware/"
+    }
+  ],
+  "tags": [
+    "pmod",
+    "breakout"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

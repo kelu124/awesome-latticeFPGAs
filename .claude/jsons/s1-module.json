@@ -1,0 +1,34 @@
+{
+  "name": "S1 Module",
+  "url": "https://github.com/siliconwitchery/s1-module-kicad-library",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "The nRF52811 stores the FPGA binary in a 32Mbit flash and configures the iCE40 over SPI; the binary is pushed over BLE."
+  },
+  "companion_mcu": "nRF52811",
+  "connectivity": [
+    "BLE"
+  ],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Silicon Witchery",
+  "description": "Nordic nRF52811 with Bluetooth, Maxim MAX77654 PMIC battery management and 32-Mbit of on-board Flash, in a 6x12 mm module.",
+  "links": [
+    {
+      "label": "Web site",
+      "url": "https://docs.siliconwitchery.com/s1-module/s1-module/"
+    }
+  ],
+  "tags": [
+    "wireless"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,32 @@
+{
+  "name": "hadbadge 2019",
+  "url": "https://github.com/Spritetm/hadbadge2019_fpgasoc",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U-45F"
+  },
+  "section": "Conference badges",
+  "category": "badge",
+  "programming": {
+    "interface": null,
+    "details": "Runs a RISC-V soft core on the open toolchain."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Sprite_TM",
+  "description": "Sprite_TM's Game Boy-shaped badge with an ECP5 (LFE5U-45F) running a RISC-V soft core on the open toolchain.",
+  "links": [
+    {
+      "label": "PCB",
+      "url": "https://github.com/Spritetm/hadbadge2019_pcb"
+    }
+  ],
+  "tags": [
+    "badge"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

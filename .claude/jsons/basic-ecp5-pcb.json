@@ -1,0 +1,28 @@
+{
+  "name": "basic-ecp5-pcb",
+  "url": "https://github.com/mattvenn/basic-ecp5-pcb",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "Configured from on-board flash or directly by a Raspberry Pi (fomu-flash over SPI)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": 6,
+  "osh": true,
+  "maker": "mattvenn",
+  "description": "6 PMODs plus Raspberry Pi breakout.",
+  "links": [],
+  "tags": [
+    "pmod",
+    "breakout"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

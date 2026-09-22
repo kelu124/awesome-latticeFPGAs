@@ -1,0 +1,28 @@
+{
+  "name": "ice40-breakout-pcb",
+  "url": "https://github.com/null-a/ice40-breakout-pcb",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "Uses a TinyFPGA-style USB bootloader; USB data lines go to the FPGA, which boots from SPI flash."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "null-a",
+  "description": "A KiCad breakout/dev board for the iCE40 HX4K with SPI configuration flash, on-board clock, USB power regulation and 72 broken-out GPIO.",
+  "links": [],
+  "tags": [
+    "breakout",
+    "kicad"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

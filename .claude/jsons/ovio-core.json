@@ -1,0 +1,25 @@
+{
+  "name": "OVIO Core",
+  "url": "https://github.com/korken89/ovio_core",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "korken89",
+  "description": "A project to try out different vision processing pipelines, for Visual Inertial Odometry (VIO), on the ECP5 FPGA.",
+  "links": [],
+  "tags": ["vision", "vio"],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

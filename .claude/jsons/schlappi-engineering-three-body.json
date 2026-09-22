@@ -1,0 +1,25 @@
+{
+  "name": "Schlappi Engineering Three Body",
+  "url": "https://schlappiengineering.com/products/three-body",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "Other commercial products / ECP5",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Built with the open Yosys/nextpnr toolchain."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Schlappi Engineering",
+  "description": "A Eurorack triple oscillator for FM/phase-modulation synthesis, built on a Lattice ECP5 with the open Yosys/nextpnr toolchain.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

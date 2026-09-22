@@ -1,0 +1,25 @@
+{
+  "name": "ICE40UPDevBoard",
+  "url": "https://github.com/aslak3/ICE40UPDevBoard",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "Pico",
+    "details": "No on-board programmer; the FPGA is programmed over SPI with an external programmer (the author uses a Pi Pico)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "A development board for the iCE40 UP5K with SPI routing borrowed from Lattice's UltraPlus breakout.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

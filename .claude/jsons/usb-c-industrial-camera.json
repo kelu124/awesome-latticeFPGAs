@@ -1,0 +1,30 @@
+{
+  "name": "USB-C Industrial Camera",
+  "url": "https://github.com/circuitvalley/USB_C_Industrial_Camera_FPGA_USB3",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "CrossLink-NX",
+    "part": "LIFCL-40"
+  },
+  "section": "CrossLink-NX",
+  "category": "dev-board",
+  "programming": {
+    "interface": "JTAG",
+    "details": "The LIFCL-40 is loaded over its JTAG header; the Cypress FX3 handles USB3 video only, not programming."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "USB3"
+  ],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "circuitvalley",
+  "description": "An open-hardware USB Type-C industrial camera pairing a Cypress FX3 USB3 controller with a CrossLink-NX LIFCL-40.",
+  "links": [],
+  "tags": [
+    "camera",
+    "usb3"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

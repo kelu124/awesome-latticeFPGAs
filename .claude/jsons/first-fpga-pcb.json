@@ -1,0 +1,29 @@
+{
+  "name": "first-fpga-pcb",
+  "url": "https://github.com/mattvenn/first-fpga-pcb",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "Configured by a Raspberry Pi over SPI (fomu-flash), or from on-board flash."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": 6,
+  "osh": true,
+  "maker": "mattvenn",
+  "description": "First FPGA PCB by @mattvenn, with 6 Pmods and a Raspberry Pi breakout.",
+  "links": [],
+  "tags": [
+    "pmod",
+    "raspberry-pi",
+    "breakout"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

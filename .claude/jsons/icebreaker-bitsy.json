@@ -1,0 +1,30 @@
+{
+  "name": "ICEBreaker Bitsy",
+  "url": "https://1bitsquared.de/products/icebreaker-bitsy",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "Ships with a RISC-V soft USB bootloader; flashed over USB-C via DFU, with a SPI header as fallback (no FTDI)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "1bitsquared",
+  "description": "An iCE40UP5K board in the Teensy form factor, programmed over USB DFU via a RISC-V soft bootloader (no FTDI).",
+  "links": [
+    {
+      "label": "Github",
+      "url": "https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a"
+    }
+  ],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

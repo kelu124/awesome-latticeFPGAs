@@ -1,0 +1,28 @@
+{
+  "name": "FPGA eink controller",
+  "url": "https://hackaday.io/project/21168-fpga-eink-controller",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX1K"
+  },
+  "section": "HX1K",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "A Hackaday.io project to control an old broken Kindle 3 eink display with an FPGA.",
+  "links": [],
+  "tags": [
+    "eink",
+    "display"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

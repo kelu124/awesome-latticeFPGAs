@@ -1,0 +1,25 @@
+{
+  "name": "STM32F303 + ice5",
+  "url": "http://ebrombaugh.studionebula.com/embedded/f303_ice5/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE5LP4K"
+  },
+  "section": "LP4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "An STM32F303 configures the ice5 over SPI."
+  },
+  "companion_mcu": "STM32F303",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Eric Brombaugh",
+  "description": "STM32F303 paired with an ice5 iCE40 FPGA.",
+  "links": [],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

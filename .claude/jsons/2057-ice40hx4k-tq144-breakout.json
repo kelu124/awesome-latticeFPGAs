@@ -1,0 +1,28 @@
+{
+  "name": "2057-ICE40HX4K-TQ144-breakout",
+  "url": "https://github.com/johnwinans/2057-ICE40HX4K-TQ144-breakout",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "A Raspberry Pi breakout; the Pi configures the FPGA (see the companion Raspberry Pi setup repo)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "johnwinans",
+  "description": "A minimal Raspberry Pi breakout board for the iCE40 HX4K in TQ144.",
+  "links": [],
+  "tags": [
+    "breakout",
+    "raspberry-pi"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

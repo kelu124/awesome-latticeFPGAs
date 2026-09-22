@@ -1,0 +1,35 @@
+{
+  "name": "TrellisBoard",
+  "url": "https://github.com/gatecat/TrellisBoard",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5UM5G-85F"
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "An on-board FT2232H provides debug JTAG and a UART/FIFO over the USB-C connector."
+  },
+  "companion_mcu": "FT2232H",
+  "connectivity": [
+    "PCIe",
+    "Ethernet"
+  ],
+  "pmod_count": 2,
+  "osh": true,
+  "maker": "gatecat",
+  "description": "Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD.",
+  "links": [],
+  "tags": [
+    "pcie",
+    "ddr3",
+    "hdmi",
+    "ethernet",
+    "pmod",
+    "m2"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

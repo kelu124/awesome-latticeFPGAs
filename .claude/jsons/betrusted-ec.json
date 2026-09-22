@@ -1,0 +1,29 @@
+{
+  "name": "betrusted-ec",
+  "url": "https://github.com/betrusted-io/betrusted-ec",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "Bring-up via a Raspberry Pi with a debug hat; field updates via usb_update.py."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "WiFi"
+  ],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted WiFi stack.",
+  "links": [],
+  "tags": [
+    "wireless"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

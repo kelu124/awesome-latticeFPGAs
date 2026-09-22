@@ -1,0 +1,30 @@
+{
+  "name": "Eis",
+  "url": "https://github.com/machdyne/eis",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "RP2040",
+    "details": "The on-board RP2040 programs the FPGA SRAM and flash over USB-C (ldprog)."
+  },
+  "companion_mcu": "RP2040",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Lone Dynamics",
+  "description": "A credit-card-sized FPGA computer by Lone Dynamics with an RP2040, microSD, Pmod and a DDMI port for DVI-over-HDMI output.",
+  "links": [],
+  "tags": [
+    "rp2040",
+    "pmod",
+    "dvi",
+    "hdmi"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

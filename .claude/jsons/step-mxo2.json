@@ -1,0 +1,27 @@
+{
+  "name": "STEP-MXO2",
+  "url": "https://www.tindie.com/products/evoinmotion/fpga-development-board-step-mxo2/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "MachXO2",
+    "part": "LCMXO2-4000HC"
+  },
+  "section": "MachXO2",
+  "category": "dev-board",
+  "programming": {
+    "interface": "JTAG",
+    "details": "On-board USB-JTAG programmer (STEP FPGA/DAPLink-style); only a MicroUSB cable is needed."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "A breadboard-friendly 40-pin DIP LCMXO2-4000HC education board with USB-JTAG, displays, RGB LEDs, buttons and switches.",
+  "links": [],
+  "tags": [
+    "training"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

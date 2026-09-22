@@ -1,0 +1,27 @@
+{
+  "name": "Lakritz",
+  "url": "https://machdyne.com/product/lakritz-computer/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U-25F"
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "USB-C DFU bootloader; a JTAG header is the alternative."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Lone Dynamics",
+  "description": "Lakritz is a small ECP5 (LFE5U-25F) FPGA computer board by Lone Dynamics.",
+  "links": [],
+  "tags": [
+    "computer"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "iCE40 Feather (whatnick)",
+  "url": "https://www.tindie.com/products/whatnick/ice40-feather/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": "USB-C programming; Adafruit Feather form factor."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "whatnick",
+  "description": "A compact iCE40UP5K learning board in Adafruit Feather form factor with USB-C programming (distinct from the joshajohnson iCE40-feather).",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

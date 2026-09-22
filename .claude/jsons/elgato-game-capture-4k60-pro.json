@@ -1,0 +1,31 @@
+{
+  "name": "Elgato Game Capture 4K60 Pro",
+  "url": "https://gamersnexus.net/hwreviews/3272-elgato-4k60-pro-capture-card-review-pc-xbox",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "MachXO3L",
+    "part": "LCMXO3L-6900C"
+  },
+  "section": "Other commercial products / Others",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "PCIe"
+  ],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Elgato",
+  "description": "PCIe 4K60 HDMI capture card using a Lattice MachXO3L (LCMXO3L-6900C) per the GamersNexus teardown.",
+  "links": [],
+  "tags": [
+    "capture",
+    "pcie",
+    "teardown"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

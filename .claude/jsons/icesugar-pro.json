@@ -1,0 +1,29 @@
+{
+  "name": "iCESugar-Pro",
+  "url": "https://github.com/wuxx/icesugar-pro",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U-25F"
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "An on-board iCELink debugger (APM32F1) exposes a drag-and-drop USB drive; also icesprog/openocd."
+  },
+  "companion_mcu": "APM32F1",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "wuxx",
+  "description": "A DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, ~106 IOs and an onboard debugger, supported by yosys/nextpnr.",
+  "links": [],
+  "tags": [
+    "ddr2",
+    "sdram",
+    "sodimm"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

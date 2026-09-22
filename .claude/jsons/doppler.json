@@ -1,0 +1,25 @@
+{
+  "name": "Doppler",
+  "url": "https://github.com/dadamachines/doppler",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "The on-board SAMD51 (Cortex-M4F) uploads the bitstream to the FPGA over SPI (ICEClass library)."
+  },
+  "companion_mcu": "ATSAMD51G19A",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "dadamachines",
+  "description": "Cortex M4F microcontroller + FPGA development board.",
+  "links": [],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

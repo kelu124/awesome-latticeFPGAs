@@ -1,0 +1,27 @@
+{
+  "name": "CAT Board",
+  "url": "https://github.com/xesscorp/CAT-Board",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "Raspberry Pi HAT programmed over the Pi GPIO header."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "XESS Corp",
+  "description": "The CAT Board is an OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.",
+  "links": [],
+  "tags": [
+    "hat"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

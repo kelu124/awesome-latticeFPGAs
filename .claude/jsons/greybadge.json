@@ -1,0 +1,27 @@
+{
+  "name": "GreyBadge",
+  "url": "https://github.com/NUSGreyhats/greybadge25",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U-25"
+  },
+  "section": "Conference badges",
+  "category": "badge",
+  "programming": {
+    "interface": null,
+    "details": "Badge FPGA paired with an on-board RP2350."
+  },
+  "companion_mcu": "RP2350",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "NUS Greyhats",
+  "description": "NUS Greyhats CTF badge pairing an RP2350 with an ECP5 (LFE5U-25) used as a hardware CTF challenge surface.",
+  "links": [],
+  "tags": [
+    "badge"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

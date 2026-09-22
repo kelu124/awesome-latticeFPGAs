@@ -1,0 +1,25 @@
+{
+  "name": "IceCore",
+  "url": "https://github.com/folknology/IceCore",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "An on-board STM32F730 provides the programming interface over USB (icedfu), deliberately replacing the usual FT2232."
+  },
+  "companion_mcu": "STM32F730",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "folknology",
+  "description": "An iCE40HX4K board by folknology whose on-board STM32F730 programs the FPGA over USB (icedfu), replacing the usual FT2232.",
+  "links": [],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

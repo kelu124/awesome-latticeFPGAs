@@ -1,0 +1,25 @@
+{
+  "name": "WebFPGA",
+  "url": "https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "Browser WebUSB drives an on-board STM32F042 that programs the iCE40."
+  },
+  "companion_mcu": "STM32F042",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "A rapid browser-based FPGA dev system; an on-board STM32F042 programs the iCE40UP5K over WebUSB.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

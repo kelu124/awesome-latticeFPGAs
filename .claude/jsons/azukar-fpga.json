@@ -1,0 +1,29 @@
+{
+  "name": "Azukar FPGA",
+  "url": "https://github.com/maxisimonazzi/Azukar-FPGA",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "USB-C"
+  ],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "maxisimonazzi",
+  "description": "An open-source FPGA development board for education and digital design learning, designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.",
+  "links": [],
+  "tags": [
+    "education"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

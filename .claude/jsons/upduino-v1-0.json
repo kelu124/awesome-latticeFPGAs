@@ -1,0 +1,25 @@
+{
+  "name": "UPDuino v1.0",
+  "url": "http://www.gnarlygrey.com/?i=1",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "Serial",
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "gnarlygrey",
+  "description": "An early low-cost iCE40UP5K board by gnarlyGrey.",
+  "links": [],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

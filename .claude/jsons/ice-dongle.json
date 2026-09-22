@@ -1,0 +1,25 @@
+{
+  "name": "ICE-dongle",
+  "url": "https://github.com/emeb/ice-dongle",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "Native USB-FS DFU (No2 bootloader) over USB-C (make dfu); the SPI header is only for the initial bootstrap."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "USB-C dongle with iCE40 UP5K FPGA.",
+  "links": [],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

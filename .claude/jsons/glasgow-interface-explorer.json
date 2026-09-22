@@ -1,0 +1,25 @@
+{
+  "name": "Glasgow Interface Explorer",
+  "url": "https://www.crowdsupply.com/1bitsquared/glasgow",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "A Cypress FX2 (CY7C68013A) loads the FPGA bitstream over USB."
+  },
+  "companion_mcu": "CY7C68013A",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "1BitSquared",
+  "description": "A versatile iCE40HX8K digital-interface multitool by 1BitSquared, whose Cypress FX2 (CY7C68013A) loads the FPGA over USB.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

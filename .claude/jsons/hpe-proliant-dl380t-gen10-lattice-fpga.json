@@ -1,0 +1,27 @@
+{
+  "name": "HPE ProLiant DL380T Gen10 Lattice FPGA",
+  "url": "https://www.servethehome.com/hpe-proliant-dl380t-gen10-trusted-supply-chain-server-teardown/hpe-proliant-dl380t-gen10-lattice-fpga/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "Other commercial products / ECP5",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "HPE",
+  "description": "HPE ProLiant DL380T Gen10 server with a Lattice FPGA.",
+  "links": [],
+  "tags": [
+    "teardown"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

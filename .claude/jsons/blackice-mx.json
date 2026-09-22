@@ -1,0 +1,25 @@
+{
+  "name": "BlackIce MX",
+  "url": "https://www.tindie.com/products/Folknology/blackice-mx/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "Serial",
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "MyStorm",
+  "description": "An iCE40 HX4K FPGA development board by MyStorm.",
+  "links": [],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

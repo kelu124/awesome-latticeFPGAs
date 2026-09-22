@@ -1,0 +1,27 @@
+{
+  "name": "krote",
+  "url": "https://github.com/machdyne/krote",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "SPI-flash",
+    "details": "The ISP header programs the FPGA SRAM and the flash MMOD over SPI, via an external programmer (ldprog)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": 5,
+  "osh": true,
+  "maker": "Lone Dynamics",
+  "description": "Kröte is a minimal iCE40HX4K FPGA development board with five Digilent Pmod compatible sockets.",
+  "links": [],
+  "tags": [
+    "pmod"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

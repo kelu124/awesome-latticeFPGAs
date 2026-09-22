@@ -1,0 +1,27 @@
+{
+  "name": "Konfekt",
+  "url": "https://machdyne.com/product/konfekt-computer/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U-12F"
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "USB-C DFU bootloader (primary); a JTAG header is the alternative."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Lone Dynamics",
+  "description": "Konfekt is a minimal ECP5 (LFE5U-12F) computer board by Lone Dynamics.",
+  "links": [],
+  "tags": [
+    "computer"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

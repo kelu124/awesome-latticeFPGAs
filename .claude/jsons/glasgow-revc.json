@@ -1,0 +1,25 @@
+{
+  "name": "Glasgow revC",
+  "url": "https://github.com/GlasgowEmbedded/glasgow",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "A Cypress FX2 (CY7C68013A) loads the FPGA bitstream over USB."
+  },
+  "companion_mcu": "CY7C68013A",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "GlasgowEmbedded",
+  "description": "An early revision of the Glasgow Interface Explorer digital-interface multitool (iCE40 HX), whose Cypress FX2 loads the FPGA over USB.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

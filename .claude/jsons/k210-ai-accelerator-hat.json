@@ -1,0 +1,25 @@
+{
+  "name": "$38 K210 AI Accelerator HAT",
+  "url": "http://linuxgizmos.com/raspberry-pi-hat-combines-k210-ai-chip-with-trust-m-security/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40",
+    "part": null
+  },
+  "section": "To follow up",
+  "category": "follow-up",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": "K210",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "Raspberry Pi HAT combining a K210 AI chip with a Trust-M security element; contains a Lattice iCE40 (confirmed by the article, exact part not stated).",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

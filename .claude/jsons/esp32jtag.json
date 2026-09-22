@@ -1,0 +1,28 @@
+{
+  "name": "ESP32JTAG",
+  "url": "https://www.crowdsupply.com/ez32/esp32jtag",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "The on-board ESP32-S3 configures the iCE40UP5K over SPI, auto-loading the bitstream at boot; the board is managed through a WiFi web UI."
+  },
+  "companion_mcu": "ESP32-S3",
+  "connectivity": ["WiFi", "BLE"],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "EZ32 Inc.",
+  "description": "An ESP32-S3 all-in-one wireless hardware debug tool (JTAG/SWD debugger, logic analyzer, XVC server, signal generator) that also doubles as an iCE40UP5K FPGA dev board, with a WiFi web UI.",
+  "links": [
+    { "label": "Firmware", "url": "https://github.com/EZ32Inc/esp32jtag_firmware" },
+    { "label": "CNX-Software", "url": "https://www.cnx-software.com/2025/10/31/esp32jtag-an-open-source-wireless-jtag-and-logic-analyzer/" }
+  ],
+  "tags": ["esp32", "wireless", "jtag", "logic-analyzer"],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

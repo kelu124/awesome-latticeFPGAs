@@ -1,0 +1,28 @@
+{
+  "name": "Icepi Zero",
+  "url": "https://github.com/cheyao/icepi-zero",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "An on-board FT231X USB-to-JTAG/UART converter programs the FPGA; no external programmer needed."
+  },
+  "companion_mcu": "FT231X",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "cheyao",
+  "description": "ECP5 development board in a Raspberry Pi Zero form factor. Includes an HDMI and uSD interface.",
+  "links": [],
+  "tags": [
+    "hdmi",
+    "sdcard"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

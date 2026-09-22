@@ -1,0 +1,28 @@
+{
+  "name": "X65-SBC",
+  "url": "https://hackaday.io/project/194866-x65-sbc",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "An on-board FT2232H programs the SPI flash the FPGAs boot from (host uses pyftdi)."
+  },
+  "companion_mcu": "FT2232H",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "A fully open-source 65C02/65C816 retro computer using an iCE40HX4K system controller plus two iCE40UP5K FPGAs for VGA video and stereo audio.",
+  "links": [],
+  "tags": [
+    "retro",
+    "6502"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

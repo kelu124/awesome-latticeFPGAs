@@ -1,0 +1,27 @@
+{
+  "name": "Obst",
+  "url": "https://github.com/machdyne/obst",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U-12F"
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "Ships with a DFU bootloader; programmed over the USB-C port (dfu-util), with a JTAG interface as well."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Lone Dynamics",
+  "description": "Obst is a low-cost ECP5 (LFE5U-12F) FPGA computer by Lone Dynamics.",
+  "links": [],
+  "tags": [
+    "computer"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,33 @@
+{
+  "name": "PicoFabric",
+  "url": "https://www.tindie.com/products/picolemon/picofabric/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U-12F"
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "Pico",
+    "details": "A UF2 bootloader on the Raspberry Pi Pico (RP2040) provides a USB bitstream programmer (program.py)."
+  },
+  "companion_mcu": "RP2040",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "picolemon",
+  "description": "A small ECP5 (LFE5U-12F) FPGA module for the Raspberry Pi Pico with dual HyperRAM and a VS Code toolchain.",
+  "links": [
+    {
+      "label": "Hardware",
+      "url": "https://github.com/picolemon/picofabric-hardware"
+    }
+  ],
+  "tags": [
+    "hyperram",
+    "pico"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

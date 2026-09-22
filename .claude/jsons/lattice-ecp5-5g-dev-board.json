@@ -1,0 +1,25 @@
+{
+  "name": "Lattice ECP5-5G dev board",
+  "url": "https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "proprietary",
+    "details": "Lattice proprietary programmer/tooling."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Lattice Semiconductor",
+  "description": "Lattice's ECP5-5G Versa evaluation board.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

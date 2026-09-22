@@ -1,0 +1,25 @@
+{
+  "name": "NUT2NT+",
+  "url": "https://www.crowdsupply.com/amungo-navigation/nut2nt-plus",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Amungo Navigation",
+  "description": "NUT2NT+ is an open source, multi-frequency, multi-signal, front-end GNSS receiver board built around the NT1065 chip. It's a low-power, low-cost, all-GNSS RF-to-bits receiver for satellite navigation enthusiasts.",
+  "links": [],
+  "tags": ["gnss", "sdr"],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

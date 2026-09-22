@@ -1,0 +1,30 @@
+{
+  "name": "icehat",
+  "url": "https://github.com/emeb/icehat",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": "Custom flashing code."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "iCE40 UP5K board with custom flashing code.",
+  "links": [
+    {
+      "label": "custom flashing code",
+      "url": "https://github.com/emeb/icehat/tree/master/ice_tool"
+    }
+  ],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

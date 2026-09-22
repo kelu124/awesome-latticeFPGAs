@@ -1,0 +1,32 @@
+{
+  "name": "Osmocom icE1usb",
+  "url": "http://shop.sysmocom.de/products/icE1usb",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "Other commercial products / UP5K",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "USB"
+  ],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "sysmocom",
+  "description": "The icE1usb is a dual-port E1 adapter with a USB interface, used to attach to circuit-switched primary-rate E1 circuits in traditional/legacy telecom environments.",
+  "links": [
+    {
+      "label": "Datasheet",
+      "url": "https://www.sysmocom.de/downloads/icE1usb_data_sheet.pdf"
+    }
+  ],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

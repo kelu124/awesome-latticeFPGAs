@@ -1,0 +1,25 @@
+{
+  "name": "ICE40HXDevBoard",
+  "url": "https://github.com/aslak3/ICE40HXDevBoard",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "SPI-flash",
+    "details": "The on-board FT231XS is USB-UART only; the FPGA/flash is programmed over SPI with any iCE40 programmer (the author uses a Pi Pico)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "aslak3",
+  "description": "An expandable development board built around the iCE40 HX4K in QFP144.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

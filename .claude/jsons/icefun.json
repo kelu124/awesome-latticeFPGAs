@@ -1,0 +1,25 @@
+{
+  "name": "iceFUN",
+  "url": "https://en.manu-systems.com/DEV-ICEFUN.shtml",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "Programmed via an on-board PIC16LF1459 microcontroller. Includes an LED matrix and buttons."
+  },
+  "companion_mcu": "PIC16LF1459",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "iceFUN iCE40HX8K board with an on-board PIC16LF1459, LED matrix and buttons.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "MCUPduino",
+  "url": "https://www.eet-china.com/mp/a78119.html",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "An STM32G031 (Cortex-M0+) acts as the USB interface and FPGA programmer; no FTDI/JTAG."
+  },
+  "companion_mcu": "STM32G031",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "iCE40 UP5K board with an STM32G031, 4 buttons and 4 LEDs (article in Chinese).",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

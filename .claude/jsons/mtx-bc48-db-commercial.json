@@ -1,0 +1,27 @@
+{
+  "name": "MTX-BC48-DB",
+  "url": "https://github.com/mitexus/MTX-BC48-DB-Development-Board/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "Other commercial products / UP5K",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Camera development board; iCE40 UltraPlus with a BGX13P22GA BLE module and OVM7690 image sensor."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "BLE"
+  ],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Mitexus",
+  "description": "A camera development board featuring an iCE40 UltraPlus FPGA, a BGX13P22GA BLE module, and an OVM7690 image sensor.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

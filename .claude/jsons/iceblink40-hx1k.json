@@ -1,0 +1,27 @@
+{
+  "name": "iCEblink40-HX1K",
+  "url": "http://www.latticesemi.com/iceblink40-hx1k",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX1K"
+  },
+  "section": "HX1K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "proprietary",
+    "details": "Proprietary Lattice evaluation kit tooling."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "latticesemi",
+  "description": "A Lattice iCE40 HX1K evaluation board.",
+  "links": [],
+  "tags": [
+    "eval-kit"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

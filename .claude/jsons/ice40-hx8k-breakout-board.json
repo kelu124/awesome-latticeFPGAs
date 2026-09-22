@@ -1,0 +1,25 @@
+{
+  "name": "iCE40-HX8K Breakout Board",
+  "url": "http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "Programmed over an on-board FTDI USB interface; proprietary Lattice evaluation board."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Lattice",
+  "description": "Lattice's proprietary iCE40HX8K evaluation/breakout board, configured from SPI flash via an external FT2232H.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

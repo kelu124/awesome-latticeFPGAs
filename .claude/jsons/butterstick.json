@@ -1,0 +1,35 @@
+{
+  "name": "ButterStick",
+  "url": "https://groupgets.com/products/butterstick-fpga-development-board",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "JTAG",
+    "details": "A 0.1\" JTAG header plus QSPI flash; programmed with an external JTAG adapter (a DFU bootloader over USB-C is also available)."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "Ethernet"
+  ],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Greg Davill",
+  "description": "An ECP5 board with SYZYGY and Ethernet by Greg Davill.",
+  "links": [
+    {
+      "label": "Github",
+      "url": "https://github.com/gregdavill/ButterStick"
+    }
+  ],
+  "tags": [
+    "ethernet",
+    "syzygy"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

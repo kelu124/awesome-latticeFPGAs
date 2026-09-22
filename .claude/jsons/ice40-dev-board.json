@@ -1,0 +1,27 @@
+{
+  "name": "ice40-dev-board",
+  "url": "https://github.com/medhyal/ice40-dev-board",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "medhyal",
+  "description": "Simple breakout board for the iCE40 UP5K by medhyal.",
+  "links": [],
+  "tags": [
+    "breakout"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

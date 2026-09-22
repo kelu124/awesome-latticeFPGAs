@@ -1,0 +1,27 @@
+{
+  "name": "Pergola",
+  "url": "https://github.com/pergola-fpga/pergola",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "The on-board i.MX RT MCU exposes CDC over USB and configures the ECP5."
+  },
+  "companion_mcu": "i.MX RT",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "Lattice ECP5 paired with an i.MX RT MCU.",
+  "links": [],
+  "tags": [
+    "mcu"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

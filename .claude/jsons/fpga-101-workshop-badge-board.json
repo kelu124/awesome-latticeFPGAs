@@ -1,0 +1,27 @@
+{
+  "name": "FPGA 101 Workshop Badge Board",
+  "url": "https://github.com/mmicko/fpga101-workshop",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "Conference badges",
+  "category": "badge",
+  "programming": {
+    "interface": "FTDI",
+    "details": "FTDI USB chip provides JTAG/SPI programming."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "mmicko",
+  "description": "An iCE40 UP5K workshop badge from Hackaday Belgrade, by mmicko.",
+  "links": [],
+  "tags": [
+    "badge"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

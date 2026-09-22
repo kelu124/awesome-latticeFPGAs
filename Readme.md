@@ -13,8 +13,8 @@
 * [FPGA eink controller](https://hackaday.io/project/21168-fpga-eink-controller) on HAD. The idea is to control an old broken kindle 3 eink display with a FPGA.
 * [iCEblink40-HX1K](http://www.latticesemi.com/iceblink40-hx1k) by latticesemi. Proprietary. **(outdated)**
 * [iCEstick Evaluation Kit](https://www.latticesemi.com/icestick) (FTDI)  by latticesemi. Proprietary.
-* [iceZUM Alhambra](https://alhambrabits.com/alhambra/) (FTDI)
-* [NANDLand GoBoard](https://www.nandland.com/goboard/introduction.html) (FTDI) comes with VGA, 2x7-seg displays
+* [iceZUM Alhambra](https://alhambrabits.com/alhambra/) (FTDI). An Arduino-shaped open-source iCE40HX1K board by AlhambraBits/FPGAwars, using the Icestudio/apio toolchain.
+* [NANDLand GoBoard](https://www.nandland.com/goboard/introduction.html) (FTDI). An iCE40HX1K learning board with VGA and two 7-segment displays, used in the NANDLand tutorials.
 * [Olimex iCE40HX1K-EVB](https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware). (Serial). Proprietary.
 * [simpleFE](https://www.crowdsupply.com/ning-wang/simplefe) simpleFE is a low-cost, open source, easy-to-use mixed-signal frontend. It is built to serve as a versatile bridge, performing high speed analog-to-digital and digital-to-analog conversions. **(outdated)**
 
@@ -23,7 +23,7 @@
 ## HX4K
 
 * [2057-ICE40HX4K-TQ144-breakout](https://github.com/johnwinans/2057-ICE40HX4K-TQ144-breakout) - a minimal Raspberry Pi breakout board for the iCE40 HX4K in TQ144.
-* [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) (FTDI)
+* [Alhambra II](https://github.com/FPGAwars/Alhambra-II-FPGA) (FTDI). An open-source iCE40HX4K (usable as 8K) education board by FPGAwars, with PMODs.
 * [Azukar FPGA](https://github.com/maxisimonazzi/Azukar-FPGA) (FTDI, GPIO, 8 leds, 8 push buttons, 12 and 100 MHz oscillators, USB-C, usable as an 8k device in yosys) Azukar is an Open-source FPGA development board for education and digital design learning. Designed for accessibility, reproducibility and seamless integration with open FPGA toolchains for students, makers and academic environments.
 * [BeagleWire FPGA](https://www.crowdsupply.com/qwerty-embedded-design/beaglewire) (GPIO Beagleboard): comes with 4 PMODs.
 * [BlackIce II](https://github.com/mystorm-org/BlackIce-II/wiki/Getting-Started) (Serial) **(outdated)**
@@ -31,29 +31,29 @@
 * [Bus Pirate Ultra](http://dangerousprototypes.com/blog/2019/10/03/prototype-bus-pirate-logic-analyzer-with-ice40-fpga/) and [here](https://github.com/DangerousPrototypes/BusPirateUltraHardware) **(outdated)**
 * [Eis](https://github.com/machdyne/eis) - Eis is a credit-card-sized FPGA computer by Lone Dynamics with an RP2040, microSD, Pmod and a DDMI port for DVI-over-HDMI output.
 * [first-fpga-pcb](https://github.com/mattvenn/first-fpga-pcb) first @mattvenn.  6 PMODs + Raspberry Pi breakout. **(outdated)**
-* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow)
+* [Glasgow revC](https://github.com/GlasgowEmbedded/glasgow) (Cypress FX2). An early revision of the Glasgow Interface Explorer digital-interface multitool (iCE40 HX), whose FX2 loads the FPGA over USB.
 * [Graphics Gremlin](https://github.com/schlae/graphics-gremlin). The Graphics Gremlin is an FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.
 * [HX4k PMOD Breakout](https://github.com/rschlaikjer/hx4k-pmod). 10 [PMODs](https://www.pcbway.com/project/shareproject/Lattice_HX4K_FPGA_Breakout.html)! [Reading more](https://rhye.org/post/fpgas-1-running-on-hardware/). **(outdated)**
 * [ice40-breakout-pcb](https://github.com/null-a/ice40-breakout-pcb) - a KiCad breakout/dev board for the iCE40 HX4K with SPI configuration flash, on-board clock, USB power regulation and 72 broken-out GPIO.
 * [ICE40HXDevBoard](https://github.com/aslak3/ICE40HXDevBoard) - an expandable development board built around the iCE40 HX4K in QFP144.
-* [IceCore](https://github.com/folknology/IceCore) **(outdated)**
+* [IceCore](https://github.com/folknology/IceCore) (STM32 / DFU). An iCE40HX4K board by folknology whose on-board STM32F730 programs the FPGA over USB (icedfu), replacing the usual FT2232. **(outdated)**
 * [IceZero](https://blackmesalabs.wordpress.com/2017/02/07/icezero-fpga-board-for-rasppi/) (GPIO Rpi - [Shop](https://shop.trenz-electronic.de/en/TE0876-02-Ice-Zero-with-Lattice-ICE-ICE40HX))
-* [Kéfir I](http://fpgalibre.sourceforge.net/Kefir_en/index.html) (FTDI)
+* [Kéfir I](http://fpgalibre.sourceforge.net/Kefir_en/index.html) (FTDI). An open iCE40HX4K board from the fpgalibre project.
 * [Kolibri FPGA Dongle](https://github.com/machdyne/kolibri) - Kolibri is a USB FPGA dongle by Lone Dynamics with an RP2040, 8Mbit flash, 256Mbit OPI PSRAM and a 12-pin Pmod port.
 * [krote](https://github.com/machdyne/krote) - Kröte is a minimal ICE40HX4K FPGA development board with five Digilent Pmod™ compatible sockets. 
 * [Manila-Ice](https://github.com/joshtyler/manila-ice) **(outdated)**
 * [picohx](https://github.com/dan-rodrigues/pico-hx) combines an iCE40 HX FPGA with the Raspberry Pi Pico. The Pico can program the FPGA over USB using a script included in this repo and then interact with it using GPIO.
 * [riegel](https://github.com/machdyne/riegel) - Riegel is an FPGA computer designed by Lone Dynamics Corporation. 
-* [un0rick](http://un0rick.cc) (FTDI, GPIO RPi) - ultrasound tool
+* [un0rick](http://un0rick.cc) (FTDI, GPIO RPi). An open-source iCE40HX4K ultrasound pulse-echo board, Raspberry-Pi-friendly with FTDI programming.
 * [X65-SBC](https://hackaday.io/project/194866-x65-sbc) - a fully open-source 65C02/65C816 retro computer using an iCE40HX4K system controller plus two iCE40UP5K FPGAs for VGA video and stereo audio.
 
 ## HX8K
 
-* [Alchitry Cu](https://alchitry.com/products/alchitry-cu-fpga-development-board) (FTDI)
+* [Alchitry Cu](https://alchitry.com/products/alchitry-cu-fpga-development-board) (FTDI). A compact iCE40HX8K board by Alchitry with castellated edges and stackable Element boards.
 * [CAT Board](https://github.com/xesscorp/CAT-Board) (GPIO RPi). The CAT Board is a OSH Raspberry Pi HAT with a Lattice iCE40HX FPGA.
 * [DSP ICE](https://github.com/tvelliott/dsp_ice). DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends. **(outdated)**
-* [Glasgow Interface Explorer](https://www.crowdsupply.com/1bitsquared/glasgow)
-* [iCE40-HX8K Breakout Board](http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) (FTDI). Proprietary.
+* [Glasgow Interface Explorer](https://www.crowdsupply.com/1bitsquared/glasgow) (Cypress FX2). A versatile iCE40HX8K digital-interface multitool by 1BitSquared, whose Cypress FX2 (CY7C68013A) loads the FPGA over USB.
+* [iCE40-HX8K Breakout Board](http://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/iCE40HX8KBreakoutBoard.aspx) (FTDI). Lattice's proprietary iCE40HX8K evaluation/breakout board, configured from SPI flash via an external FT2232H. Proprietary.
 * [iceFUN](https://en.manu-systems.com/DEV-ICEFUN.shtml) (PIC16LF1459, led matrix, and buttons)
 * [icoBOARD 1.0](http://icoboard.org/about-icoboard.html) (GPIO RPi). [Shop](https://shop.trenz-electronic.de/en/TE0887-03M-icoBoard-Version-1.1-with-8-MBit-SRAM). **(outdated)**
 * [iCEboy](https://sourceforge.net/projects/iceboy/) breakout - sourceforge. The goal of this project is to implement a GameBoy in Verilog using the open source IceStorm tools for Lattice iCE40HX-8K FPGAs.
@@ -71,12 +71,12 @@
 
 ## LP1K
 
-* [CaribouLite](https://github.com/cariboulabs/cariboulite) - open-source SDR platform ( CaribouLite utilizes the SMI (Secondary Memory Interface)  ).
+* [CaribouLite](https://github.com/cariboulabs/cariboulite) (GPIO RPi). An open-source dual-channel SDR Raspberry Pi HAT (iCE40LP1K); the Pi configures the FPGA over SPI.
 * [iCESugar-nano](https://github.com/wuxx/icesugar-nano) - iCESugar FPGA Board base on iCE40LP1K-CM36
 
 ## LP4K
 
-* [ice5 Breakout Board](http://ebrombaugh.studionebula.com/embedded/ice5_breakout/index.html) **(outdated)**
+* [ice5 Breakout Board](http://ebrombaugh.studionebula.com/embedded/ice5_breakout/index.html). An iCE5LP4K (iCE40 UltraLite) breakout by ebrombaugh. **(outdated)**
 * [iceRadio](https://github.com/emeb/iceRadio) or [website](http://ebrombaugh.studionebula.com/radio/iceRadio/index.html). _This is a test prototype for experimenting with Software Defined Radio (SDR)._ **(outdated)**
 * [IcyBlue](https://www.crowdsupply.com/oak-dev-tech/icyblue-fpga-feather) - IcyBlue FPGA Feather is a breadboard-friendly, battery-backed, intuitive platform for FPGA development using a Lattice iCE40 FPGA.  **(outdated)**
 * [Lattice FeatherWing](https://www.tindie.com/products/oakdevtech/lattice-featherwing-the-ice40-featherwing/) - an FPGA add-on for Adafruit Feather boards bringing every iCE5LP4K pin to 0.1" headers, controlled over SPI.
@@ -86,7 +86,7 @@
 ## LP8K
 
 * [TinyFPGA B-Series](https://github.com/tinyfpga/TinyFPGA-B-Series) - the original open-source TinyFPGA boards: B2 (iCE40 LP8K) and B1 (iCE40 LP4K), booting from SPI flash over USB.
-* [TinyFPGA BX](https://www.crowdsupply.com/tinyfpga/tinyfpga-bx) (Serial)
+* [TinyFPGA BX](https://www.crowdsupply.com/tinyfpga/tinyfpga-bx) (USB bootloader). A tiny open-source iCE40LP8K board programmed over USB with tinyprog, booting from SPI flash.
 
 ## UL1K 
 
@@ -97,6 +97,7 @@
 * [ARISE](https://github.com/mfkiwl/arise-ice40up5k) - a low-cost UP5K development board inspired by Lattice's UltraPlus breakout, aimed at signal-processing and control education.
 * [betrusted-ec](https://github.com/betrusted-io/betrusted-ec) -  The embedded controller (EC) is a UP5K FPGA responsible for secondary power management functions, and for intermediating between the trusted comms port on the SoC and the untrusted wifi stack.
 * [Doppler](https://github.com/dadamachines/doppler). Cortex M4F Microcontroller + FPGA development board. **(outdated)**
+* [ESP32JTAG](https://www.crowdsupply.com/ez32/esp32jtag) (ESP32-S3) by EZ32. An open-hardware wireless hardware-debug tool (JTAG/SWD debugger, logic analyzer, XVC server, signal generator) that also doubles as an iCE40UP5K dev board; the ESP32-S3 configures the FPGA over SPI and is driven from a WiFi web UI. [Firmware](https://github.com/EZ32Inc/esp32jtag_firmware).
 * [Fomu](https://www.crowdsupply.com/sutajio-kosagi/fomu) (FTDI). An FPGA board that fits inside your USB port.
 * [Humble ICE](https://electronut.in/humble-ice-july-2022/) - RP2040, 32 Mbit Flash. [Unfinished Firmware](https://twitter.com/mkvenkit/status/1844218996054425694).
 * [ice40helper](https://github.com/kehribar/ice40helper) **(outdated)**
@@ -108,12 +109,11 @@
 * [ICE40UPDevBoard](https://github.com/aslak3/ICE40UPDevBoard) - a development board for the iCE40 UP5K with SPI routing borrowed from Lattice's UltraPlus breakout.
 * [ice Bling](https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/). Beautiful LED Earrings with Lattice iCE40. [GitLab](https://gitlab.com/electronutlabs-public/ice-bling).
 * [ice40-dev-board](https://github.com/medhyal/ice40-dev-board) by medhyal - simple breakout board **(outdated)**
-* [ICEd ESPresso](https://twitter.com/cibomahto/status/1423609225503297537?t=OkZXMu2I1T0LrS-tYUs4mw&s=19) - a tiny, WiFi-enabled FPGA+microcontroller dev board
+* [ICEd ESPresso](https://twitter.com/cibomahto/status/1423609225503297537?t=OkZXMu2I1T0LrS-tYUs4mw&s=19) (ESP32-S2) - a tiny, WiFi-enabled dev board (roughly Arduino-Nano-sized) pairing an iCE40UP5K with an ESP32-S2 that loads the FPGA bitstream and can update it over WiFi, by Matt Mets. [Details](https://www.hackster.io/news/the-iced-espresso-is-a-cool-refreshing-approach-to-working-with-two-of-our-favorite-chips-6ca50670b175).
 * [ICE-dongle](https://github.com/emeb/ice-dongle) USB-C Dongle with ice40 UP5k FPGA **(outdated)**
 * [iCEboy](https://github.com/rniwase/iCEboy) Nintendo Gameboy cartridge-shaped FPGA (Lattice iCE40UP5K) development board
-* [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI) by 1bitsquared
-* [ICEBreaker Bitsy](https://1bitsquared.de/products/icebreaker-bitsy) 
-[Github](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a) The iCEBreaker Bitsy FPGA board is an open-source educational FPGA development board in the [Teensy form factor](https://www.pjrc.com/teensy/).  A crowd supply campaign, not yet shipping.  (No FTDI)
+* [iCEBreaker](https://www.crowdsupply.com/1bitsquared/icebreaker-fpga) (FTDI). A popular open-source iCE40UP5K education/dev board by 1BitSquared with a PMOD-centric layout.
+* [ICEBreaker Bitsy](https://1bitsquared.de/products/icebreaker-bitsy) (USB DFU). An iCE40UP5K board in the [Teensy form factor](https://www.pjrc.com/teensy/), programmed over USB DFU via a RISC-V soft bootloader (no FTDI). [Github](https://github.com/esden/icebreaker/tree/master/hardware/bitsy-v1.1a).
 
 * [iCE40 Feather (whatnick)](https://www.tindie.com/products/whatnick/ice40-feather/) - a compact iCE40UP5K learning board in Adafruit Feather form factor with USB-C programming (distinct from the joshajohnson iCE40-feather below).
 * [iCE40-feather](https://github.com/joshajohnson/iCE40-feather). Revision 0.2 was designed in 2021. **(outdated)**
@@ -129,12 +129,12 @@
 * [PicoStation3D](https://github.com/Wren6991/PicoStation3D). 3D games console based on RP2040 and iCE40 UP5k **(outdated)**
 * [reDIP SID](https://github.com/daglem/reDIP-SID). The reDIP SID provides a fully functional open source hardware platform for MOS 6581/8580 SID emulation. The reDIP SID also aims to be a good no-frills generic choice for FPGA projects which may find use for audio and/or 5V tolerant I/O - it should be ideal for for e.g. retro computer and synthesizer projects.
 * [S1 Module](https://github.com/siliconwitchery/s1-module-kicad-library). Nordic nRF52811 with BlueTooth,  Maxim MAX77654 PMIC Battery Management, 32-Mbit of on board Flash,  6x12 mm. [Web site](https://docs.siliconwitchery.com/s1-module/s1-module/). **(outdated)**
-* [SingularitySurfer](https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier): An FPGA Lock-In Amplifier **(outdated)**
-* [UPDuino v1.0](http://www.gnarlygrey.com/?i=1) (serial) **(outdated)**
-* [UPDuino v2.0](http://www.gnarlygrey.com/?i=1) (FTDI) **(outdated)**
+* [SingularitySurfer](https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier). An iCE40UP5K FPGA lock-in amplifier project. **(outdated)**
+* [UPDuino v1.0](http://www.gnarlygrey.com/?i=1) (Serial). An early low-cost iCE40UP5K board by gnarlyGrey. **(outdated)**
+* [UPDuino v2.0](http://www.gnarlygrey.com/?i=1) (FTDI). A low-cost iCE40UP5K board by gnarlyGrey. **(outdated)**
 * [UPDuino V3.1](https://github.com/tinyvision-ai-inc/UPduino-v3.0) FTDI FT232H and 4MB qSPI Flash. [WebSite](https://tinyvision.ai/products/fpga-development-board-upduino-v3-1) [Documentation](https://upduino.readthedocs.io/en/latest/).
-* [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM) **(outdated)**
-* [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system)
+* [Vision FPGA](https://github.com/tinyvision-ai-inc/Vision-FPGA-SoM) (FTDI). A 32MB-QSPI iCE40UP5K system-on-module for vision/edge AI by tinyvision.ai, programmed via the FT2232 on the dev board. **(outdated)**
+* [WebFPGA](https://www.kickstarter.com/projects/ryanmjacobs/webfpga-rapid-fpga-development-system) (STM32 / WebUSB). A rapid browser-based FPGA dev system; an on-board STM32F042 programs the iCE40UP5K over WebUSB.
 
 
 
@@ -150,25 +150,25 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 ## ECP5
 
 * [basic-ecp5-pcb](https://github.com/mattvenn/basic-ecp5-pcb). 6 PMODs + Raspberry Pi breakout. **(outdated)**
-* [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) [Github](https://github.com/gregdavill/ButterStick). SYZYGY + Eth.
+* [ButterStick](https://groupgets.com/products/butterstick-fpga-development-board) (JTAG / USB DFU). An ECP5 board with SYZYGY and Ethernet by Greg Davill. [Github](https://github.com/gregdavill/ButterStick).
 * [Darsena](https://mindchasers.com/dev/darsena-shield) -  the Private Island development board for FPGA-based open source networking **(outdated)**
 * [ECPIX-5](https://twitter.com/LambdaConcept) - sources to be released.  **(outdated)**
 * [ecp5-dev-board](https://github.com/medhyal/ecp5-dev-board) by medhyal - simple breakout board **(outdated)**
-* [ECP5-mini](https://github.com/joshajohnson/ecp5-mini). Interesting [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841). **(outdated)**
+* [ECP5-mini](https://github.com/joshajohnson/ecp5-mini) (USB DFU). A small ECP5 board by Josh Johnson programmed over a USB DFU bootloader. [writeup](https://www.hackster.io/news/josh-johnson-takes-us-back-to-black-mesa-labs-with-his-ecp5-fpga-development-board-4e2b22665841). **(outdated)**
 * [ECPIX-5](https://shop.lambdaconcept.com/home/46-1-ecpix-5.html) - a modern ECP5 development board from LambdaConcept. 
 * [EPIC Erebus](https://www.crowdsupply.com/securinghw/epic-erebus) - a compact M.2 ECP5 board built for PCIe research and DMA attacks that stays installed inside a laptop.
-* [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi).
-* [FUSBee5](https://hackaday.io/project/170694-fusbee5) - ft600 board **(outdated)**
+* [Flea Ohm](https://www.fleasystems.com/fleaFPGA_Ohm.html) (GPIO RPi). An ECP5 FleaFPGA board, Raspberry-Pi-friendly, by fleasystems.
+* [FUSBee5](https://hackaday.io/project/170694-fusbee5) (JTAG). An ECP5 + FT600 USB3 board; the FT600 is USB3 FIFO only, so an external JTAG adapter is used. **(outdated)**
 * [Icepi Zero](https://github.com/cheyao/icepi-zero) - ECP5 development board in a raspberry pi zero form . Includes an HDMI and uSD interface
 * [iCESugar-Pro](https://github.com/wuxx/icesugar-pro) - a DDR2-SODIMM-form-factor ECP5 (LFE5U-25F) board with 32MB SDRAM, ~106 IOs and an onboard debugger, supported by yosys/nextpnr.
-* [Kilsyth](https://hackaday.io/project/165380-kilsyth-ecp5-fpga-and-a-usb-30-fifo-bridge)  - ft600 board **(outdated)**
+* [Kilsyth](https://hackaday.io/project/165380-kilsyth-ecp5-fpga-and-a-usb-30-fifo-bridge) (JTAG). An ECP5 + FT600 USB 3.0 FIFO bridge board. **(outdated)**
 * [Konfekt](https://machdyne.com/product/konfekt-computer/) - Konfekt is a minimal ECP5 (LFE5U-12F) computer board by Lone Dynamics.
 * [Kopflos](https://machdyne.com/product/kopflos-computer/) - Kopflos is an FPGA-based headless computer designed as a personal server for running timeless applications on Linux.
-* [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Proprietary.
+* [Kondor AX](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/KONDORAX). Lattice's proprietary ECP5 development board. Proprietary.
 * [Lakritz](https://machdyne.com/product/lakritz-computer/) - Lakritz is a small ECP5 (LFE5U-25F) FPGA computer board by Lone Dynamics.
-* [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Proprietary.
+* [Lattice ECP5-5G dev board](https://www.latticesemi.com/en/Products/DevelopmentBoardsAndKits/ECP55GVersaDevKit). Lattice's ECP5-5G Versa evaluation board. Proprietary.
 * [LimeSDR Mini 2.0](https://www.clivemaxfield.com/goodbye-limesdr-mini-hello-limesdr-mini-2-0/). Boasting an LMS7002M FPRF from Lime and an ECP5 FPGA from Lattice, the LimeSDR Mini 2.0 platform will be ideal for developing logic intensive SDRs.
-* [LogicBone](https://github.com/oskirby/logicbone). LFE5UM5G-45F-8BG381C + 8Gb DDR3L. **(outdated)**
+* [LogicBone](https://github.com/oskirby/logicbone) (USB-C). An ECP5 (LFE5UM5G-45F) board with 8Gb DDR3L in a BeagleBone form factor; USB-C is used for power and programming (method unconfirmed). **(outdated)**
 * [LUNA](https://github.com/greatscottgadgets/luna). A USB multitool for monitoring, hacking, and developing USB devices (work in progress). [crowdsupply](https://www.crowdsupply.com/great-scott-gadgets/luna).
 * [Muselabs ECP5](https://www.aliexpress.com/item/1005001686186007.html)- Colorlight i5 module + a motherboard (6PMODs)
 * [NUT2NT+ ](https://www.crowdsupply.com/amungo-navigation/nut2nt-plus) NUT2NT+ is an open source, multi-frequency, multi-signal, front-end GNSS receiver board built around the NT1065 chip. It’s a low-power, low-cost, all-GNSS RF-to-bits receiver for satellite navigation enthusiasts. **(outdated)**
@@ -179,7 +179,7 @@ Sidenote: [iCE40-UP5K/pinout.json](https://raw.githubusercontent.com/FPGAwars/ic
 * [PicoFabric](https://www.tindie.com/products/picolemon/picofabric/) - a small ECP5 (LFE5U-12F) FPGA module for the Raspberry Pi Pico with dual HyperRAM and a VS Code toolchain. [Hardware](https://github.com/picolemon/picofabric-hardware).
 * [Schoko](https://machdyne.com/product/schoko-computer/) - Schoko is a compact ECP5 (LFE5U-45F) computer/dev board by Lone Dynamics with HDMI, USB and PMOD expansion.
 * [TrellisBoard](https://github.com/gatecat/TrellisBoard). Largest ECP5: LFE5UM5G-85F, 2 x PCIe 2.0, M.2, 1GByte DDR3L, HDMI, 1000BASE-T GbE, microSD, Dual PMOD. **(outdated)**
-* [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) by Radiona.org 
+* [ULX3S](https://www.crowdsupply.com/radiona/ulx3s) (ESP32) by Radiona.org - a popular open-hardware ECP5 board (LFE5U-12F/25F/45F/85F) with an on-board ESP32-WROOM-32 that adds WiFi/BT and can flash the FPGA over JTAG, even wirelessly ([esp32ecp5](https://github.com/emard/esp32ecp5)).
 * [ULX4M](https://github.com/intergalaktik/ULX4M_documents/tree/main/campaign). ULX4M is a modular version of the popular open hardware project ULX3S.
 
 
@@ -205,7 +205,7 @@ HX8K and ECP5 so far. (and now up5k!)
 ### HX8K
 
 * [Valve Index](https://www.ifixit.com/Guide/Valve+Index+Chip+ID/155948) - Valve's PC-VR headset uses iCE40HX8K FPGAs on the HMD and both controller handles for lighthouse sensor fusion.
-* [Vive HMD](https://tech.nikkeibp.co.jp/dm/atclen/news_en/15mk/050100551/). See teardown. **(outdated)**
+* [Vive HMD](https://tech.nikkeibp.co.jp/dm/atclen/news_en/15mk/050100551/). The original HTC Vive headset contains a Lattice FPGA (per teardown). **(outdated)**
 
 ### ECP5
 
@@ -235,7 +235,7 @@ HX8K and ECP5 so far. (and now up5k!)
 
 * [Apple iPhone 7 / 7 Plus](https://www.ifixit.com/Teardown/iPhone+7+Teardown/67382) - contains a Lattice iCE5LP4K (iCE40 Ultra) as an always-on sensor co-processor; the first FPGA in an iPhone (iFixit/Chipworks).
 * [Apple Vision Pro](https://www.ifixit.com/Guide/Apple+Vision+Pro+Chip+ID/169813) - Apple's spatial headset carries the same Lattice iCE5LP4K (iCE40 Ultra) on its logic board.
-* [DMM6500](https://xdevs.com/review/dmm6500/). ECP5 in the teardown.
+* [DMM6500](https://xdevs.com/review/dmm6500/). Keithley DMM6500 6½-digit bench multimeter with an ECP5 on the acquisition board (per teardown).
 * [Elgato Game Capture 4K60 Pro](https://gamersnexus.net/hwreviews/3272-elgato-4k60-pro-capture-card-review-pc-xbox) - PCIe 4K60 HDMI capture card using a Lattice MachXO3L (LCMXO3L-6900C) per the GamersNexus teardown.
 * [HPE ProLiant DL380T Gen10](https://www.servethehome.com/hpe-proliant-dl380t-gen10-trusted-supply-chain-server-teardown/3/)
 * [MHS5200A](https://sigrok.org/wiki/MHINSTEK_MHS-5200A) - though it seems a MACH XO2
@@ -246,6 +246,7 @@ HX8K and ECP5 so far. (and now up5k!)
 * @ryzerth and up5K https://twitter.com/ryzerth/status/1353099970635849728/photo/1
 * [$38 K210 AI Accelerator HAT](http://linuxgizmos.com/raspberry-pi-hat-combines-k210-ai-chip-with-trust-m-security/) contains a Lattice iCE40 (confirmed by the article; exact part not stated).
 * [Inogeni SDI2USB3](https://inogeni.com/product/sdi2usb3/) - SDI/HDMI-to-USB3 converter, likely a Lattice ECP3 (LFE3-17EA) per Lattice's reference design, but not yet confirmed by a teardown.
+* [Latticino](https://hackaday.io/project/171730-latticino-esp32fpga) (ESP32-PICO) - one of the smallest ESP32+FPGA boards (12.5 x 30 mm, DIL20), pairing an ESP32-PICO with a MachXO2-1200; the pairing is confirmed but the project looks dormant (~2020) and OSH files are unconfirmed.
 * [PixelFX Retro GEM](https://pixelfx.co/) - HDMI digital-video mod kits (N64/PS1/PS2/GameCube/Dreamcast); FPGA-based, but the vendor/part is not yet confirmed as Lattice.
 * AR smart glasses (Xreal / Rokid / RayNeo, etc.) - CrossLink-NX MIPI display bridging is plausible but unconfirmed by a teardown.
 

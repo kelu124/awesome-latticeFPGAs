@@ -1,0 +1,25 @@
+{
+  "name": "pi_smi_up5k",
+  "url": "https://github.com/braingram/pi_smi_up5k/blob/main/lattice_fpga_dev_board/lattice_fpga_dev_board_pcb.pdf",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "A Raspberry Pi HAT; the bitstream is sent over the Pi SPI/GPIO with a custom iceprog-like script (no on-board flash)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "Lattice iCE40 UP5K Raspberry Pi HAT designed for using the secondary memory interface (SMI).",
+  "links": [],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

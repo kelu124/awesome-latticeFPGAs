@@ -1,0 +1,28 @@
+{
+  "name": "ice-dip",
+  "url": "https://github.com/fvdhoef/ice-dip",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": "No FTDI/MCU/JTAG on board; likely a TinyFPGA-style USB bootloader with an 8Mbit SPI flash, but untested/unconfirmed."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "An iCE40 UltraPlus 5K board in a DIP-40 form factor with machined pin headers, intended for retro-computer designs.",
+  "links": [],
+  "tags": [
+    "dip",
+    "retro"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "picohx",
+  "url": "https://github.com/dan-rodrigues/pico-hx",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "Pico",
+    "details": "The Raspberry Pi Pico programs the FPGA over USB using a script included in the repo, then interacts with it using GPIO."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "dan-rodrigues",
+  "description": "Combines an iCE40 HX FPGA with the Raspberry Pi Pico. The Pico can program the FPGA over USB using a script included in this repo and then interact with it using GPIO.",
+  "links": [],
+  "tags": [
+    "pico",
+    "rp2040"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

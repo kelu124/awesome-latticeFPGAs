@@ -1,0 +1,25 @@
+{
+  "name": "Alchitry Cu",
+  "url": "https://alchitry.com/products/alchitry-cu-fpga-development-board",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "Programmed over an on-board FTDI USB interface."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Alchitry",
+  "description": "A compact iCE40HX8K board by Alchitry with castellated edges and stackable Element boards.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

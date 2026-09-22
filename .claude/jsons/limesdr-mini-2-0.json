@@ -1,0 +1,28 @@
+{
+  "name": "LimeSDR Mini 2.0",
+  "url": "https://www.clivemaxfield.com/goodbye-limesdr-mini-hello-limesdr-mini-2-0/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "Gateware is updated over USB (FT601) into the SPI flash via LimeSuite; a dedicated JTAG header is also present."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Lime Microsystems",
+  "description": "Boasting an LMS7002M FPRF from Lime and an ECP5 FPGA from Lattice, the LimeSDR Mini 2.0 platform will be ideal for developing logic intensive SDRs.",
+  "links": [],
+  "tags": [
+    "sdr",
+    "usb"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "NANDLand GoBoard",
+  "url": "https://www.nandland.com/goboard/introduction.html",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX1K"
+  },
+  "section": "HX1K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "NANDLand",
+  "description": "An iCE40HX1K learning board with VGA and two 7-segment displays, used in the NANDLand tutorials.",
+  "links": [],
+  "tags": [
+    "vga",
+    "education"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

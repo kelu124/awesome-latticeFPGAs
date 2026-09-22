@@ -1,0 +1,32 @@
+{
+  "name": "TinySDR",
+  "url": "https://deepai.org/publication/tinysdr-low-power-sdr-platform-for-over-the-air-programmable-iot-testbeds",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U-25F"
+  },
+  "section": "Other commercial products / ECP5",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Over-the-air programmable SDR platform."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "Low-power SDR platform for over-the-air programmable IoT testbeds (LFE5U-25F).",
+  "links": [
+    {
+      "label": "arXiv",
+      "url": "https://arxiv.org/abs/1907.02063"
+    }
+  ],
+  "tags": [
+    "sdr"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

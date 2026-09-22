@@ -1,0 +1,29 @@
+{
+  "name": "simpleFE",
+  "url": "https://www.crowdsupply.com/ning-wang/simplefe",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX1K"
+  },
+  "section": "HX1K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "Programmed over USB, most likely via an FTDI FT2232H doing SPI (typical of iCE40 boards)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Ning Wang",
+  "description": "A low-cost, open source, easy-to-use mixed-signal frontend built to serve as a versatile bridge, performing high speed analog-to-digital and digital-to-analog conversions.",
+  "links": [],
+  "tags": [
+    "adc",
+    "dac",
+    "mixed-signal"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

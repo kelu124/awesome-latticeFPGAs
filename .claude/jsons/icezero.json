@@ -1,0 +1,32 @@
+{
+  "name": "IceZero",
+  "url": "https://blackmesalabs.wordpress.com/2017/02/07/icezero-fpga-board-for-rasppi/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "Programmed over the Raspberry Pi GPIO header."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Black Mesa Labs",
+  "description": "An iCE40 HX4K FPGA board for the Raspberry Pi.",
+  "links": [
+    {
+      "label": "Shop",
+      "url": "https://shop.trenz-electronic.de/en/TE0876-02-Ice-Zero-with-Lattice-ICE-ICE40HX"
+    }
+  ],
+  "tags": [
+    "raspberry-pi"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

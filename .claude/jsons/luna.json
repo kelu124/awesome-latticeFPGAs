@@ -1,0 +1,32 @@
+{
+  "name": "LUNA",
+  "url": "https://github.com/greatscottgadgets/luna",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "The Apollo debug MCU (Microchip SAMD) configures the FPGA over JTAG; the Saturn-V DFU flashes the MCU, not the FPGA."
+  },
+  "companion_mcu": "Microchip SAMD",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Great Scott Gadgets",
+  "description": "A USB multitool for monitoring, hacking, and developing USB devices (work in progress).",
+  "links": [
+    {
+      "label": "crowdsupply",
+      "url": "https://www.crowdsupply.com/great-scott-gadgets/luna"
+    }
+  ],
+  "tags": [
+    "usb"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

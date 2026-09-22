@@ -1,0 +1,25 @@
+{
+  "name": "TinyFPGA BX",
+  "url": "https://www.crowdsupply.com/tinyfpga/tinyfpga-bx",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE40LP8K"
+  },
+  "section": "LP8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "Boots from SPI flash over USB; flashed with tinyprog over the USB serial bootloader."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "TinyFPGA",
+  "description": "A tiny open-source iCE40LP8K board programmed over USB with tinyprog, booting from SPI flash.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

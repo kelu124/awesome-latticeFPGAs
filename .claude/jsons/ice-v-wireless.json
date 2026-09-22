@@ -1,0 +1,27 @@
+{
+  "name": "ICE-V Wireless",
+  "url": "https://www.cnx-software.com/2022/06/27/ice-v-wireless-fpga-board-lattice-semi-ice40-fpga-wifi-ble-module/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "The on-board ESP32-C3 loads the iCE40 bitstream over SPI and can be updated over WiFi; also programmable over USB."
+  },
+  "companion_mcu": "ESP32-C3",
+  "connectivity": ["WiFi", "BLE"],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "QWERTY Embedded Design",
+  "description": "An iCE40 UltraPlus FPGA board that adds wireless connectivity through an ESP32-C3-MINI-1 module with WiFi 4 and Bluetooth LE.",
+  "links": [
+    { "label": "GitHub", "url": "https://github.com/ICE-V-Wireless/ICE-V-Wireless" }
+  ],
+  "tags": ["esp32", "wireless"],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "LogicBone",
+  "url": "https://github.com/oskirby/logicbone",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5UM5G-45F"
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": "The USB-C port is used for power and programming; the exact method is unconfirmed."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "oskirby",
+  "description": "An ECP5 (LFE5UM5G-45F) board with 8Gb DDR3L in a BeagleBone form factor; USB-C is used for power and programming (method unconfirmed).",
+  "links": [],
+  "tags": [
+    "ddr3"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "ICEd ESPresso",
+  "url": "https://twitter.com/cibomahto/status/1423609225503297537?t=OkZXMu2I1T0LrS-tYUs4mw&s=19",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "The on-board ESP32-S2 loads the iCE40 bitstream and can be updated over WiFi."
+  },
+  "companion_mcu": "ESP32-S2",
+  "connectivity": ["WiFi"],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Matt Mets (BlinkinLabs)",
+  "description": "A tiny, WiFi-enabled FPGA + microcontroller dev board pairing an iCE40 UltraPlus with an ESP32-S2, in roughly an Arduino Nano footprint.",
+  "links": [
+    { "label": "Hackster", "url": "https://www.hackster.io/news/the-iced-espresso-is-a-cool-refreshing-approach-to-working-with-two-of-our-favorite-chips-6ca50670b175" }
+  ],
+  "tags": ["esp32", "wireless"],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

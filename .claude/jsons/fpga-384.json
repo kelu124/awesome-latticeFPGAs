@@ -1,0 +1,38 @@
+{
+  "name": "FPGA-384",
+  "url": "https://www.siliconfrog.co.uk/cgibin/Pages/FPGA384.pl",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE40LP384"
+  },
+  "section": "LP384",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "Designed for Raspberry Pi and Arduino hosts; the Pi bit-bangs SPI to program the FPGA/flash."
+  },
+  "companion_mcu": "ATMega328",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "SiliconFrog",
+  "description": "FPGA-384 board by SiliconFrog, based on the iCE40LP384.",
+  "links": [
+    {
+      "label": "SW code on github",
+      "url": "https://github.com/siliconfrog/fpga-384"
+    },
+    {
+      "label": "esp32",
+      "url": "https://github.com/siliconfrog/fpga-esp32"
+    },
+    {
+      "label": "Shop",
+      "url": "https://www.tindie.com/products/siliconfrog/fpga-384/"
+    }
+  ],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

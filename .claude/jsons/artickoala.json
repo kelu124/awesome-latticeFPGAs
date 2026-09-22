@@ -1,0 +1,25 @@
+{
+  "name": "ArticKoala",
+  "url": "https://www.hackster.io/news/greg-davill-s-at-it-again-say-hello-to-the-arctickoala-1f7ecbfa10af",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "CrossLink-NX",
+    "part": "LIFCL-40"
+  },
+  "section": "CrossLink-NX",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "An on-board FT2232H does USB-JTAG to configure the LIFCL-40; a Winbond 25Q128 holds the config."
+  },
+  "companion_mcu": "FT2232H",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Greg Davill",
+  "description": "A LIFCL-40 CrossLink-NX based board by Greg Davill.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

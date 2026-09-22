@@ -1,0 +1,25 @@
+{
+  "name": "MiCE47",
+  "url": "https://hackaday.io/project/166109-mice47",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "The on-board NXP i.MXRT1021 (Cortex-M7) configures the FPGA."
+  },
+  "companion_mcu": "i.MXRT1021",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "MiCE47 pairs an NXP i.MXRT1021DAF5A with an iCE40HX8K.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

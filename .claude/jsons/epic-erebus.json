@@ -1,0 +1,31 @@
+{
+  "name": "EPIC Erebus",
+  "url": "https://www.crowdsupply.com/securinghw/epic-erebus",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "Programmed via an on-board FT2232 USB-JTAG (ecpprog/openFPGALoader)."
+  },
+  "companion_mcu": "FT2232",
+  "connectivity": [
+    "PCIe"
+  ],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "A compact M.2 ECP5 board built for PCIe research and DMA attacks that stays installed inside a laptop.",
+  "links": [],
+  "tags": [
+    "pcie",
+    "security",
+    "m2"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PicoStation3D",
+  "url": "https://github.com/Wren6991/PicoStation3D",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "RP2040",
+    "details": "No config flash; the RP2040 stores the bitstream and writes it into the FPGA's config memory at boot."
+  },
+  "companion_mcu": "RP2040",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "3D games console based on RP2040 and iCE40 UP5K.",
+  "links": [],
+  "tags": [
+    "pico"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "DIPSY",
+  "url": "https://hackaday.io/project/6592-dipsy",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraLite",
+    "part": "iCE40UL1K-SWG16"
+  },
+  "section": "UL1K",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "DIPSY, an iCE40 UltraLite (iCE40UL1K-SWG16) board.",
+  "links": [],
+  "tags": [],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

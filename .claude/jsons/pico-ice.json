@@ -1,0 +1,36 @@
+{
+  "name": "Pico ICE",
+  "url": "https://github.com/tinyvision-ai-inc/pico-ice",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "RP2040",
+    "details": "Drag-and-drop the FPGA bitfile via the on-board RP2040 over SPI; no dedicated programmer needed."
+  },
+  "companion_mcu": "RP2040",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "tinyvision-ai",
+  "description": "iCE40 UP5K trainer board with a Raspberry Pi RP2040, two 4MB SPI Flash chips and 8MB qSPI SSRAM.",
+  "links": [
+    {
+      "label": "Web site",
+      "url": "https://tinyvision.ai/products/pico-ice-fpga-trainer-board"
+    },
+    {
+      "label": "Documentation",
+      "url": "https://pico-ice.tinyvision.ai/"
+    }
+  ],
+  "tags": [
+    "pico"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

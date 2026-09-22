@@ -1,0 +1,27 @@
+{
+  "name": "DSP ICE",
+  "url": "https://github.com/tvelliott/dsp_ice",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "An on-board STM32F4 decompresses and transfers the FPGA config image at startup."
+  },
+  "companion_mcu": "STM32F4",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "DSP ICE was developed because other boards didn't have all the features desired. The ultimate goal is to develop an SDR with swappable analog/RF front-ends.",
+  "links": [],
+  "tags": [
+    "sdr"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

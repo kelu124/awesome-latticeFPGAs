@@ -1,0 +1,28 @@
+{
+  "name": "BeagleWire FPGA",
+  "url": "https://www.crowdsupply.com/qwerty-embedded-design/beaglewire",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "Programmed over the BeagleBone GPIO header (GPIO Beagleboard)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": 4,
+  "osh": true,
+  "maker": "QWERTY Embedded Design",
+  "description": "An iCE40 HX4K FPGA board that comes with 4 Pmods.",
+  "links": [],
+  "tags": [
+    "pmod",
+    "beaglebone"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,29 @@
+{
+  "name": "Graphics Gremlin",
+  "url": "https://github.com/schlae/graphics-gremlin",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "SPI-flash",
+    "details": "iceprog writes the on-board SPI flash via an external FT2232H module; the FPGA boots from flash."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "schlae",
+  "description": "An FPGA-based ISA video card specifically designed to emulate certain old video standards. This initial release emulates the original IBM PC monochrome graphics adapter (MDA) as well as the original IBM color graphics adapter (CGA). Since the logic is defined by the bitstream loaded into the FPGA, new emulations may be available in the future to support other video standards.",
+  "links": [],
+  "tags": [
+    "retro",
+    "isa",
+    "video"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

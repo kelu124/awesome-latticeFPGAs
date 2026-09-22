@@ -1,0 +1,27 @@
+{
+  "name": "iCEstick Evaluation Kit",
+  "url": "https://www.latticesemi.com/icestick",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX1K"
+  },
+  "section": "HX1K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "Programmed over an FTDI USB interface. Proprietary Lattice evaluation kit."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "latticesemi",
+  "description": "A Lattice iCE40 HX1K USB evaluation kit.",
+  "links": [],
+  "tags": [
+    "eval-kit"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

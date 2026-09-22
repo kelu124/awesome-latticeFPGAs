@@ -1,0 +1,28 @@
+{
+  "name": "iCEboy",
+  "url": "https://sourceforge.net/projects/iceboy/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "Runs on the iCE40-HX8K Breakout Board, whose on-board FT2232H bit-bangs SPI to program the FPGA."
+  },
+  "companion_mcu": "FT2232H",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "iCEboy breakout: the goal of this project is to implement a GameBoy in Verilog using the open source IceStorm tools for Lattice iCE40HX-8K FPGAs.",
+  "links": [],
+  "tags": [
+    "retro",
+    "breakout"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

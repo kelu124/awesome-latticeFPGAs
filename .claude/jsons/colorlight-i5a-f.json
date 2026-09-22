@@ -1,0 +1,27 @@
+{
+  "name": "Colorlight I5A-F",
+  "url": "https://www.aliexpress.com/item/32965503071.html?spm=a2g0o.productlist.0.0.264c5846mvNu3I&algo_pvid=298ad15b-e19a-4653-8bac-51ac2682746a&algo_expid=298ad15b-e19a-4653-8bac-51ac2682746a-0&btsid=773bcf40-222b-450f-805c-af72623f12e1&ws_ab_test=searchweb0_0,searchweb201602_10,searchweb201603_55",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "Other commercial products / ECP5",
+  "category": "commercial",
+  "programming": {
+    "interface": "JTAG",
+    "details": "Programmed via on-board JTAG pads; a HUB75 LED receiver card repurposed as an ECP5 dev board."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Colorlight",
+  "description": "Colorlight I5A-F ECP5 LED receiver card.",
+  "links": [],
+  "tags": [
+    "led-panel"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

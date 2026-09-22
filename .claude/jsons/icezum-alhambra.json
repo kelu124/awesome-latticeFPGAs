@@ -1,0 +1,25 @@
+{
+  "name": "iceZUM Alhambra",
+  "url": "https://alhambrabits.com/alhambra/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX1K"
+  },
+  "section": "HX1K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "AlhambraBits",
+  "description": "An Arduino-shaped open-source iCE40HX1K board by AlhambraBits/FPGAwars, using the Icestudio/apio toolchain.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

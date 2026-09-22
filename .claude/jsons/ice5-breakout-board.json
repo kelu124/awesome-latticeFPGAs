@@ -1,0 +1,27 @@
+{
+  "name": "ice5 Breakout Board",
+  "url": "http://ebrombaugh.studionebula.com/embedded/ice5_breakout/index.html",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE5LP4K"
+  },
+  "section": "LP4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Eric Brombaugh",
+  "description": "An iCE5LP4K (iCE40 UltraLite) breakout by ebrombaugh.",
+  "links": [],
+  "tags": [
+    "breakout"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

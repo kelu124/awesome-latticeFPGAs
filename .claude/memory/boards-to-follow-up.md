@@ -9,11 +9,13 @@ The `To follow up` section of `Readme.md` holds boards suspected — but not con
 Lattice FPGA. Resolving one means confirming the exact part (from a teardown/datasheet), then moving
 it into the matching family section per [[list-conventions]], or dropping it if refuted.
 
-Open as of 2026-09-21:
+Open as of 2026-09-22:
 - @ryzerth's UP5K board (X/Twitter sighting, unverifiable).
 - Inogeni SDI2USB3 (likely ECP3 LFE3-17EA per Lattice ref design; no teardown yet).
 - PixelFX Retro GEM HDMI mod kits (FPGA-based; vendor/part unconfirmed).
 - AR smart glasses (Xreal/Rokid/RayNeo) — CrossLink-NX MIPI bridging plausible, unconfirmed.
+- Latticino (MachXO2-1200 + ESP32-PICO, hackaday.io/project/171730) — pairing confirmed, but
+  the project looks dormant (~2020) and OSH design files are unconfirmed. Added to "To follow up".
 
 Confirmed & added 2026-09-21 (commercial teardown sweep):
 - SD2SNES → **ECP5** (samlittlewood/sd2snes_ecp5); in commercial ECP5 list.

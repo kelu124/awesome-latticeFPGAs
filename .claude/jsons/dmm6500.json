@@ -1,0 +1,28 @@
+{
+  "name": "DMM6500",
+  "url": "https://xdevs.com/review/dmm6500/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "Other commercial products / Others",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Keithley",
+  "description": "Keithley DMM6500 6½-digit bench multimeter with an ECP5 on the acquisition board (per teardown).",
+  "links": [],
+  "tags": [
+    "dmm",
+    "teardown"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

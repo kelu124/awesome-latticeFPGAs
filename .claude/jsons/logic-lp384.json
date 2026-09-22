@@ -1,0 +1,27 @@
+{
+  "name": "logic-lp384",
+  "url": "https://github.com/Agilack/pmod/tree/master/logic-lp384",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE40LP384"
+  },
+  "section": "LP384",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Agilack",
+  "description": "PMOD exposing a LP384, KiCad design.",
+  "links": [],
+  "tags": [
+    "pmod"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

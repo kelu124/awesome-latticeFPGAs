@@ -1,0 +1,27 @@
+{
+  "name": "Apple iPhone 7 / 7 Plus",
+  "url": "https://www.ifixit.com/Teardown/iPhone+7+Teardown/67382",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 Ultra",
+    "part": "iCE5LP4K"
+  },
+  "section": "Other commercial products / Others",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Apple",
+  "description": "Contains a Lattice iCE5LP4K (iCE40 Ultra) as an always-on sensor co-processor; the first FPGA in an iPhone (iFixit/Chipworks).",
+  "links": [],
+  "tags": [
+    "teardown"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

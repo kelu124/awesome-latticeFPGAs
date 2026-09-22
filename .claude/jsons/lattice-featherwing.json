@@ -1,0 +1,27 @@
+{
+  "name": "Lattice FeatherWing",
+  "url": "https://www.tindie.com/products/oakdevtech/lattice-featherwing-the-ice40-featherwing/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE5LP4K"
+  },
+  "section": "LP4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "microcontroller",
+    "details": "Configured over SPI directly by the host Adafruit Feather MCU; there is no on-board programmer."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Oak Dev Tech",
+  "description": "An FPGA add-on for Adafruit Feather boards bringing every iCE5LP4K pin to 0.1\" headers, controlled over SPI.",
+  "links": [],
+  "tags": [
+    "feather"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

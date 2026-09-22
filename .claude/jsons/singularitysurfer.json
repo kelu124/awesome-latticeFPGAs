@@ -1,0 +1,27 @@
+{
+  "name": "SingularitySurfer",
+  "url": "https://github.com/SingularitySurfer/SingularitySurfer-FPGA-Lock-In-Amplifier",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": null,
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": null,
+  "description": "An iCE40UP5K FPGA lock-in amplifier project.",
+  "links": [],
+  "tags": [
+    "lock-in"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,30 @@
+{
+  "name": "FUSBee5",
+  "url": "https://hackaday.io/project/170694-fusbee5",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "JTAG",
+    "details": "The FT600 is a USB3 FIFO and cannot configure the FPGA; use JTAG with an external adapter."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "USB3"
+  ],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "An ECP5 + FT600 USB3 board; the FT600 is USB3 FIFO only, so an external JTAG adapter is used.",
+  "links": [],
+  "tags": [
+    "usb",
+    "usb3"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

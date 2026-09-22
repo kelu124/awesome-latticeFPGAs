@@ -1,0 +1,28 @@
+{
+  "name": "CaribouLite",
+  "url": "https://github.com/cariboulabs/cariboulite",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE40LP1K"
+  },
+  "section": "LP1K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "GPIO RPi",
+    "details": "A Raspberry Pi HAT; the Pi configures the FPGA over SPI in under a second (Rev2 dropped the on-board flash as redundant)."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "CaribouLabs",
+  "description": "An open-source dual-channel SDR Raspberry Pi HAT (iCE40LP1K); the Pi configures the FPGA over SPI.",
+  "links": [],
+  "tags": [
+    "sdr",
+    "hat"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

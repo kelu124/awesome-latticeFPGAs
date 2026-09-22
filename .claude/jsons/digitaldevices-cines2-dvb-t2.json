@@ -1,0 +1,29 @@
+{
+  "name": "DigitalDevices CineS2 DVB-T2",
+  "url": "https://www.digital-devices.eu/shop/en/tv-cards/tv-cards-for-pcie/285/digital-devices-cine-s2-v7a-twin-tuner-tv-card-dvb-s/s2-pci-express",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "LatticeECP3",
+    "part": null
+  },
+  "section": "Other commercial products / LFE3",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "PCIe"
+  ],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Digital Devices",
+  "description": "Digital Devices CineS2 DVB-T2 PCIe TV tuner card.",
+  "links": [],
+  "tags": [
+    "pcie"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

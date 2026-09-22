@@ -1,0 +1,32 @@
+{
+  "name": "ice Bling",
+  "url": "https://electronut.in/ice-bling-making-led-earrings-with-an-fpga/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 UltraPlus",
+    "part": "iCE40UP5K"
+  },
+  "section": "UP5K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "SPI-flash config; programmed via a pogo-pin adapter and an FT232H board; the FPGA reads the flash at boot."
+  },
+  "companion_mcu": "FT232H",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Electronut Labs",
+  "description": "Beautiful LED earrings with Lattice iCE40.",
+  "links": [
+    {
+      "label": "GitLab",
+      "url": "https://gitlab.com/electronutlabs-public/ice-bling"
+    }
+  ],
+  "tags": [
+    "earrings"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Olimex iCE40HX1K-EVB",
+  "url": "https://www.olimex.com/Products/FPGA/iCE40/iCE40HX1K-EVB/open-source-hardware",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX1K"
+  },
+  "section": "HX1K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "Serial",
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Olimex",
+  "description": "An Olimex iCE40 HX1K evaluation board.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

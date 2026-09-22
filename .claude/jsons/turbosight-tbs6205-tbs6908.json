@@ -1,0 +1,34 @@
+{
+  "name": "Turbosight TBS6205 - TBS6908",
+  "url": "https://www.aliexpress.com/item/32612308360.html",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "LatticeECP3",
+    "part": "LFE3-17EA"
+  },
+  "section": "Other commercial products / LFE3",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [
+    "PCIe"
+  ],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Turbosight",
+  "description": "LFE3-17EA-based PCIe TV tuner cards (TBS6205 to TBS6908).",
+  "links": [
+    {
+      "label": "here",
+      "url": "https://dev.haiku-os.org/wiki/HardwareInfo/tuner/FPGA"
+    }
+  ],
+  "tags": [
+    "pcie"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

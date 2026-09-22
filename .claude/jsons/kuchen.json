@@ -1,0 +1,25 @@
+{
+  "name": "Kuchen",
+  "url": "https://github.com/machdyne/kuchen",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX8K"
+  },
+  "section": "HX8K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "Flash MMOD updated over USB-C with the USB DFU protocol; ISP/SPI header as secondary path."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Lone Dynamics",
+  "description": "Kuchen is an FPGA computer by Lone Dynamics based on the iCE40 HX8K, with schematics, PCB, pinouts and example gateware.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

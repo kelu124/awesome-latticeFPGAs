@@ -1,0 +1,28 @@
+{
+  "name": "Siglent SDS1000X",
+  "url": "https://www.eevblog.com/2015/09/23/eevblog-800-siglent-1000x-oscilloscope-teardown/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "MachXO",
+    "part": null
+  },
+  "section": "Other commercial products / Others",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Siglent",
+  "description": "The original SPO oscilloscope carries a Lattice MachXO FPGA on the acquisition board per the EEVblog #800 teardown; exact part not stated, and the later SDS1000X-E is Xilinx.",
+  "links": [],
+  "tags": [
+    "oscilloscope",
+    "teardown"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

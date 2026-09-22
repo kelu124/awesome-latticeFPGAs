@@ -1,0 +1,27 @@
+{
+  "name": "IcyBlue",
+  "url": "https://www.crowdsupply.com/oak-dev-tech/icyblue-fpga-feather",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 LP",
+    "part": "iCE5LP4K"
+  },
+  "section": "LP4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "A standard FTDI FT232H USB-FIFO loads the bitstream onto the 2MB SPI flash."
+  },
+  "companion_mcu": "FT232H",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "Oak Dev Tech",
+  "description": "IcyBlue FPGA Feather is a breadboard-friendly, battery-backed, intuitive platform for FPGA development using a Lattice iCE40 FPGA.",
+  "links": [],
+  "tags": [
+    "feather"
+  ],
+  "outdated": true,
+  "last_updated": "2026-09-22"
+}

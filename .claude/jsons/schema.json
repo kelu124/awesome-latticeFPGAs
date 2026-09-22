@@ -1,0 +1,57 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/kelu124/awesome-latticeFPGAs/data/schema.json",
+  "title": "Lattice FPGA board",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "url", "fpga", "section", "category", "programming", "description", "outdated", "last_updated"],
+  "properties": {
+    "name": { "type": "string" },
+    "last_updated": { "type": "string", "format": "date", "description": "ISO date (YYYY-MM-DD) this record was last updated/verified." },
+    "url": { "type": "string", "format": "uri" },
+    "fpga": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["vendor", "family", "part"],
+      "properties": {
+        "vendor": { "type": "string" },
+        "family": { "type": "string" },
+        "part": { "type": ["string", "null"] }
+      }
+    },
+    "section": { "type": "string" },
+    "category": { "type": "string", "enum": ["dev-board", "commercial", "badge", "follow-up"] },
+    "programming": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["interface", "details"],
+      "properties": {
+        "interface": {
+          "type": ["string", "null"],
+          "enum": ["FTDI", "JTAG", "USB-bootloader", "RP2040", "RP2350", "microcontroller", "Pico", "GPIO RPi", "Serial", "SPI-flash", "proprietary", null]
+        },
+        "details": { "type": ["string", "null"] }
+      }
+    },
+    "companion_mcu": { "type": ["string", "null"] },
+    "connectivity": { "type": "array", "items": { "type": "string" } },
+    "pmod_count": { "type": ["integer", "null"] },
+    "osh": { "type": ["boolean", "null"] },
+    "maker": { "type": ["string", "null"] },
+    "description": { "type": "string" },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["label", "url"],
+        "properties": {
+          "label": { "type": "string" },
+          "url": { "type": "string" }
+        }
+      }
+    },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "outdated": { "type": "boolean" }
+  }
+}

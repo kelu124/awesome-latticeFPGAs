@@ -1,0 +1,25 @@
+{
+  "name": "Lattice MachXO2-1200HC FPGA Core Board",
+  "url": "https://www.tindie.com/products/novasteptech/lattice-machxo2-1200hc-fpga-core-board/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "MachXO2",
+    "part": "LCMXO2-1200HC"
+  },
+  "section": "MachXO2",
+  "category": "dev-board",
+  "programming": {
+    "interface": "JTAG",
+    "details": "An on-board DAPLink (ARM Cortex-M) enumerates as a USB drive ('STEP FPGA'); copy a Diamond .jed to program over JTAG."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "A tiny LCMXO2-1200HC core module with an onboard USB programmer, UART, 14 GPIOs and 12 MHz clock.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

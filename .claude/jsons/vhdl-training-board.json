@@ -1,0 +1,27 @@
+{
+  "name": "VHDL Training Board",
+  "url": "https://www.tindie.com/products/microwavemont/vhdl-training-board-by-fpga/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "MachXO2",
+    "part": "LCMXO2-1200HC"
+  },
+  "section": "MachXO2",
+  "category": "dev-board",
+  "programming": {
+    "interface": "JTAG",
+    "details": "On-board USB programmer; no external JTAG needed, just a USB cable."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": null,
+  "description": "A LCMXO2-1200HC prototyping board aimed at VHDL learning.",
+  "links": [],
+  "tags": [
+    "training"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

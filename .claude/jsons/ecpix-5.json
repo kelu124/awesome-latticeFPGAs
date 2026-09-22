@@ -1,0 +1,25 @@
+{
+  "name": "ECPIX-5",
+  "url": "https://shop.lambdaconcept.com/home/46-1-ecpix-5.html",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": "A built-in FT2232H provides JTAG and a USB-serial interface."
+  },
+  "companion_mcu": "FT2232H",
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "LambdaConcept",
+  "description": "A modern ECP5 development board from LambdaConcept.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,27 @@
+{
+  "name": "PixelFX Retro GEM",
+  "url": "https://pixelfx.co/",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "Unknown",
+    "part": null
+  },
+  "section": "To follow up",
+  "category": "follow-up",
+  "programming": {
+    "interface": null,
+    "details": "FPGA-based, but the vendor/part is not yet confirmed as Lattice."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": null,
+  "maker": "PixelFX",
+  "description": "HDMI digital-video mod kits (N64/PS1/PS2/GameCube/Dreamcast); FPGA-based, but the vendor/part is not yet confirmed as Lattice.",
+  "links": [],
+  "tags": [
+    "retro"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

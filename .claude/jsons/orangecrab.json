@@ -1,0 +1,28 @@
+{
+  "name": "OrangeCrab",
+  "url": "https://github.com/gregdavill/OrangeCrab",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": null
+  },
+  "section": "ECP5",
+  "category": "dev-board",
+  "programming": {
+    "interface": "USB-bootloader",
+    "details": "Ships with the foboot DFU bootloader; bitstreams load over USB-C via dfu-util, with a 0.1\" JTAG breakout as alternative."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "Greg Davill",
+  "description": "ECP5 breakout board in a feather physical format.",
+  "links": [],
+  "tags": [
+    "breakout",
+    "feather"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

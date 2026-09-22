@@ -1,0 +1,25 @@
+{
+  "name": "MHS5200A",
+  "url": "https://sigrok.org/wiki/MHINSTEK_MHS-5200A",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "MachXO2",
+    "part": null
+  },
+  "section": "Other commercial products / Others",
+  "category": "commercial",
+  "programming": {
+    "interface": null,
+    "details": "Factory-programmed FPGA inside a shipping product; not user-programmable."
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "MHINSTEK",
+  "description": "MHINSTEK MHS-5200A signal generator; appears to use a Lattice MachXO2.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "Alhambra II",
+  "url": "https://github.com/FPGAwars/Alhambra-II-FPGA",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "iCE40 HX",
+    "part": "iCE40HX4K"
+  },
+  "section": "HX4K",
+  "category": "dev-board",
+  "programming": {
+    "interface": "FTDI",
+    "details": null
+  },
+  "companion_mcu": null,
+  "connectivity": [],
+  "pmod_count": null,
+  "osh": true,
+  "maker": "FPGAwars",
+  "description": "An open-source iCE40HX4K (usable as 8K) education board by FPGAwars, with PMODs.",
+  "links": [],
+  "tags": [],
+  "outdated": false,
+  "last_updated": "2026-09-22"
+}
