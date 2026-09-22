@@ -73,9 +73,16 @@ Every board in `Readme.md` also has a machine-readable record at `.claude/jsons/
 companion MCU, connectivity, OSH status, maker, links, tags and `last_updated`. The schema and
 field spec live in [`.claude/jsons/schema.json`](.claude/jsons/schema.json) and
 [`.claude/jsons/README.md`](.claude/jsons/README.md). `Readme.md` stays the canonical
-deliverable — **when you add or edit a board there, add/update its JSON too** so the two stay
-in sync (the `programming.interface` vocabulary documents how each board is configured:
-FTDI / JTAG / USB-bootloader / RP2040 / microcontroller / GPIO RPi / Serial / SPI-flash / …).
+deliverable; the `programming.interface` vocabulary documents how each board is configured
+(FTDI / JTAG / USB-bootloader / RP2040 / microcontroller / GPIO RPi / Serial / SPI-flash / …).
+
+**Two mandatory actions — always keep the list and the JSONs in sync:**
+
+1. **When `Readme.md` updates a product** (add / edit / remove), update the corresponding
+   `.claude/jsons/<slug>.json` in the same change (mirror name, url, section, description,
+   programming annotation and `outdated`; bump `last_updated`).
+2. **When a `.claude/jsons/*.json` is added or changed**, update `Readme.md` to match — place
+   the entry in the right family section, alphabetically, following the entry conventions above.
 
 ## Memory
 
