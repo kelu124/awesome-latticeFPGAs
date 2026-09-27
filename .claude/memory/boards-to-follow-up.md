@@ -23,6 +23,12 @@ Confirmed & added 2026-09-21 (commercial teardown sweep):
   Elgato Game Capture 4K60 Pro (MachXO3L), Magewell USB Capture Plus (ECP3+ECP5),
   Schlappi Three Body (ECP5), Siglent SDS1000X (MachXO, part unconfirmed).
 
+Confirmed & added 2026-09-27:
+- Mooncell C120 LED receiver card → **ECP5** (caBGA256 per ball rows A–T; USRMCLK in the
+  community LPF gist by captain-amygdala). Exact density (-12/-25/-45) unknown.
+- Mooncell C60 (same C10/C12/C40/C60/C120 range): FPGA vendor **not confirmed**. Vendor pages only say
+  "FPGA"; no teardown/pinout found. Likely ECP5 but needs a chip-marking photo. Not listed yet.
+
 Refuted 2026-09-21 (checked, NOT Lattice — don't chase again):
 - Funnyplaying FPGA kits & ModRetro Chromatic → **Gowin**.
 - Cheap HDMI-to-USB3 dongles → **MacroSilicon** MS2109/MS2130 ASIC.

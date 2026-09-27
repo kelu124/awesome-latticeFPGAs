@@ -220,6 +220,7 @@ HX8K and ECP5 so far. (and now up5k!)
 * [Full HD 1080P HDMI SDI Capture Card PCIe](https://www.aliexpress.com/item/32736346359.html?storeId=2349192&spm=a2g1y.12024536.productList_2412217.subject_3) - 136eur
 * [HPE ProLiant DL380T Gen10 Lattice FPGA](https://www.servethehome.com/hpe-proliant-dl380t-gen10-trusted-supply-chain-server-teardown/hpe-proliant-dl380t-gen10-lattice-fpga/) server
 * [Magewell USB Capture Plus](https://www.magewell.com/products/usb-capture-plus-family) - USB 3.0 HDMI/SDI/DVI capture dongles doing onboard scaling/deinterlacing/color conversion on Lattice ECP3 (LFE3) + ECP5 FPGAs (confirmed by Lattice).
+* [Mooncell C120](https://gist.github.com/captain-amygdala/3363982b0a490890fb725c528a119bb5) - a dual-GbE LED receiver card (ECP5, caBGA256, SDRAM) with a community LPF pinout for use as an ECP5 dev board.
 * [NUT2NT+](https://www.crowdsupply.com/amungo-navigation/nut2nt-plus). Four-channel, all-frequency, GNSS RF-to-bits receiver for precision, satellite-based positioning.
 * [Schlappi Engineering Three Body](https://schlappiengineering.com/products/three-body) - a Eurorack triple oscillator for FM/phase-modulation synthesis, built on a Lattice ECP5 with the open Yosys/nextpnr toolchain.
 * [SD2SNES (ECP5)](https://github.com/samlittlewood/sd2snes_ecp5) - @samlittlewood's ECP5-based reboot of the sd2snes SNES flash cartridge.

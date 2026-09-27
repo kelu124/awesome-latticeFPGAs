@@ -1,0 +1,36 @@
+{
+  "name": "Mooncell C120",
+  "url": "https://gist.github.com/captain-amygdala/3363982b0a490890fb725c528a119bb5",
+  "fpga": {
+    "vendor": "Lattice",
+    "family": "ECP5",
+    "part": "LFE5U (caBGA256, density unconfirmed)",
+    "source": "repo",
+    "confidence": "confirmed"
+  },
+  "section": "Other commercial products / ECP5",
+  "category": "commercial",
+  "programming": {
+    "interface": "JTAG",
+    "details": "LED receiver card repurposed as an ECP5 dev board; config from SPI flash (USRMCLK), pinout reverse-engineered by Claude Schwarz."
+  },
+  "companion_mcu": [],
+  "connectivity": [
+    "Ethernet"
+  ],
+  "pmod_count": null,
+  "osh": false,
+  "maker": "Shenzhen Mooncell Electronics",
+  "description": "A dual-GbE LED receiver card (ECP5, caBGA256, SDRAM) with a community LPF pinout for use as an ECP5 dev board.",
+  "links": [
+    "https://www.mooncelltech.com/product/9.html"
+  ],
+  "tags": [
+    "led-panel"
+  ],
+  "outdated": false,
+  "last_updated": "2026-09-27",
+  "toolchain": "open",
+  "form_factor": null,
+  "repo": null
+}
